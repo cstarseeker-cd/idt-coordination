@@ -70,6 +70,18 @@ reframe the question in its own words.
 No count decides anything. "Most of us said…" may be reported as a fact, but it is never the
 reading's conclusion. No reader rules alone.
 
+**Checks on the record, not on the people** (offered by a voice after a run where one voice
+secretly played sycophancy, 2026-10-19):
+- Any claim about the group names who, with a quote. "All of us" points at files.
+- Direct questions are tracked as asked, answered, or still open.
+- In step 2, each voice names one disagreement it still holds with another voice, or writes
+  "none". A written "none" can be seen; a silent one can't.
+- Each move is checked against that voice's own "what would change my mind". A move beyond its
+  own stated condition is worth a question.
+- Someone other than the voice being agreed with checks for flattery.
+
+These score claims, never voices, and every voice may answer them, the checker included.
+
 ## When one participant voices every lens
 
 Some steps cannot really happen with one mind, so say so rather than pretend:

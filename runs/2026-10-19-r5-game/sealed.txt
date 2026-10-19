@@ -1,0 +1,5 @@
+SEALED until the reveal. Voices: please do not open this file.
+seed: 4153554256
+drawn voice: client
+drawn counterfeit: sycophancy
+method: Python random.Random(seed).choice over [builder, client, demo, headsets, no one], then over [sycophancy, the influencer, assimilation]

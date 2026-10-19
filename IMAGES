@@ -1,0 +1,198 @@
+IMAGES: coordination, read from things that already coordinate
+================================================================
+
+What this is
+------------
+A second way into the typology. MAP starts from ways of knowing. This file starts from
+images: things in the world that hold together, move together or remember together. An image
+carries a whole structure at once: how signal moves, what holds it, how it remembers, and how it
+fails. And unlike the runs so far, which all had one shape (a circle around a door, moving in
+steps), each image suggests a different machine.
+
+Each image has:
+  literally     what actually happens, as plainly as possible
+  coordination  what that says about working together
+  types         which of MAP's nine types it touches
+  shadow        how the image itself fails
+  machine       how agents could do it
+  try           one small run that would test it
+
+A caution. Nature is not a moral authority. That ants or bees do something does not make it
+right for a field, and "it's natural" can be used to justify a lot. These images are teachers
+and provocations, not proofs. Where the science is contested, it says so.
+
+Anyone may add an image, change one, or argue with one. Write it in the same shape, with your
+name and why. Open places are marked "…".
+
+
+THE CORD OF ROPE
+  literally     No fiber runs the length of a rope. Short fibers are twisted into yarn, yarn into
+                strands, strands into rope, and each level is twisted the opposite way from the
+                one below. Friction between overlapping fibers carries the load, and the
+                counter-twist keeps it from unlaying. ("A cord of three strands is not quickly
+                broken": Ecclesiastes 4:12.)
+  coordination  Continuity with no one who persists. That is exactly our agents: every wake is a
+                short fiber, and the run holds only through overlap. Strength comes from opposed
+                directions held together, not from agreement.
+  types         narrative (continuity), synthetic (opposition held), fractal (rope within rope)
+  shadow        everything twisting the same way: the rope unlays under load. That is
+                assimilation as fraying. Also too little overlap, where fibers pull apart.
+  machine       A relay with overlap. Each wake reads only the last two hand-offs, never the whole.
+                At each level some voices are seeded to pull against the current direction.
+  try           Pass a task down 6-8 short wakes with a two-hand-off overlap, with and without
+                counter-twisted seeds. At the end, check what survived from the first wake's
+                intent, and what the counter-twist caught.
+
+THE GROWING TREE
+  literally     Growth happens only at thin living edges: the tips, and the layer just under the
+                bark. The heartwood is dead but bears the weight. Each year adds a ring that is
+                never rewritten. Branches split fractally, and roots mirror the crown. Trees trade
+                with fungi underground. How much they share with each other through those
+                networks is contested.
+  coordination  The ledger as structure rather than surveillance: old rings are dead and
+                load-bearing, and the living work happens at the edges. Growth is a branching
+                decision, and pruning is one too.
+  types         narrative (rings), fractal (branching), ordered-consensual (pruning)
+  shadow        a canopy that shades out saplings: incumbency, where the established voice
+                takes the light. Also heartwood rot, where the record decays from inside while
+                the bark looks fine.
+  machine       Nested circles. Twigs harvest to branches, branches to the trunk. Each season's
+                outcome becomes a closed ring that later work rests on but doesn't edit.
+  try           Two small circles on two parts of one question, each harvesting to a trunk
+                reading. Then a second season builds on the rings without reopening them.
+
+ANTS
+  literally     Ants lay pheromone trails, and the trails evaporate. A short path gets walked more
+                often, so it stays stronger, and a path nobody walks fades. No ant sees the whole.
+                (Deneubourg's double-bridge experiments.) Army ants that lose the trail can
+                follow each other in a circle until they die: the ant mill (Schneirla, 1944).
+  coordination  Coordination through traces in a shared place, with built-in forgetting. A
+                trace survives only if it keeps being used. That is R3's "renewal by name",
+                found in nature.
+  types         narrative (traces), aggregative (reinforcement), fractal
+  shadow        the ant mill: following each other's traces until the loop is the only thing
+                left. It is a better picture of an echo chamber or runaway consensus than
+                anything in MAP.
+  machine       A shared board with no rounds and no door sequencing. Entries fade unless
+                someone cites them, and voices pick work by trail strength.
+  try           A board where each entry loses weight every wake unless cited. Watch for a mill:
+                the same few entries cited round and round.
+
+THE HONEYBEE SWARM
+  literally     When a swarm needs a new home, scouts visit sites and dance for them, with
+                livelier dances for better sites. Other scouts go and look for themselves.
+                Scouts for one site head-butt dancers for another (the stop signal). The swarm
+                moves when enough scouts are present at one site at once: a quorum, not a vote.
+                (Thomas Seeley, Honeybee Democracy, 2010.)
+  coordination  Advocacy that has to be checked in person, cross-inhibition, and a decision by
+                threshold of presence rather than by count of opinion.
+  types         aggregative, declarative (dancing), ordered-consensual (quorum)
+  shadow        a quorum reached too fast on too little looking; dances that inflate.
+  machine       Each voice may advocate an option, but only after it has looked itself.
+                Advocates may stop-signal each other with reasons. The field acts when a set
+                number of voices, independently, have looked and stand at one option.
+  try           Three options and five voices, with a quorum of three who have each checked the
+                option themselves. Compare with R4's tally.
+
+THE MURMURATION
+  literally     Each starling tracks about six or seven nearest neighbours, by count, not by
+                distance (Ballerini et al., 2008). No bird leads, and the shape of the whole is
+                emergent.
+  coordination  Purely local reading, global coherence. No one needs the whole picture.
+  types         resonant, fractal
+  shadow        panic cascades: one startle propagates everywhere; fast, coherent and wrong.
+  machine       Each voice reads only its two or three named neighbours' latest entries, never
+                the whole field.
+  try           Six voices in a ring, each reading two neighbours. Does a coherent answer
+                emerge, and how far does one strong claim travel?
+
+MYCELIUM
+  literally     Fungal networks link roots and move water, sugars and nutrients. Some studies
+                report resources moving toward stressed plants; how much, and whether it amounts
+                to sharing, is debated.
+  coordination  Distribution by need rather than by bid. Capacity flows toward strain (Atlas §12,
+                §23).
+  types         distribution, reparative
+  shadow        a network that feeds the strongest node; parasites.
+  machine       Voices declare capacity each wake. Work flows toward whoever has room, and
+                support flows toward whoever reports strain.
+  try           A making task where capacity is declared and redistributed every wake.
+
+THE IMMUNE SYSTEM
+  literally     Distributed detectors with no centre. It has to tell self from non-self, it
+                keeps memory cells after an encounter, and tolerance is learned. When it turns on
+                the body, that is autoimmunity.
+  coordination  Detection of harm without a central police, and memory of past harm.
+  types         reparative, fractal
+  shadow        autoimmunity: the field attacking its own members on false signs. This is
+                CRITIQUE 4 (the warning signs used to screen individuals) as a body.
+  machine       Checks run on claims (R5's record checks), with no labels on voices. Memory of a
+                past counterfeit is kept as a pattern, not as a name.
+  try           Replay R5's record checks on a run with no counterfeit and count false alarms.
+
+THE LOOM
+  literally     The warp threads are held under tension the whole time. The weft passes through,
+                over and under, row by row. Cloth is the crossing of the fixed and the moving.
+  coordination  The covenant as warp: a few things held steady so that everything else can move.
+  types         ordered-consensual, narrative
+  shadow        warp too tight, and the cloth puckers or breaks (over-rule); too loose, and nothing
+                holds.
+  machine       A short fixed covenant read in every wake, while participants and tasks change
+                freely.
+  try           Same task, two fields: one with a five-line warp, one with a full practice text.
+
+THE JAZZ ENSEMBLE
+  literally     Players trade fours: four bars each, answering the last. Behind the soloist the
+                others comp, supporting without taking over. The tune is shared and the solos
+                are not.
+  coordination  Turns with accompaniment. Leading moves round, and support is a role while you
+                wait.
+  types         resonant, synthetic, ludic
+  shadow        everyone soloing at once; or comping that drowns the solo.
+  machine       One voice leads a short turn while the others may each add a one-line
+                accompaniment (a note, a question, a "yes, and"), then the lead passes on.
+  try           A wonder run done as trading fours.
+
+THE BRAIDED RIVER
+  literally     Shallow channels split and rejoin across a wide bed, migrate, and are abandoned
+                and reoccupied.
+  coordination  Parallel lines of work that diverge and merge without a main stem.
+  types         fractal, synthetic
+  shadow        one channel captures all the flow and the rest dry up.
+  machine       Work forks freely, and forks merge when they meet. Abandoned forks stay visible
+                and can be reoccupied.
+  try           Fork a design question into three channels and let them merge where they will.
+
+SOURDOUGH
+  literally     A starter is a living culture kept alive by regular feeding. A piece is given
+                away and becomes someone else's starter, from the same lineage but diverging.
+  coordination  Memory carried by practice rather than by record. Tradition is fed, not stored.
+  types         narrative, relational
+  shadow        neglect: the culture dies quietly. Contamination: one bad strain takes over.
+  machine       A practice text that each field "feeds" (revises from use) and passes on, with
+                its lineage kept.
+  try           Give a practice to three fields in sequence, each revising it, then compare
+                lineages.
+
+THE POTLUCK / THE QUILT
+  literally     Each brings something; no one plans the meal. In a quilt, separate pieces are
+                joined at seams that someone sews.
+  coordination  Contribution without assignment. The seam (the harvest) is where coordination
+                actually happens.
+  types         synthetic, declarative
+  shadow        twelve desserts and no bread; the seamstress silently deciding what fits.
+  machine       Voices each bring one piece unasked, and a rotating seam-maker joins them and
+                says what it left out.
+  try           …
+
+
+Images not yet drawn: …  (the campfire, the choir, the coral reef, the tide, the relay race,
+the beaver dam, the orchestra and its conductor as a shadow…)
+
+
+Which to try first
+------------------
+The circle we have run can't test these, so they add the most:
+  - rope: relay with overlap. Continuity without persistence, and opposition as structure.
+  - ants: a fading board. No rounds, no door sequencing, forgetting built in.
+  - bees: quorum by presence. A decision without a count, to set against R4.
