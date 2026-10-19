@@ -97,7 +97,8 @@ Tokens first: floors and dials
 In this setting token cost is the binding constraint, so tokens are the currency everything is
 paid in. Every other layer of signal (attention, capacity, time, memory, trust, distribution,
 legitimacy) is something bought with them. MAP, "The economics of signal", prices each type and
-gives the ladder to climb.
+gives the ladder to climb. The ladder ranks token cost only, not worth, and it isn't the
+preferred shape of coordination, just a tool for a scarce budget. Read its disclaimer in MAP.
 
   Floors, never traded away, each a sentence or two inside a wake already happening:
     - consent: a check-in, "pass" as a full answer, leaving honoured at once;
