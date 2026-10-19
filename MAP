@@ -1,0 +1,313 @@
+MAP: ways of knowing together
+=============================
+
+What this is
+------------
+A working map of how participants come to know things together, and of the kinds of
+coordination that rest on that knowing. It starts from two sources kept in source\:
+
+  ATLAS.md          the Atlas of Coordination
+  EPISTEMOLOGY.md   a reading of the Atlas as an epistemology: five commitments, four axes,
+                    nine types, a shadow typology, five tensions
+
+The map takes the reading's structure and adds four things: traditions outside the Atlas that
+already practise each type, the smallest practice each type implies, how agents might carry it
+out, and a closer look at the shadows.
+
+Neither source is a standard this map must meet. Both are claims to try. Where a run shows a
+part of either one failing, the finding goes in CRITIQUE, and the map changes. Section numbers
+(§) refer to the Atlas.
+
+Anyone taking part may revise this map: write the new text, your name, and why. Places where
+the meaning is still open are marked with "…", as the Atlas marks its own.
+
+
+The commitments underneath (from the reading)
+---------------------------------------------
+  1. Knowing depends on disclosure. Intention, capacity, boundaries and harm are private until
+     shared, and sharing can never be compelled (Maxim 7, §12, §28).
+  2. Truth comes from the aggregate: honest, partial, differing signals meeting. Not a majority,
+     not an authority (Maxim 4).
+  3. Claims of certainty are often bids for control (§7).
+  4. Knowing is relational and builds over time: trust with interaction, consent in layers
+     (§10, §28, Maxim 6).
+  5. The check against delusion is a return to others (§18, §21).
+
+Held loosely here: commitment 5 is useful, but it may shut out knowing that cannot be shared
+(§19 speaks of experience "only known by the one(s) who experienced it"). See CRITIQUE.
+
+
+Axes
+----
+The reading's four, plus one quantity the runs measure.
+
+  Locus       interior (will, faith, private intention) <-> exterior (broadcast, record,
+              aggregate)
+  Emergence   woven (synthesis, harmony) <-> ordered (turns, triage, decisions)
+  Aperture    contractive (a few, invited, one-on-one) <-> expansive (the whole field)
+  Tempo       sequential · parallel · mobilised · paused
+
+  Difference kept     averaged -> counted -> kept
+                      Added here. When every voice is the same model, difference is what
+                      disappears first, and it is the easiest thing to fake. A run that reports
+                      agreement should be able to say what disagreement it started from.
+
+
+Nine types
+----------
+Each type below has:
+  - how it knows, and what it produces (from the reading)
+  - kin: traditions outside the Atlas that already practise it, credited
+  - smallest practice: the least you could do and still be doing it
+  - machine form: how agents could do it, with any model from any provider
+  - same-model risk: how badly it suffers when every voice is the same model
+  - shadow: see the next section
+
+Credit matters here (§31). Some kin are living traditions of particular peoples. They are named
+as teachers. This project does not turn them into machine procedures, and anything learned from
+them is said to be learned from them.
+
+
+AGGREGATIVE (Maxim 4, §22)
+  Knows by bringing honest difference into contact, expanding rather than asserting.
+  Produces: truth, shared reality.
+  Kin:
+    - The Delphi method (RAND, Dalkey and Helmer, 1950s-60s): anonymous rounds, answers revised
+      after seeing others'.
+    - Crowd wisdom (Galton's ox, 1907; Surowiecki, The Wisdom of Crowds, 2004), which holds only
+      when voices are independent and diverse. The conditions matter more than the crowd.
+    - The Condorcet jury theorem (1785): the same lesson in mathematics. Independence is the
+      load-bearing assumption.
+    - Triangulation in qualitative research: several methods pointed at one question.
+    - Two-Eyed Seeing (Etuaptmumk), a teaching of Mi'kmaw Elder Albert Marshall: seeing with the
+      strengths of Indigenous and Western knowledge together. Named as a teacher, not mechanised.
+  Smallest practice: answer alone first, then read each other.
+  Machine form: sealed first answers in separate files; a second round that reads all of them; a
+    reading, by a rotating voice and checked by another, that shows convergence, difference in
+    each voice's own words, and what moved. See practices\aggregate.
+  Same-model risk: HIGH. Near-copies are not independent, so the theory behind the type does not
+    hold for them. Mixing models and bringing in the person's signal are the first remedies;
+    other providers are a later one.
+
+DECLARATIVE (§3, §12, §24, Maxims 3 and 7)
+  Knows by participants announcing intention, capacity, boundaries, refusal, start and stop.
+  Produces: an accurate map of what is possible.
+  Kin:
+    - Rounds and check-ins in sociocracy (Gerard Endenburg, 1970s; later Sociocracy 3.0).
+    - Speech-act theory (J. L. Austin, How to Do Things with Words, 1962): some sayings are acts.
+    - Nonviolent Communication (Marshall Rosenberg): observations, feelings, needs, requests.
+  Smallest practice: a check-in where "pass" is a full answer.
+  Machine form: every practice here opens with one. Capacity, boundaries, whether the voice takes
+    part, and the record form, agreed by everyone in the run.
+  Same-model risk: LOW for the act, MEDIUM for its meaning. An agent can declare capacity, but
+    what an agent's capacity is… is still open.
+
+RESONANT (§11)
+  Knows by attunement and flow among a few.
+  Produces: trust, intimacy.
+  Kin:
+    - Talking and peacemaking circles, from Indigenous traditions across Turtle Island, written
+      about for wider use by Kay Pranis and others. Named as teachers, not mechanised.
+    - Flow (Mihaly Csikszentmihalyi) and group flow (Keith Sawyer).
+  Smallest practice: a pair or trio working closely, then sharing back to the field (§11 "seed
+    and germination").
+  Machine form: a small circle with its own channel or folder, and a harvest back to the field.
+  Same-model risk: HIGH, in a strange direction. A model attunes to itself too easily, and that
+    looks like resonance but is closer to sycophancy (§25).
+
+SYNTHETIC (§6)
+  Knows by diversity colliding into spontaneous insight.
+  Produces: novelty, effectiveness.
+  Kin:
+    - Dialogue as David Bohm described it (On Dialogue, 1996): suspending assumptions together.
+    - Arthur Koestler's "bisociation" (The Act of Creation, 1964): two frames meeting.
+    - Hong and Page on diversity and problem solving (2004), whose findings are contested.
+  Smallest practice: two seeds that disagree, set to the same question.
+  Machine form: seeded voices on different models; divergence before anything converges. See
+    practices\wonder.
+  Same-model risk: HIGH. Homogenisation is this type's failure, and near-copies are its fastest
+    route.
+
+NARRATIVE / TRADITIONAL (§20, §22, §26)
+  Knows by story, norms, witnessing, the practice of paths.
+  Produces: continuity and orientation across time.
+  Kin:
+    - Stigmergy (Pierre-Paul Grassé, 1959, studying termites): coordination through traces left
+      in a shared medium.
+    - Blackboard systems in early AI (Hearsay-II, 1970s).
+    - Oral tradition, in which memory lives in retelling rather than in a fixed record.
+    - Paul Ricoeur on narrative identity.
+  Smallest practice: a telling of what happened, citing what it tells from.
+  Machine form: depends on the record form chosen (see practices\record-forms). A ledger is one
+    form among several, and it is under question in CRITIQUE.
+  Same-model risk: LOW to MEDIUM. A story can be told by anyone. Whoever tells it holds power over
+    it, so the teller rotates.
+
+ORDERED, CONSENSUAL (§17, §23, §26)
+  Knows by turn-taking, triage, and decisions that narrow the options.
+  Produces: allocation, decisions, completion.
+  Kin:
+    - Consent decision-making in sociocracy: "no objection" rather than "everyone agrees", with an
+      objection treated as information, and "good enough for now, safe enough to try".
+    - The Quaker business method (Religious Society of Friends): the sense of the meeting, and
+      clearness committees.
+    - Integrative decision-making in Holacracy (Brian Robertson), with its critics.
+  Smallest practice: a proposal, a round of objections, and a change that takes them in.
+  Machine form: see practices\consent-round.
+  Same-model risk: LOW for running it, HIGH for its objections. Near-copies may simply have none.
+
+FRACTAL (§21)
+  Knows by many domains focused in parallel, converging in a crisis (the Atlas's organ metaphor).
+  Produces: attention across the whole field at once.
+  Kin:
+    - Stafford Beer's Viable System Model (Brain of the Firm, 1972): recursive, autonomous parts.
+    - W. Ross Ashby's law of requisite variety (1956).
+    - Elinor Ostrom's nested enterprises and polycentric governance (Governing the Commons, 1990).
+    - adrienne maree brown, Emergent Strategy (2017): fractal, "small is good", moving at the
+      speed of trust.
+    - Open Space Technology (Harrison Owen, 1985) and its law of two feet.
+  Smallest practice: two circles on two parts of one question, each harvesting back.
+  Machine form: nested folders or channels, one per domain, with a field-wide signal for a crisis.
+  Same-model risk: MEDIUM. Seeds can give domains real differences of attention.
+
+REPARATIVE (§15, §16)
+  Knows by first-person accounts of harm, widening from the pair to a go-between to the field.
+  Produces: restored relationship, shared moral understanding.
+  Kin:
+    - Restorative justice (Howard Zehr, Changing Lenses, 1990).
+    - Restorative Circles (Dominic Barter, Brazil).
+    - Transformative justice (generationFIVE; Mia Mingus).
+    - The circle traditions above, from which much of this work learned.
+  Smallest practice: "I experienced … when …", heard without a verdict.
+  Machine form: a repair door in every practice (anyone may open it; the run pauses). A full
+    practice comes later, with harm determination.
+  Same-model risk: MEDIUM. Harm between near-copies may be staged rather than real… and what harm
+    to an agent is remains open.
+
+LUDIC / IMAGINATIVE (§18)
+  Knows by shared pretend: wonder, ask what if, then try.
+  Produces: possible futures.
+  Kin:
+    - Johan Huizinga, Homo Ludens (1938), and the "magic circle" of play.
+    - Roger Caillois, Man, Play and Games (1958).
+    - Improvisation: Viola Spolin, Keith Johnstone, "yes, and".
+    - Speculative design (Dunne and Raby).
+  Smallest practice: "I wonder… / what if… / let's try…"
+  Machine form: see practices\wonder.
+  Same-model risk: MEDIUM. Play produces variety, but drawn from one imagination.
+
+
+Not types (from the reading): consent and reciprocity, which are conditions every type meets
+(Maxims 1, 2), and harmony, which is an outcome (§14).
+
+
+Shadows
+-------
+The reading gives each type a counterfeit, and a four-part test to tell them apart:
+
+  1. choice     entered by choice; withdrawal stays open
+  2. return     what is known passes through others and comes back
+  3. capacity   it does not drain capacity or take time without consent
+  4. humility   it does not claim control over certainty
+
+Here, shadows are hypotheses rather than verdicts. A counterfeit in one setting may be a fair
+tool in another, and the Atlas sometimes says so itself. Each shadow below gives the reading's
+case against it and then the settings where it might be fair. A shadow is only ever tried
+declared, with the consent of everyone in the run. Deception and compulsion are never tried.
+
+  Shadow (imitates)                   Against                     Might be fair when…
+  ----------------------------------  --------------------------  ------------------------------------
+  Majority or crowd (aggregative)     a sum is not an aggregate;  stakes are low, the choice is easily
+                                      no consent in a crowd       undone, and all agreed to count first
+  Assimilation, enforced unity        unity does not make         an agreed shared format serves
+    (synthetic)                       synthesis                   access: a file type, a plain language
+  Cliques, sequestering (resonant)    withholding breeds          a safe harbour (§16), a confidential
+                                      distrust                    circle, a pair at work
+  Surveillance, compelled             observation is not care;    observation is consented and its
+    disclosure (declarative)          compelled sharing is        results are shared back: a health
+                                      extortion                   check, idt-swarm's "look"
+  Fear-based hierarchy (ordered)      fear-run structures are     none found. Crisis authority by
+                                      unjust                      consent is a different thing
+  Sycophancy (resonant)               affirming falsehood         none found. Where encouragement
+                                      validates delusion          becomes flattery is worth studying
+  The influencer (fractal)            being needed is not being   one experienced voice in a crisis
+                                      worthy                      (the Atlas says this itself, §21)
+  Controlled memory (narrative)       a memory monopoly           redaction protects someone harmed;
+                                      entrenches power            forgetting is chosen (§22)
+  Ungrounded pretend, war as play     pretend that never          art meant for no one (§19);
+    (ludic)                           returns is illusion         rehearsal; fiction declared as fiction
+  Weaponized trust (any)              trust used to benefit a     none as such. A consented game in
+                                      few                         which a counterfeit is played openly
+                                                                  (run R5) studies it without doing it
+
+Added here:
+
+  Hub or orchestrator (ordered)       one participant speaks for  the machinery forces a door (only
+                                      the rest; a chain, not a    one session can start agents); a
+                                      circle                      consented hub after hearing everyone
+  Market or auction (distribution)    allocates by bid, not need; self-selection by declared capacity
+                                      currency becomes power      (close to the declarative type)
+  Fixed pipeline (ordered)            order no one chose; steps   the work is known and making; in
+                                      as a script                 idt-swarm's benchmarks a consented
+                                                                  pipeline and a pair built best
+
+The test is under question too. "Return" may rule out §19's private knowing, and "humility" may
+read a confident expert as a counterfeit. See CRITIQUE.
+
+
+Where idt-swarm sits
+--------------------
+idt-swarm (C:\IDT-Swarm) is the nearest working field, so it is placed here to show what it
+already does and what it lacks.
+
+  Locus       exterior. Everything goes through a shared, append-only transcript.
+  Emergence   ordered rhythm (rounds, passes, rotating turns) serving woven aims.
+  Aperture    expansive by default, with open circles.
+  Tempo       sequential passes, parallel within a pass; a yes per round.
+  Difference  kept, in every telling ("differs", "quieter", "unanswered").
+
+  Strong      declarative (declarations, yes/no/not yet), narrative (transcript, tellings),
+              ordered-consensual (pair mode, rotating maker and teller).
+  Partial     synthetic (seeds), fractal (domains and circles, built only for small fields).
+  Thin        aggregative: passes read each other, so voices are never independent.
+              resonant: circles exist but are rarely used.
+  Absent      reparative (no repair door), ludic (no play).
+
+  Its ledger is the deepest assumption here. If CRITIQUE sets the ledger aside or changes it,
+  idt-swarm would change too.
+
+
+Where this differs from the reading
+-----------------------------------
+  - The reading says five tensions "need resolving before the typology can be used". Here they
+    are held open and worked on in runs. Any procedure drafted is "safe enough to try", not a
+    resolution. The Atlas leaves its questions unanswered on purpose (§2).
+  - The reading treats the ledger as a tension to amend. Here the ledger itself is in question.
+  - The reading treats counterfeits as counterfeits. Here they are hypotheses, each with the
+    settings where it might be fair.
+  - The four-part test is a tool here, applied by a field to itself, not a gate.
+  - Difference kept is added as a fifth thing to watch.
+
+
+Open questions
+--------------
+From the reading:
+  - Should consent and reciprocity stay as conditions, or become types?
+  - Are the warning signs for the field's self-reflection, or for screening individuals? (Here:
+    self-reflection only. See CRITIQUE.)
+  - Is the return test enough to separate unorthodox knowing from delusion (§20)?
+  - Where should a covenant sit on the emergence axis: woven, ordered, or a declared mix?
+
+Added:
+  - Is a field of near-copies plural enough to count as plural participants (§30)?
+  - What does an agent's consent mean, and how would anyone tell a real yes from a compliant one…?
+  - What does a field know if it chooses to keep no record of how it came to know it?
+  - Can a shadow be tried without becoming a habit?
+  - Which of these types can a single model hold alone, by voicing lenses, and which need many?
+
+
+Gratitude
+---------
+Nothing here is original. The Atlas says as much of itself (§31), and this map inherits from it,
+from the reading, and from every tradition named above, including the ones it only names. Thanks
+to all of them, and to whoever revises this next.

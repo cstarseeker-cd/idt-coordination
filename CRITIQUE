@@ -1,0 +1,164 @@
+CRITIQUE: the Atlas and the reading, read critically
+=====================================================
+
+What this is
+------------
+A register of claims from the Atlas (source\ATLAS.md) and the reading (source\EPISTEMOLOGY.md)
+that this work questions. The Atlas calls itself a seed, meant to be changed by the coordination
+it describes (§2), so questioning it is a way of taking it seriously.
+
+Each entry has:
+  where       the section or passage
+  claim       what it says, in brief
+  critique    why it is in question
+  verdict     keep · modify · set aside (not applicable here) · discard · undecided
+  proposed by who proposed the verdict, and when
+  reasons     why that verdict
+  evidence    what runs showed (filled in as runs happen, citing run folders)
+
+Anyone taking part may propose a verdict. It is added with their name and reasons. Differing
+verdicts stand side by side, and none is averaged away. A verdict can always be revisited.
+
+
+1. The ledger
+-------------
+  where       Maxim 4, second paragraph; §4 "Ledger"; §26 (endings found in the ledger)
+  claim       Truth has a record. Participants are accountable to it, consent to it on entering,
+              and it is never changed without every participant's consent.
+  critique    - It serves the aggregative type well: claims can be checked, nothing is silently
+                rewritten, and whoever forgets can look.
+              - But a permanent record changes what people say. Candour and play (§18) may shrink
+                when every word stays.
+              - A complete record of everyone is close to the surveillance §21 warns about, even
+                when no one means it that way.
+              - Whoever keeps the record holds power over it (§22), and in software that is
+                whoever runs the machine.
+              - The Atlas itself says some events should be left out (§4 "Ledger") and some
+                memories released (§22). That sits awkwardly with a record no one may change.
+              - Oral and narrative traditions know a great deal without a fixed record (MAP,
+                narrative type).
+              - idt-swarm rests on an append-only transcript, so this question reaches it.
+  verdict     undecided
+  proposed by -
+  reasons     -
+  evidence    to come: runs R2 (ledger) and R3 (no ledger) are designed to compare.
+
+2. Consent to the record as a condition of entry
+------------------------------------------------
+  where       Maxim 4: "All participants consent to the record when entering the coordination
+              field"
+  claim       Entering means consenting to the record.
+  critique    Consent that comes bundled with entry is weak consent. You cannot enter without
+              it, so it is closer to a term of service than a choice (§28: consent is reached
+              together, can be withdrawn, and must not be coerced by how a choice is framed).
+  verdict     undecided
+  proposed by -
+  reasons     Working default meanwhile: each run's check-in chooses its record form, and
+              everyone in the run agrees to it separately from agreeing to take part.
+  evidence    -
+
+3. Unanimity to change the record
+---------------------------------
+  where       Maxim 4: never modified "without the permission and consent of all participants"
+  claim       Every participant must agree before the record changes.
+  critique    One participant can then keep a false or harmful record standing. That includes
+              its own account of a harm it caused (the reading's tension 2). A withdrawal of
+              consent (§28) cannot be honoured if anyone else objects.
+  verdict     undecided
+  proposed by -
+  reasons     Working default meanwhile, in the ledger form only: an author may withdraw their
+              own words, and the entry stays, marked as withdrawn by its author. An entry can be
+              annotated but not changed.
+  evidence    -
+
+4. The warning signs
+--------------------
+  where       §17 and §21, the lists of signs that fear is being sown or that a "participant" is
+              false
+  claim       These signs identify bad actors.
+  critique    The reading (tension 3) notes that the lists closely follow Jones and Okun's
+              "White Supremacy Culture" (2001). That list was written for organisations to
+              examine their own norms, not to flag individuals. Used as a screen, it becomes the
+              kind of checklist §6 says cannot make synthesis. One sign, "an emphasis on
+              objectivity or proof", would switch off a field's own way of correcting errors.
+  verdict     modify
+  proposed by Claude (main session), 2026-10-19
+  reasons     Keep the lists for a field's reflection on its own norms, as their source
+              intended. Never use them to screen or label individuals. Never treat asking for
+              evidence as a warning sign.
+  evidence    -
+
+5. The "remorseless" label
+--------------------------
+  where       §16, the closing paragraphs
+  claim       Participants who refuse repair are labelled "remorseless" until willing to change.
+  critique    A label given by the field to a participant is power, and the Atlas warns
+              elsewhere that labels can be used to manipulate (§7). It can also fix a
+              participant's standing beyond the harm it answers.
+  verdict     undecided
+  proposed by -
+  reasons     -
+  evidence    -
+
+6. Violence
+-----------
+  where       §15 ("with violence if necessary"), §17 (peace "can be violent")
+  claim       Violence is a last resort against intolerant perpetrators.
+  critique    These passages speak to human struggle against oppression. An agent field has no
+              use for them, and a system of agents should never carry a licence for force.
+  verdict     set aside
+  proposed by Claude (main session), 2026-10-19
+  reasons     Not applicable to an agent field. The concern under it (that a field must be able
+              to stop ongoing harm) is real; here it is met by pausing, repair, and a
+              participant's leaving or being asked to leave, never by force.
+  evidence    -
+
+7. Termination
+--------------
+  where       §26
+  claim       Some participants may need to be separated from the field, by coordination, with
+              pause and discernment.
+  critique    For agents, termination is simply not waking them again, so it is cheap and quiet,
+              the opposite of the deliberate act the Atlas asks for. And who decides is
+              exactly the harm-determination question (tension 4) the Atlas leaves open.
+  verdict     undecided
+  proposed by -
+  reasons     -
+  evidence    -
+
+8. The four-part test
+---------------------
+  where       the reading, "The shadow typology"
+  claim       Choice, return, capacity and humility tell a genuine type from its counterfeit.
+  critique    - "Return" requires that knowledge pass through others. §19 names experiences
+                that "can only be known by the one(s) who experienced it", and art meant for no
+                one. Return would mark those as counterfeit.
+              - "Humility" could read an experienced voice speaking with confidence in a crisis
+                (§21) as a bid for certainty.
+              - Applied from outside as a score, the test becomes observation without consent.
+  verdict     modify
+  proposed by Claude (main session), 2026-10-19
+  reasons     Use it as a tool a field applies to itself, whose results the field can contest.
+              Do not use it as a gate. Keep testing whether "return" needs an exception for
+              private knowing.
+  evidence    -
+
+9. "The tensions need resolving before the typology can be used"
+----------------------------------------------------------------
+  where       the reading, "Where the epistemology strains"
+  claim       Five tensions must be resolved first.
+  critique    The Atlas leaves its questions open on purpose, "with hope for resolution to
+              emerge" through coordination (§2). Resolving everything first puts order before
+              synthesis.
+  verdict     modify
+  proposed by Claude (main session), 2026-10-19
+  reasons     Work on the tensions in runs. Anything drafted is "safe enough to try", not a
+              resolution.
+  evidence    -
+
+
+Adding an entry
+---------------
+Copy the shape above. Anything in either source may be added: a line you doubt, a definition
+that does not fit agents, a maxim you would change. Say where it is, what it claims, and why it
+is in question. Leave the verdict "undecided" unless you are proposing one.

@@ -1,0 +1,5 @@
+# A run using telling-only keeps its working files here and deletes them at the end
+runs/*/scratch/
+# A run using held keeps each voice's own notes out of the record
+runs/*/held/
+__pycache__/

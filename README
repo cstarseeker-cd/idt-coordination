@@ -1,0 +1,49 @@
+idt-coordination
+================
+
+An exploration of how participants (people, agents, or both) come to know things together, and
+of which ways of coordinating could work for one model or for many. It sits next to idt-swarm
+(C:\IDT-Swarm), borrows from it, and is likely to be merged into it later.
+
+It starts from the Atlas of Coordination and a reading of it as an epistemology, both kept in
+source\. Neither is a standard to meet. Both are claims to try, and parts of either may be kept,
+changed or dropped as runs show what works. The ledger is questioned first.
+
+
+What is here
+------------
+  MAP           the typology made usable: four axes, nine types, their kin traditions, the
+                smallest practice each implies, and the shadows, treated as hypotheses
+  CRITIQUE      parts of the Atlas and the reading under question, each with a verdict
+                (keep, modify, set aside, discard, undecided), reasons and evidence
+  practices\    practices anyone can run, written in plain words for any model or person:
+                  wonder          open a question up: I wonder, what if, let's try, then return
+                  aggregate       read many partial views together, with no head-counting
+                  consent-round   decide something that is safe enough to try
+                  record-forms    the ways a run can remember: ledger, held, telling-only,
+                                  layered
+  runs\         one folder per run, holding what that run chose to keep; NOTES compares them
+  source\       the Atlas, and the reading
+  .claude\      the Claude Code side: one skill per practice, and running.md
+
+
+Trying a practice
+-----------------
+In Claude Code, opened in this folder, ask for a practice by name ("run aggregate on …"), or
+type /wonder, /aggregate or /consent-round.
+
+The session proposes the run first: the question, who takes part and on which models, the record
+form, and an estimate of cost. Your yes is needed for that and for anything that leaves this
+folder. Nothing else waits on you. You can take part as a voice as much or as little as you like.
+
+Without Claude Code, give any model (or any group of people) a PRACTICE.md and the record forms,
+and the practice runs from the text alone.
+
+
+Later, with idt-swarm
+---------------------
+  - Practices and record forms become options a field can choose, alongside idt-swarm's
+    "Way:" line.
+  - Records map to transcript entries, or replace them if CRITIQUE sets the ledger aside.
+  - A covenant drafted here feeds idt-swarm's field covenant.
+  - source\EPISTEMOLOGY.md links to an outside repository; review it before merging.
