@@ -1,0 +1,5 @@
+SEALED. Readers comparing blind: don't open.
+seed: 2073411220
+A = R2 field (30 wakes)  (395 words)
+B = B1 one Opus, plain  (285 words)
+C = B2 one Opus, four seeds  (273 words)

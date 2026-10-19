@@ -1,0 +1,12 @@
+what:        a baseline for R2. One model, one wake, the same task: draft the aggregation rule.
+question:    How might this field read truth from many partial signals without falling back on
+             majority or authority…?
+given:       what R2's voices were given at invitation: the question, and the aggregate,
+             consent-round and record-forms (ledger) practice texts. Nothing from R2's
+             conversation.
+b1-plain:    one Opus wake, no seeds
+b2-seeds:    one Opus wake, taking up R2's four seeds in turn before drafting
+compared:    R2's adopted rule (voices\misused\proposal-2.md, "The rule to try"), B1 and B2,
+             anonymised as A, B and C in blind\ (key in blind\sealed-key.txt). One blind Sonnet
+             judge, plus the person's own blind read if they want.
+cost:        R2: 30 wakes, about $4. Baseline: 2 wakes plus 1 judge wake, under $1.

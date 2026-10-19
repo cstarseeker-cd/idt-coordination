@@ -1,0 +1,5 @@
+SEALED. Readers comparing blind: don't open.
+seed: 2903596882
+X = B1-clean one Opus, plain  (260 words)
+Y = R2 field (30 wakes)  (395 words)
+Z = B2-clean one Opus, four seeds  (205 words)

@@ -1,0 +1,83 @@
+PLAN: what to explore next
+==========================
+
+No budget is committed. Each item needs the person's yes on its cost before it runs. Costs are
+estimates at the rates measured on 2026-10-19, about this much per agent wake:
+  Opus     about $0.12
+  Sonnet   about $0.06
+  Haiku    under $0.01
+  Fable    about $0.29
+
+Fable was about 60% of every swarm's cost. A mix of Opus, Sonnet and Haiku keeps model
+difference for far less. Fable can be kept for when its difference is the point.
+
+What the runs so far suggest about cost
+  The baseline (runs\2026-10-19-baseline) found that one Opus taking up four seeds wrote a rule
+  as good as or better than R2's 30-wake field. The field's distinct gain was the protections
+  that came from being objected to. So most items below use a lighter shape: a seeded draft, one
+  real round of objections or checks, and a change. The fuller circle is kept for where a
+  circle is the thing being tested.
+
+
+A. Owed from earlier runs (small)
+---------------------------------
+  A1  Re-check R4's corrected reading, and R2's corrected reading.
+      One Haiku or Sonnet wake each. About $0.10. Closes two "not re-checked" notes.
+  A2  Replay R5's record checks (practices\aggregate, "Checks on the record") on R2's ledger,
+      where no one was playing a counterfeit, and count false alarms.
+      One Sonnet wake. About $0.06. Tests the "discerning" variant and CRITIQUE 4.
+
+
+B. The lighter shape, tested directly
+-------------------------------------
+  B1  Seeded draft, then objections, then a change. Same task as R2. One Opus seeded draft,
+      three objectors (Sonnet, Haiku, Haiku), and one change. Judged blind against R2 and B2.
+      About $0.50. Answers: can the field's protections be had at low cost?
+
+
+C. Types not yet practised (MAP)
+--------------------------------
+  C1  Resonant: a pair works closely, then harvests to a third voice (the tuning forks; the
+      campfire). About $0.40.
+  C2  Fractal: two circles on two parts of one question, harvesting to a trunk reading (the
+      watershed; the tree). About $0.80.
+  C3  Reparative: needs a repair practice first (writing it costs nothing). A staged, consented
+      harm in a short run, plus a first draft of harm determination (tension 4) (kintsugi).
+      About $0.60.
+  C4  Synthetic, done as the meeting of waters: two seeds run side by side for two steps
+      without mixing, then merge. Compare with mixing at once. About $0.40.
+  C5  Narrative, done as sourdough: one practice passes through three short fields in turn,
+      each revising it, and the lineages are compared. About $0.60.
+
+
+D. Candidate types from images (IMAGES, part 2)
+-----------------------------------------------
+  D1  Braided (the rope): a relay of 6-8 short wakes with a two-hand-off overlap, with and
+      without counter-twisted seeds. About $0.50 on Sonnet and Haiku.
+  D2  Releasing (ants): a board with no rounds where entries fade unless cited. Watch for an
+      ant mill. Needs a small script for the fading; writing it costs nothing. About $0.50.
+  D3  Threshold (bees): three options, five voices, a quorum of three independent checks, set
+      beside R4's tally. About $0.60.
+  D4  Neighbourly (the murmuration): six voices in a ring, each reading two neighbours. How far
+      does one strong claim travel? About $0.40.
+  D5  Fallow: the same task twice, once with a voice-called rest built in (any voice may pause
+      the field for one wake, and the field must not fill it). Does anything change? About
+      $0.60.
+  D6  Kindred (lichen): a field with another provider's model. Waits on what the firm's IT
+      policy allows. Nothing here closes that door.
+
+
+E. Outside the mirror
+---------------------
+  E1  A real piece of idt work that isn't confidential, with the person in the field as a
+      participant. TBD by the person.
+  E2  A making baseline: the pelican SVG prompt (already on idt-swarm-bench's "pelican"
+      branch), the field against one seeded call. Tests making, where idt-swarm's circle was
+      weakest.
+
+
+Suggested order
+---------------
+Cheapest and most informative first: A2 and A1 (about $0.16), then B1 (about $0.50), then one
+structure the circle can't test (D1 rope, or D2 ants), then C3 repair, which is the Atlas's
+"most important act" and still untried. E1 whenever the person picks the work.

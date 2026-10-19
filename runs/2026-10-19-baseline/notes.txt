@@ -1,0 +1,57 @@
+Baseline notes: one model, one wake, the same task as R2
+========================================================
+
+What was compared
+  R2's adopted aggregation rule (30 wakes, about $4) against two one-wake drafts by Opus:
+    B1  plain
+    B2  taking up R2's four seeds in turn before drafting
+  Each was judged blind by a fresh Sonnet judge on six criteria (judge.md), with rule text only.
+  It ran twice:
+    blind\        B1 and B2 read the practice texts as they are now. CONTAMINATED: those texts
+                  had absorbed lessons from R4 and R5 that R2's voices never saw.
+    blind-clean\  B1 and B2 read the practice texts exactly as R2 saw them (commit 1e0c4a5).
+                  This is the comparison to trust.
+
+Scores (1-5), clean round (blind-clean\judge.md; key in sealed-key.txt)
+                         answers  followable  difference  protects  correctable  economy
+  R2 field (Y)              4         2           3           5          5           2
+  B1 plain (X)              4         5           4           2          3           5
+  B2 four seeds (Z)         5         4           5           3          4           4
+  The judge would adopt B2, "narrowly", plus R2's "nothing is used against its giver".
+
+  The contaminated round gave the same pattern: B2 preferred, R2 strongest on protecting people
+  and on correction, weakest on followability and economy.
+
+What it shows
+  - Most of the field's answer came from one call. All three rules converge on the same core:
+    a signal says where it stands, shared sources count as one view, the reader rotates, and
+    someone else checks. R2's "routes, not heads" is not something only a field can reach.
+  - The seeds did much of the work. B2 beat B1 on answering the question and on keeping
+    difference, for the price of one paragraph of lenses. Diversity of starting points, more than
+    diversity of agents, carried quality here.
+  - What the field added is protection. Both judges found R2 alone has purpose limits ("Nothing
+    is used against its giver"), a repair line, a review date and failure signs. These are the
+    clauses R2's objections put in. Both judges read them as "scar tissue … added after
+    objections", and both judged that this costs followability.
+  - Cost: R2 about $4 and 30 wakes; each baseline about $0.12 and 1 wake.
+
+What it does not show
+  - One task, one judge model per round, with criteria the door chose. Sonnet judging has tracked
+    the person's ratings before (idt-swarm bench, r 0.83), but it is still one model's taste.
+  - R2 was not fully blind. Its text mentions "this run", "sealed retellings" and a door-holder,
+    and both judges spotted it.
+  - R2's rule had to answer conditions its own voices raised. The baselines answered no one.
+    Whether that matters depends on whether the protections are wanted, which is the person's
+    call and the field's, not the judge's.
+  - Nothing here tests the field's other products: R3's memory answer, R4's caught drift, R5's
+    detection. Those have no one-call equivalent to compare.
+
+A fair reading
+  For drafting a rule, one model taking up several seeds gets most of the way for about 3% of
+  the cost. The field earned its cost only in the parts that came from being objected to. A
+  cheaper shape to try: one seeded draft, then a single round of real objections from a few
+  voices, then a change. That is the pair or pipeline pattern idt-swarm's benchmarks already
+  favoured, with consent kept around it.
+
+Spend
+  4 Opus wakes and 2 Sonnet judge wakes, about 285k tokens. Estimated cost about $0.55.
