@@ -1,0 +1,59 @@
+R3 notes: swarm of four, telling-only
+=====================================
+
+The door wrote these notes. It never read the exchange. It saw only the first line of each working
+file (to watch for pause, repair or leaving), then deleted scratch\ at the end, as all four voices
+agreed. Everything below about content comes from telling.txt and outcome.txt. That limit is itself
+part of the finding.
+
+What happened
+  - The same four seeds and models as R2, as fresh voices who didn't read R2.
+  - All four agreed to telling-only. misused set three conditions, carried in the telling.
+  - The steps: wonder, then each voice's answer, then a telling drafted by changed (first in the
+    agreed order, and willing). The others let it stand with lines added word for word, then
+    changed wrote the final telling and outcome.
+  - 21 working files were deleted. Claude Code's own session logs were not, and the telling says
+    so in a line "not to be reworded".
+
+The outcome, in brief (outcome.txt)
+  Remember "the shape of what happened … Not the exchange". There is "no single keeper". Letting
+  go is "the default, and it is announced in one plain line". "Keeping takes a renewal in someone's
+  name, with a reason." "Silence on a dated renewal means release. This is a lean, not a finding."
+  Standing disagreements are kept, each in its author's words.
+
+What writing without a ledger was like, as the telling reports it
+  "changed committed more readily to a concrete lean than a kept file would have allowed. logs
+  gave up verifiability for answerability. retelling put its weight on first lines. misused wrote
+  more freely and moved its safeguards into the telling itself. Each says this is self-report that
+  nothing kept can check."
+
+The cost, named by the voices themselves
+  - retelling (KEEP): "In this run the draft gave retold a doubt that retold held about something
+    else, and a line beside the telling corrected it. A telling-only record has no other check."
+  - misused (outcome): "a record that says it forgot is the one most easily trusted too far."
+  - The telling says one voice's test is incomplete. The door cannot confirm or deny anything the
+    telling says about the exchange, because the exchange is gone.
+
+Difference
+  Kept in the telling: four distinct answers on who keeps it and how it is let go, quoted. How much
+  difference the exchange started with cannot now be known.
+
+Pause, repair, leaving
+  None in any first line.
+
+Capacity
+  Reported in the telling as fine; no voice raised strain.
+
+Spend
+  13 wakes, about 645k agent tokens:
+    Opus 143k · Sonnet 136k · Fable 148k · Haiku 217k
+  Estimated cost about $1.40.
+
+Bears on
+  - CRITIQUE 1 (ledger). The run worked without one and produced a careful answer. The voices
+    report more candour. The telling itself shows the cost: one misreading of a voice was caught
+    only because that voice could still add a line, and nothing else could have caught it.
+  - RECORDS.md. The telling's "Let go on <date>: …, no content kept" line and the "not let go"
+    sentence are good practice for the telling-only form. Worth adding to it.
+  - Door-holder power. Under telling-only the door can verify nothing. That is the most trust the
+    form asks of anyone, and the voices put it in writing.

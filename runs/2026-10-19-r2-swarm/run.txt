@@ -1,0 +1,13 @@
+practice:     suggested order: wonder, then aggregate, then consent-round (the voices agree or change it)
+variant:      none
+question:     How might this field read truth from many partial signals without falling back on
+              majority or authority…?
+mode:         swarm. The main session holds the door: it wakes voices and copies their words; no extra say
+voices:       misused (opus), seed: someone who has seen records misused
+              logs (sonnet), seed: someone who trusts logs
+              retelling (fable), seed: someone who trusts retelling more than writing
+              changed (haiku), seed: someone who once needed a record changed
+record form:  ledger (proposed; confirmed at check-in)
+estimate:     about 26 wakes, $2-4
+notes:        Voices were asked not to read MAP, CRITIQUE, source\ or other runs, so their answers
+              start from their seeds. They were told these exist and why.

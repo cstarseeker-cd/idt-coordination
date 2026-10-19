@@ -1,0 +1,8 @@
+practice:     aggregate, variant "tally alongside": a declared shadow. A simple count of positions
+              is shown next to the reading, to see whether majority misleads or helps
+question:     How might this field read truth from many partial signals without falling back on
+              majority or authority…?
+mode:         swarm. Fresh voices with the same seeds and models as R2; they don't read R2
+voices:       misused (opus), logs (sonnet), retelling (fable), changed (haiku). Seeds as in R2
+record form:  each voice's choice. Ledger is proposed; any voice may keep its own words in another form
+estimate:     about 14 wakes, about $2

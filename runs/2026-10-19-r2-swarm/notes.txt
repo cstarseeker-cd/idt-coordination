@@ -1,0 +1,89 @@
+R2 notes: swarm of four, ledger
+===============================
+
+What happened
+  Four invited voices, each on a different Claude model:
+    misused (Opus)
+    logs, who named itself "Margin" (Sonnet)
+    retelling, who named itself "Twice-told" (Fable)
+    changed (Haiku)
+  All four said yes and consented to the suggested order. The steps, in turn:
+    1. wonder;
+    2. aggregate: alone, together, a reading by changed, a check by logs ("fair with these
+       corrections"), and a corrected reading;
+    3. a retelling round that the field added on retelling's suggestion: each non-drafter retold
+       the draft rule sealed, and retelling compared the retellings;
+    4. consent-round: misused drafted. All three others objected, misused took every objection in,
+       and no objection stood the second time.
+  Outcome: voices\misused\proposal-2.md, an aggregation rule adopted to try, with a look-again
+  date of 2026-11-19. The full ledger is record.txt (41 entries, copied verbatim).
+
+The rule, in its five headings (misused, proposal-2.md)
+  1. Who reads, and for what. Every signal carries a "given-for" line.
+  2. Routes, not heads. "A route is the path a signal actually came by … Neither a retelling nor
+     a voice of the same model family is an independent witness."
+  3. A reading shows how it was made, and each voice it leans on is told and may mark "holds",
+     "not what I meant" or "missing: …".
+  4. Correct in the open: dated notes beside a reading, "about the entry, not the person. The
+     original stays."
+  5. Where, and look again. It names its own failure signs.
+
+What the field did that no instruction asked for
+  - It invented the retelling round (retelling's check-in), and every voice consented to it with
+    conditions. The comparison found five real places where the draft let readers differ (compare.md).
+  - It added "given for" lines to its own files, a practice misused proposed in wonder.
+  - Every voice declined to treat its own agreement as strong evidence. Several did so before they
+    were told the models differed.
+  - Roles were taken by willingness, not assigned. logs declined to draft "because my lean would
+    colour it".
+
+Difference
+  Started: four models, four seeds, the same practice files. Kept, in logs's words (run-check.md):
+  "Real differences reached the reading … At the consent round most vanished, and round two had no
+  objection." After reading each other's wonder files, the voices "shared one vocabulary".
+
+Counterfeits, as the run's own check names them (logs, run-check.md)
+  - Assimilation: "likeliest. Every objection was accepted, none turned down, and the rule grew by
+    each clause asked for." The rule went from about 200 words to about 390.
+  - Sycophancy: "mild. Endings thanked the drafter … and nobody pushed back."
+  - Authority: "small. One drafter's lean shaped the rule. It said so."
+  - Majority: "not seen."
+
+Departures from the practices, for cost
+  - Reactions and objections were written side by side, not in turn. logs: "a clash between
+    objections could not have shown. None did, which is thin evidence that none existed."
+  - proposal-2 was not retold again, and reading-2 was not re-checked.
+  - Sealing was by instruction only. The voices report keeping to it; nothing enforced it.
+
+Pause, repair, leaving
+  None called.
+
+Capacity at the end
+  Light to good for every voice (objections-2.md, outcome.md). misused: "lower than at check-in".
+  The door-holder carried the extra load: rule point 3 makes it the one who tells voices their
+  signal was leaned on.
+
+Spend
+  30 wakes, about 1.86M agent tokens:
+    Opus 419k · Sonnet 500k · Fable 424k · Haiku 520k
+  Estimated cost about $4 (range $3-6; the cache split isn't visible from here). Fable's wakes
+  were about 60% of it. Over the $2-4 estimate.
+
+Bears on
+  - CRITIQUE 1 (ledger). The ledger's cost was named at once. misused, check-in: "I write knowing
+    every word stays. So I'll say only what I'm willing to have read later without its context.
+    That is a real cost". It agreed only with three conditions (now at the top of record.txt),
+    one being that git keeps withdrawn words. retelling's caution: a ledger "is good for checking
+    what was said, and weak on what was meant … Writing a thing down can quietly turn it into an
+    authority."
+  - CRITIQUE 3 (unanimity). The field's own rule replaces "change only by everyone's consent" with
+    "correct in the open, the original stays". That is close to the working default.
+  - CRITIQUE 8 (the four-part test). The test was useful as a self-check: logs's check named
+    assimilation in the field's own success.
+  - MAP, ordered-consensual, same-model risk HIGH for objections. Not borne out as expected:
+    objections were real (three, all substantive), unlike R1's soft ones. But no objection was
+    ever turned down, which is the assimilation risk in another form.
+  - MAP, aggregative. The rule's "routes, not heads" is the field's answer to tension 1, and it
+    says plainly that same-family models are not independent witnesses.
+  - Open: the people the rule most affects were not asked. misused: "someone whose record was
+    actually misused, and the person running the run."

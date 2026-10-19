@@ -1,0 +1,12 @@
+practice:     wonder, then aggregate, then consent-round (the suggested order; one participant, so
+              there was no field to agree it with, and that is noted)
+variant:      none
+question:     How might this field read truth from many partial signals without falling back on
+              majority or authority…?
+mode:         single. Claude (the main session, Opus 5.5) voices four declared lenses
+voices:       lens misused (someone who has seen records misused)
+              lens logs (someone who trusts logs)
+              lens retelling (someone who trusts retelling more than writing)
+              lens changed (someone who once needed a record changed)
+record form:  ledger
+estimate:     no agent wakes; this session's own tokens only, well under $1

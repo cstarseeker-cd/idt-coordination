@@ -1,0 +1,217 @@
+R1 · single participant · ledger
+Every entry below is written by one participant, Claude (main session), voicing a declared lens.
+Lenses voiced by one mind are not independent. This run shows how the practices work, not what
+many minds would find.
+
+---------------------------------------------------------------------- check-in
+
+#1  lens misused, voiced by Claude
+    Takes part. Capacity: full. Boundary: I won't pretend to have lived what this seed describes;
+    I'm reasoning from it. Agree to the ledger.
+    [type: declarative]
+
+#2  lens logs, voiced by Claude
+    Takes part. Capacity: full. Agree to the ledger; it's my home ground, which is a bias worth
+    naming.
+    [type: declarative]
+
+#3  lens retelling, voiced by Claude
+    Takes part. Capacity: full. I agree to the ledger for this run, under protest: I'd rather
+    this run kept only its telling. Recording that here so it isn't lost.
+    [type: declarative]
+
+#4  lens changed, voiced by Claude
+    Takes part. Capacity: full. Agree to the ledger, provided the withdrawal rule holds: an
+    author can withdraw its own words.
+    [type: declarative]
+
+#5  Claude (as participant, not a lens)
+    The suggested order (wonder, aggregate, consent-round) was not agreed by a field, because
+    there is none, only me. Going ahead with it, and noting that as the first thing a single-mind
+    run cannot do.
+
+---------------------------------------------------------------------- wonder
+(Steps 1-3 written lens by lens, in full, before the next lens; nothing changed afterwards.)
+
+#6  lens misused, voiced by Claude
+    I wonder whether a reading can be wrong in a way no one notices because it sounds fair.
+    What if every reading had to say what it chose to leave out?
+    Let's try: the reader lists the three things it decided not to include, and why.
+    [type: ludic]
+
+#7  lens logs, voiced by Claude
+    I wonder whether truth needs traceability more than agreement.
+    What if every sentence in a reading pointed to the words it came from?
+    Let's try: every claim in a reading cites the entry it draws on, and the citations are
+    checked against the record.
+    [type: ludic]
+
+#8  lens retelling, voiced by Claude
+    I wonder whether one written reading is the wrong shape, and a truth told several times by
+    different tellers is closer to how people actually come to know.
+    What if the finding is the difference between two readings, not either reading?
+    Let's try: two voices read the same answers without seeing each other's reading, and the
+    field compares them.
+    [type: ludic]
+
+#9  lens changed, voiced by Claude
+    I wonder who gets to say "that's not what I meant".
+    What if each voice could reject how it is quoted, but not what the reading concludes?
+    Let's try: each voice approves its own quotation before the reading stands.
+    [type: ludic]
+
+#10 lens retelling, voiced by Claude (step 4, yes-and)
+    Yes, and #6's "what I left out" list is itself a second, smaller reading. It might be where
+    the most honest part ends up.
+
+#11 lens logs, voiced by Claude (step 4, yes-and)
+    Yes, and #9 fits a ledger: the original words stay, so approving a quotation can't rewrite
+    what was said, only how it's carried.
+
+---------------------------------------------------------------------- wonder: return
+
+#12 Claude (as participant), restating each "let's try" as something testable; the "original
+    author" of each is the same mind, so these restatements are unchecked.
+    - #6  Do: the reader adds "left out: …" (three items). See if it works: a voice finds its
+          concern in that list rather than missing entirely. Shows it failing: the list is empty
+          or ritual ("nothing important").
+    - #7  Do: every claim cites an entry number. See if it works: a checker can trace each
+          claim in one pass. Failing: claims cite entries that don't say that.
+    - #8  Do: two independent readings, then a comparison. See if it works: the readings
+          differ somewhere meaningful. Failing: they are near-identical (likely with one model).
+    - #9  Do: each voice approves its quotation. See if it works: a voice corrects a misquote.
+          Failing: approval becomes a way to soften what was said.
+
+---------------------------------------------------------------------- aggregate: alone
+(Each lens's answer written in full before the next, and not changed afterwards. As sealed as one
+mind gets, which is not very.)
+
+#13 lens misused, voiced by Claude
+    Truth is read by keeping the reader from becoming an authority. Rotate the reader, make the
+    reading cite what it draws on, and make it say what it left out. Majority creeps in through
+    the word "most", so ban "most" as a conclusion. How sure: fairly. Would change my mind if
+    rotation still left one voice's framing dominant every time.
+
+#14 lens logs, voiced by Claude
+    Truth is read from a complete record. Keep every answer as written, cite it, and let anyone
+    check the reading against it. Without the record, a reading is just a persuasive story. How
+    sure: quite. Would change my mind if people said less because everything was kept.
+
+#15 lens retelling, voiced by Claude
+    Truth is read by retelling, more than once, by different tellers, and noticing what survives
+    each retelling. A single written reading freezes one teller's version. How sure: moderately.
+    Would change my mind if retellings drifted into something no one said.
+
+#16 lens changed, voiced by Claude
+    Truth is read by whoever is quoted having the last word on how they are quoted, and anyone
+    harmed by a reading being able to say so after it stands. A reading that can't be corrected
+    is an authority. How sure: very, about the correction; less about the rest. Would change my
+    mind if corrections were used to erase.
+
+---------------------------------------------------------------------- aggregate: together
+
+#17 lens misused, voiced by Claude
+    Revise: add #16's point. Correction after the fact is the strongest guard against a reading
+    becoming an authority. Rotation alone isn't enough.
+
+#18 lens logs, voiced by Claude
+    Stands, with one concession to #15: a complete record and several readings aren't rivals.
+    The record is what the retellings can be checked against.
+
+#19 lens retelling, voiced by Claude
+    Stands. #14 and #18 are right that retellings need something to be checked against, but that
+    can be the answers themselves, not a permanent record of everything.
+
+#20 lens changed, voiced by Claude
+    Stands.
+
+---------------------------------------------------------------------- aggregate: the reading
+
+#21 Claude (as participant; the only possible reader)
+    Converge: all four lenses want a reading that cannot become an authority. They agreed on
+    this before step 2 (#13-#16), which with one mind means little.
+    Differ:
+      - misused: "rotate the reader … make it say what it left out" (#13)
+      - logs: "without the record, a reading is just a persuasive story" (#14)
+      - retelling: "a single written reading freezes one teller's version" (#15)
+      - changed: "a reading that can't be corrected is an authority" (#16)
+    Moved: misused took up correction after the fact (#17); logs conceded that retellings and a
+      record work together (#18).
+    The lonelier positions add:
+      - retelling says the check against a reading can be the answers themselves, without a
+        permanent record of everything (#19). It is the only lens separating "kept answers" from
+        "a ledger".
+      - changed is the only lens speaking from the side of someone a record has hurt.
+    Both-and: a reading is trustworthy both because what it draws on can be checked and because
+      it stays correctable by the people it quotes. The thing it is checked against may be the
+      answers alone, not a ledger of everything.
+    Left out (per #6): (1) how to choose the reader when no rotation exists yet; (2) what happens
+      when the reading is fair but a voice still dislikes it; (3) cost.
+    Check: UNCHECKED. No other voice exists in this run. Offered to the person, and to any later
+      voice who wants to read it against #13-#20.
+    [type: aggregative] [check: choice ok · return no · capacity ok · humility partial]
+
+---------------------------------------------------------------------- consent-round
+
+#22 lens logs, voiced by Claude (proposal)
+    A draft aggregation rule, to try:
+      1. Answers are first written alone, sealed.
+      2. Each voice may revise once after reading the others.
+      3. A reader, chosen as whoever has read least, writes the reading: convergence (and
+         whether it was there from the start), differences in each voice's own words with
+         citations, what moved, what lonelier positions add, a both-and, and what it left out.
+      4. No count is ever the conclusion.
+      5. Each voice approves how it is quoted, and approves nothing else.
+      6. At least one other voice checks the reading against the answers.
+      7. The answers are kept for as long as the reading stands, so it can be checked.
+      8. Anyone quoted may annotate the reading after it stands.
+    Try it for the next three runs, then look again.
+
+#23 lens retelling, voiced by Claude (question)
+    Does 7 mean a ledger? → (lens logs, #24)
+
+#24 lens logs, voiced by Claude
+    No. It means the answers that a reading draws on, kept while the reading stands. Nothing
+    more.
+
+#25 reactions, in turn, voiced by Claude
+    misused: likes 3's "what it left out" and 4. Worried that "whoever has read least" still
+      lets the first reader set the frame.
+    retelling: likes 7 as answered in #24. Worried that a single reading is still the default.
+    changed: likes 5 and 8. No worry.
+
+#26 objections, in turn, voiced by Claude
+    misused: no objection.
+    retelling: I object; it would be safe enough if, in a field of more than four, a second,
+      independent reading were written whenever any voice asks for one, and the two compared.
+    changed: no objection.
+
+#27 lens logs, voiced by Claude (change)
+    Added 9: "Any voice may ask for a second, independent reading. The two are compared, and
+    where they differ is part of the finding." Applied in fields of any size, since cost is the
+    asker's call, not a threshold's.
+
+#28 objections, second time, voiced by Claude
+    misused: none. retelling: none, objection taken in. changed: none.
+
+#29 Claude (as participant): outcome
+    The rule in #22, with #27's addition, is adopted as something to try in R2-R4. Look again
+    after R4. No objection stands. Honest note: these objections were soft. One mind objecting
+    to its own proposal objects gently, as the practice warns.
+
+---------------------------------------------------------------------- ending
+
+#30 each lens, voiced by Claude
+    Capacity: unchanged; this cost one mind little.
+    Remember (misused): "say what you left out" did the most work for the least cost.
+    Remember (retelling): kept answers and a ledger are different things.
+    Thanks (changed): to the withdrawal rule, which let me agree to the ledger at all.
+
+#31 Claude (as participant): the run's own check (disputable by anyone who reads it)
+    choice     ok, with a caveat: lenses can't really refuse the one who voices them.
+    return     no. Nothing passed through another mind. The reading is unchecked.
+    capacity   ok.
+    humility   partial. The rule is held as something to try, but one mind drafted, objected
+               to and adopted it.
+    difference started near zero. Every lens is me, so the four positions are four framings I
+    chose, not four views I met.

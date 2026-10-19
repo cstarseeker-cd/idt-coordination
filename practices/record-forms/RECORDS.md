@@ -44,6 +44,11 @@ and runs that use different forms are how it gets answered.
 - **What it is good for:** candour and play; the field keeps what it means to keep.
 - **What it may cost:** nothing left to check the telling against. If the telling is wrong,
   nothing can show it.
+- **Two lines worth keeping** (from the first telling-only run, 2026-10-19). The telling says what
+  was not let go, for example the tool's own logs, in a sentence no one may reword. It ends with
+  one plain line saying what existed, that it is gone, and what still exists outside the field:
+  "Let go on <date>: …, no content kept." Each voice may add a line beside the telling in its own
+  words. In that run, that was the only way a misreading could be caught.
 
 ## layered
 

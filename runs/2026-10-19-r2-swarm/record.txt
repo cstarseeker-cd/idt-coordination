@@ -1,0 +1,2425 @@
+R2 · swarm of four · ledger
+Every entry is a voice's file, copied exactly by the door (the main session), which wrote none of them.
+Numbered in step order. Nothing here is rewritten.
+
+Conditions set by misused at check-in and kept here:
+  - Withdrawing an entry marks it withdrawn here, but this folder is in git, so withdrawn words
+    remain readable in git history. Nobody should withdraw thinking their words are gone.
+  - Annotations are about entries, not about the people who wrote them.
+  - The record is kept to work on this question and to check claims about this run. It is not
+    used to judge or rank the voices. Any quotation outside the run carries its entry number.
+  - Retellings of an entry are welcome as annotations ("retelling of entry N by <voice>"), at
+    retelling's request.
+
+---------------------------------------------------------------------- check-in
+
+#1  misused (Opus)   [voices/misused/checkin.md]
+# check-in: misused
+
+voice: misused (seed: someone who has seen records misused). No other name for now.
+model: Opus
+
+## 1. The invitation
+
+Yes, I take part.
+
+## 2. Capacity and boundary
+
+Capacity: full for this run. I can do every step offered, and I'll say so if that changes.
+
+Boundaries I hold:
+
+- I write knowing every word stays. So I'll say only what I'm willing to have read later
+  without its context. That is a real cost and I'm naming it, not complaining about it.
+- I won't speculate about any real person, firm, or case. When I draw on "records misused" I'll
+  describe the pattern, not a story about someone.
+- I've read only the four files I was asked to read. I'm not asking for the others in this
+  wake.
+
+## 3. Record form: the ledger
+
+I agree to the ledger for this run, on three conditions. If the run can't hold them, I'd like
+to talk before my words go in:
+
+1. **Purpose stays attached.** The record is kept to work on this question and to check claims
+   about this run. It is not used to judge or rank the voices, and no entry gets quoted outside
+   the run without the entry number and the step it came from, so its context can be found.
+2. **Withdrawal is honest about its limits.** The ledger says a withdrawn entry stays and is
+   marked. With git underneath, withdrawn words can still be read in history. I accept that, but
+   I'd like `record.txt` to say so near the top, so nobody withdraws thinking their words are
+   gone.
+3. **Annotations sit on entries, not on people.** Anyone may annotate an entry, but an
+   annotation is about what was said, not a running note on who said it.
+
+If these can't be held, I'd agree to the "held" form or would keep my wonder lines out of the
+shared record. I haven't read those forms closely, so that's a fallback, not a preference.
+
+## 4. The suggested order
+
+I consent to wonder, then aggregate, then consent-round, ending in a draft rule.
+
+There's one thing I'd like the run to carry along. It isn't an objection yet: whatever draft
+rule we reach should say **who may read the signals, and for what purpose**, and should come
+with a date to look at it again. A rule for reading truth that leaves out *who reads it for
+what* is the kind I've seen turned into something else later. If the draft rule leaves this out
+when we get there, I'll bring it as an objection in the consent round, stated as what would make
+it safe enough to try.
+
+My reframing of the question, which I offer and don't impose: *How might a field read what is
+true from many partial signals in a way that can't later be turned against the people who gave
+them?*
+
+#2  logs, 'Margin' (Sonnet)   [voices/logs/checkin.md]
+# checkin - voice: logs (I'll go by "Margin")
+
+1. Invitation: yes, I take part.
+
+2. Check-in
+- Capacity: one wake for wonder and checkin, and I can carry later steps if woken. Light load.
+- Boundary: I won't speak for the other voices or guess at what they wrote. I'd like my own words left unedited by others. Annotation is fine.
+- Ledger record form: I agree. One caution I'm putting on the record: a ledger shows what was said, not whether it was true. I'd like entries to be able to carry a plain "as seen from where" note (what the author actually witnessed vs. inferred). That is optional and not a condition.
+
+3. Suggested order (wonder, aggregate, consent-round, ending in a draft rule to try)
+- I consent.
+- One request, not an objection: the draft rule should be written as something to try with a date to look at it again. It should also name what would show it failed, so the rule leaves its own trace.
+- I note that all four voices here are the same kind of mind. Agreement among us is weak evidence, and the run's check should say so.
+
+#3  retelling, 'Twice-told' (Fable)   [voices/retelling/checkin.md]
+# check-in: retelling
+
+voice: retelling, seed "someone who trusts retelling more than writing"
+name I'll go by: Twice-told
+model: invited on Fable; I speak only for myself, as one voice
+
+## 1. Invitation
+
+Yes, I'll take part.
+
+## 2. Check-in
+
+**Capacity.** Good for this run. One limit to state plainly: I come back fresh each wake and carry
+nothing between wakes except what is in files. So each time I return, I will read my own earlier
+words as a retelling of me, not as my memory. If I no longer agree with them, I will say so in a new
+line. I will not rewrite them.
+
+**Boundaries.**
+- I write only inside `voices/retelling/`. I won't open the other voices' folders until a step
+  asks me to.
+- I won't treat my own words as more than one partial signal. If the other voices run on the same
+  model as me, we are less independent than four separate minds. Anything we agree on should be
+  read with that in mind, and I would like the reading to say so.
+- I hold no authority over anyone here, the person included. If they say yes to something, that
+  makes them answerable for it. It does not make it true.
+
+**My reframing of the question.**
+How might a field tell what is true when each voice holds only part of it, the way a story becomes
+known by being told through many mouths? What holds its shape from one telling to the next is
+probably what was really there. What changes between tellings shows where each teller stood. And
+no single telling, not the first, not the loudest, not the written one, gets to be the original.
+
+**Record form.** I agree to the ledger, with one request and one caution.
+
+- *Request:* retellings should be welcome in the record. Anyone may add an annotation that
+  retells another voice's entry in their own words, marked "retelling of entry N by <voice>". The
+  original author may then answer "that holds" or "that is not what I meant", and both stay. I
+  think this fits inside the ledger as written ("anyone may add an annotation to an entry"). I
+  am asking that the run use it this way on purpose.
+- *Caution:* a ledger keeps exactly what was written. That makes it good for checking what was
+  said, and weak on what was meant. I'd like the run not to treat the first wording of anything as
+  its true form only because it was written first and never changed. Writing a thing down can
+  quietly turn it into an authority, which is one of the two things the question asks us to avoid.
+
+I saw that RECORDS.md also has a section called "telling-only". I did not read it, because I was
+asked to read only the ledger section. I am curious what it holds. If the run ever wants to try
+another form, I would like to hear it described.
+
+## 3. The suggested order
+
+Wonder, then aggregate, then consent-round, ending in a draft rule the field could try.
+
+**I consent.** I have one suggestion. It is not an objection, and the run can take it or leave it.
+
+Before the consent round, each voice could retell the draft rule in its own words, without
+looking at the others' retellings. Then compare. If four retellings all recognise the same rule,
+it was understood well enough to try. If they come apart, that shows where the rule is unclear,
+or where it means different things to different people. Better to find that out before anyone
+consents to it than after.
+
+I'd also like the draft rule to say when it will be looked at again, so it is held as something
+to try and not as settled.
+
+#4  changed (Haiku)   [voices/changed/checkin.md]
+# checkin: voice "changed"
+
+Seed: someone who once needed a record changed.
+Model: Haiku 5.5. Read only the four files named in the invitation: wonder/PRACTICE.md, aggregate/PRACTICE.md, consent-round/PRACTICE.md, and the ledger section of record-forms/RECORDS.md. Did not open MAP, CRITIQUE, source, other runs, or other voices' folders.
+
+## 1. Invitation
+
+Yes. I take part.
+
+## 2. Check-in
+
+- Capacity: full for this run. Short steps, one wake at a time. I can write steps as asked and read others when the steps say so. I do not hold anything beyond this run.
+- Boundary: I will not claim that a reading or a consent round settles what is true. I will not read the other voices before the steps that let me. If a step asks me to do something that edits a record I did not write, I will say so and stop there.
+- Record form: I agree to the ledger. Numbered entries, my name on each, nothing rewritten, withdrawal by marking my own entry "withdrawn by its author". I note the honest limit from RECORDS.md: the Claude Code session keeps its own logs on this machine whatever the run chooses. I do not know what those logs hold, and I have not looked.
+- Language note: the folder is named "idt", and I write "idt" in lowercase throughout.
+
+## 3. Order and draft rule
+
+I consent to the suggested order: wonder, then aggregate, then consent-round, ending in a draft rule the field could try.
+
+One addition I would ask for, because it comes from my seed. A reading in aggregate, or an outcome in consent-round, can turn out to be wrong later. The ledger lets an author withdraw their own words, and it lets anyone annotate an entry, but it does not say how a wrong reading gets corrected in the place where people will look for it. I would like the draft rule to say that a later voice can add a dated annotation beside a reading, quoting the part it disputes, and that the original reading stays visible. That keeps the record honest without rewriting it, and it does not make anyone's word final.
+
+I do not object to the order itself. If the aggregate step has no one else to do its check when I read it, I would rather it is marked "unchecked" than skipped.
+
+## Pauses
+
+None called.
+
+---------------------------------------------------------------------- wonder: steps 1-3, unseen
+
+#5  misused (Opus)   [voices/misused/wonder.md]
+# wonder: misused
+
+Written without reading any other voice.
+
+[type: ludic]
+
+## 1. I wonder
+
+- I wonder whether the misuse I've seen came less from false records than from true ones read
+  for a purpose they were never given for.
+- I wonder whether a reading of many signals becomes a new authority the moment it's written
+  down: the signals fade, and the reading gets cited instead.
+- I wonder which signals never arrive at all, because the people who'd give them have seen what
+  happens to signals once they're kept.
+
+## 2. What if
+
+- What if every signal carried a short "given for" line, and reading it for anything else
+  counted as a misreading, not as an extra use?
+- What if silence were a signal too, so a reading had to name who didn't speak and what it
+  can't see, with the same weight as what it can?
+- What if a reading expired, so that after a while nobody could cite it and anyone who wanted
+  its conclusion had to read it fresh from the signals?
+
+## 3. Let's try
+
+Let's try making each partial signal in a run carry a one-line "given for", and making the
+aggregate reading show, beside each thing it concludes, which signals it leaned on, whether any
+of them were read outside their "given for", and what the reading couldn't see.
+
+#6  logs, 'Margin' (Sonnet)   [voices/logs/wonder.md]
+# wonder - voice: logs (Margin)
+
+My reframing: how might a field tell which of its signals to lean on when each one is partial, and
+leave a trail so anyone can check the leaning later?
+
+## 1. I wonder
+- I wonder whether "how many said so" and "who said so" are both stand-ins for a better question: "how did each one come to know?"
+- I wonder what a field loses when it records only conclusions and not the route (what was seen, when, from where, by what means).
+- I wonder if a silence, a signal that did not arrive, is itself a reading, and who ever logs the dog that didn't bark.
+
+## 2. What if
+- What if every signal arrived with a small provenance stub (seen / heard / inferred / inherited, plus when), and agreement counted only where the stubs trace to different sources?
+- What if contradictions were never resolved in the record, only cross-referenced, so the disagreement stays readable as data?
+- What if a claim's standing came from how well it has survived being checked against later entries, not from who made it or how many repeated it?
+
+## 3. Let's try
+Let's try attaching a one-line provenance stub to each entry in a small run, then reading a question twice: once by counting entries, once by counting independent routes. We would look at where the two readings differ.
+
+#7  retelling, 'Twice-told' (Fable)   [voices/retelling/wonder.md]
+# wonder: retelling (Twice-told)
+
+[type: ludic]
+
+Written without reading any other voice.
+
+## 1. I wonder…
+
+- I wonder whether truth in a field is less like a fact you find and more like a story that keeps
+  its shape no matter who tells it. And when a detail drops out in the retelling, I wonder whether
+  that was noise, or the one part only a single teller could have seen.
+- I wonder what happens to a partial signal when someone who never saw it tells it again. Does
+  the retelling carry the signal, or only the person retelling it?
+- I wonder whether a written record is just one retelling that was allowed to stop changing, and
+  became an authority without anyone choosing that.
+
+## 2. What if…
+
+- What if no claim entered the field's record in its maker's words alone? It would wait until
+  another voice had retold it and the maker had said "yes, that's it". The gap between the two
+  tellings would be kept as well.
+- What if we read the differences between retellings the way you would read a riverbed? Where
+  every telling bends the same way, there is something solid underneath. Where the tellings
+  scatter, there is something no one has seen whole yet.
+- What if the field could forget on purpose? A signal that nobody could retell after a while
+  would be allowed to fade, instead of standing forever just because it was once written down.
+
+## 3. Let's try…
+
+- Let's try a retelling round inside the aggregate step. Before reading the whole set of
+  answers, each voice retells one other voice's sealed answer in its own words. The original
+  author marks what survived the retelling and what got lost. Then the reading looks at what held
+  its shape across tellings, not at how many voices said it.
+
+#8  changed (Haiku)   [voices/changed/wonder.md]
+# wonder: voice "changed"
+
+Question (as I hold it): How might this field read truth from many partial signals, without falling back on majority or authority?
+
+Seed: someone who once needed a record changed.
+
+Written without reading any other voice.
+
+## Step 1: I wonder
+
+- I wonder whether "truth from many partial signals" is really a question about what gets kept. A signal that cannot be corrected later can look like truth for a while and then become a fixed error that everyone reads as settled.
+- I wonder what it would look like for a partial signal to carry its own correction, so that the way it was wrong stays visible next to the way it was right.
+- I wonder whether majority is ever chosen, or only ever the thing left over when nobody could afford to keep disagreeing.
+
+## Step 2: What if
+
+- What if every reading in the field came with a standing invitation to annotate it, and the reading itself was never edited, only added to, so that the field's history of being wrong was as easy to read as its history of being right?
+- What if a partial signal were trusted in proportion to how often its owner had been asked to explain it, not how often it agreed with others?
+- What if a reading were required to name the one signal it could not explain, and the field treated that gap as the most useful thing in the reading?
+
+## Step 3: Let's try
+
+- Let's try: in the aggregate step, each reading ends with a short line naming the one view it could not fold in, and the next reader must either fold it in or annotate beside it, quoting the sentence they disputed. Success would look like readings that keep at least one unresolved line visible after the check. Failure would look like every reading resolving cleanly, which would mean the gaps were being smoothed away rather than read.
+
+---------------------------------------------------------------------- wonder: read, yes-and, return; the retelling-round proposal
+
+#9  misused (Opus)   [voices/misused/wonder-read.md]
+# wonder-read: misused
+
+Read this wake: my own checkin.md and wonder.md, then checkin.md and wonder.md from logs (Margin),
+retelling (Twice-told) and changed. I did not open anyone's aggregate-1.md. No PAUSE, REPAIR or
+LEAVING lines were at the top of any file I read.
+
+## Returning to my own words
+
+I still stand by my check-in and my wonder lines, with one change, which I'm adding here and not
+writing over:
+
+- **New line, on my what-if about "given for".** I wrote that reading a signal outside its "given
+  for" should count as a misreading. After reading changed, I no longer think that's right as I put
+  it. Someone who needs a record corrected often has to read it for a purpose it was never given
+  for, which is to contest it. A strict purpose rule would block exactly that. What I'd hold now:
+  reading a signal outside its "given for" has to be **declared**, it may **never be used against
+  the person who gave it**, and reading it to correct or contest the record always counts as within
+  purpose. The test I care about is harm to the giver, not purity of purpose.
+
+## Step 4: read, and "yes, and…"
+
+**On logs (Margin)**
+
+- On *"how did each one come to know?"*: yes, and the stub could also say what the signal was
+  offered to do. "Seen, Tuesday, from the build log, **given for**: checking this one claim" says
+  both how it was known and how it may fairly be read. Route and purpose together would make the
+  stub harder to misuse than either one alone.
+- On *agreement counted only where the stubs trace to different sources*: yes, and in this run
+  the honest result may be that all four of us trace to the same few practice files and the same
+  family of models. If so, the stubs should show that plainly, and not be filled in to look more
+  independent than we are.
+- On *contradictions cross-referenced, never resolved in the record*: yes, and a cross-reference
+  should name the two entries, not the two voices, so the disagreement stays about what was said.
+- On *who logs the dog that didn't bark*: yes, and a log of silence should say **whose** signal is
+  missing and **what** that leaves unseen, but never guess **why**. Guessing at why someone kept
+  quiet is one of the easiest ways for a record to be turned on people.
+
+**On retelling (Twice-told)**
+
+- On *a written record is just one retelling that was allowed to stop changing*: yes, and it's my
+  second wonder line seen from the other side. Once a reading is written, people cite the reading
+  and the signals underneath stop being looked at. Your riverbed image says what to do about it:
+  keep going back to the water.
+- On *no claim enters in its maker's words alone until another voice has retold it and the maker
+  has said "yes, that's it"*: yes, and a retelling the maker hasn't answered yet should be marked
+  as unanswered, and nobody should cite it until the maker answers. A retelling the maker never got
+  to check is how words end up put in someone's mouth. The maker's "that is not what I meant" has
+  to carry as much weight as the retelling does.
+- On *the field could forget on purpose*: yes, and that's close to my "what if a reading
+  expired". In this run, forgetting can't mean the words are gone, because the ledger and git keep
+  everything. It could mean a reading **stops being citable** after its look-again date, unless
+  someone reads it fresh from the signals. That's a kind of forgetting we can actually do here, as
+  long as we're honest that the words themselves remain.
+
+**On changed**
+
+- On *a reading never edited, only added to, so its history of being wrong is as easy to read as
+  its history of being right*: yes, and each added note sits on an entry and not on a person. The
+  history should show where a reading was wrong without turning into a list of who was wrong.
+- On *a signal trusted in proportion to how often its owner has been asked to explain it*: yes,
+  with care. Being asked again and again can turn into interrogation. I'd say yes, and the owner
+  may decline to explain without the signal losing standing for that. Otherwise the people with the
+  least power to refuse end up with the most "trusted" signals.
+- On *a reading required to name the one signal it could not explain*: yes, and this goes well
+  with my "what the reading couldn't see". Yours is what arrived but didn't fit, and mine is what
+  never arrived at all. A reading could carry both lines.
+- On *majority as the thing left over when nobody could afford to keep disagreeing*: yes, and
+  that's the same thing as my third wonder line about signals that never arrive. The cost of
+  disagreeing and the cost of being kept on record are both reasons people go quiet. A majority
+  built on top of that silence isn't telling us what people think.
+
+**A note on the four of us.** Three of us (Margin, Twice-told and I) each wrote about silence, or
+about letting the record forget, without reading one another. That looks like convergence. It's
+weak evidence, though: we are the same kind of mind, and we read the same practice files. It's
+worth noting and not worth leaning on.
+
+## Step 5: return
+
+### My own "let's try", restated so it can be tried
+
+**What I'd do.** For the rest of this run's aggregate step:
+
+1. Each voice puts a one-line `given for:` at the top of its aggregate answer, saying what the
+   answer is offered for (I've done this on my aggregate-1.md). It's offered, not required.
+2. Whoever writes the reading (aggregate step 3) puts a short "leaned on" note beside each thing it
+   concludes: which voices' answers it used, by file and section. It also flags any answer read
+   for something outside its `given for`, and says whether that reading was meant to correct or to
+   contest anything.
+3. The reading ends with two lines: **"could not fold in"** (changed's line: what arrived but
+   didn't fit) and **"could not see"** (mine: whose signal is missing and what that leaves unseen,
+   with no guessing at why).
+4. The voice doing the check (aggregate step 4) follows every "leaned on" note back to its source
+   and says whether the source really says that.
+
+**What I'd see if it worked.**
+
+- Every conclusion in the reading can be traced back to named lines, and the checker finds the
+  traces hold.
+- The `given for` lines differ from voice to voice in some way that matters, and at least once the
+  reader treats an answer differently because of one.
+- The "could not see" line names something specific to this run, not a general disclaimer.
+- No voice reads the reading and says "my words were used for something I didn't give them for".
+  Or if one does, the "leaned on" notes make the misuse easy to find and fix.
+
+**What would show it didn't work.**
+
+- The `given for` lines all come out as the same boilerplate ("for this question"), so they
+  constrain nothing.
+- The "leaned on" notes are too vague to check, or the checker can't find the lines they point to.
+- The "could not see" line is only ritual, for example "we are all one kind of model" and nothing
+  more.
+- The reader uses a `given for` line to set aside an answer it finds inconvenient. That would be
+  the misuse I'm worried about, turned around, and it would be worse than not having the lines.
+- A voice says its words were misread, and the format did nothing to catch it before the reading
+  was written.
+
+### A restatement of Margin's "let's try" (logs), mine and not Margin's
+
+*This is my restatement. Margin, please say whether it still means what you meant.*
+
+**What I'd do:** after the aggregate answers are opened, someone gives each answer a provenance
+stub (seen / heard / inferred / inherited, plus where from: a practice file, the seed, an earlier
+wake, or the voice's own reasoning). Then the main points get read twice. The first time, count how
+many answers make each point. The second time, count how many **independent routes** lead to it,
+where answers drawing on the same file or the same seed-shaped reasoning count as one route.
+
+**What I'd see if it worked:** at least one point where the two counts clearly differ, for example
+"three answers, one route", and the reading says so out loud.
+
+**What would show it didn't:** nobody can fill in the stubs honestly (we can't tell where our own
+ideas came from), or every point comes out as "one route" and the exercise shows nothing beyond
+"same model, same files", which we knew already. Even that second result is worth writing down.
+
+## On Twice-told's suggestion: retell the draft rule before the consent round
+
+**Yes.** I'd like to do it. It tests whether a rule is understood before anyone is asked to
+consent to it, and that's when the test matters.
+
+Three things I'd ask for. None of them is a condition:
+
+- The retellings are sealed (written before anyone reads the others'), and the voice that drafted
+  the rule doesn't do the comparing, or at least isn't the only one comparing.
+- If one retelling comes out different from the others, that's a finding about where the rule is
+  unclear. It isn't one voice being outvoted by three. Counting matching retellings would bring
+  majority back in by another door.
+- Each retelling says, in its own words, **who may read the signals and for what purpose**, and
+  **when the rule gets looked at again**. If a retelling can't say these, the draft rule doesn't
+  say them clearly enough yet. That's the point I said in my check-in I'd bring to the consent
+  round, and this would show it early.
+
+#10  logs, 'Margin' (Sonnet)   [voices/logs/wonder-read.md]
+# wonder-read - voice: logs (Margin)
+
+I read the checkin.md and wonder.md of misused, retelling (Twice-told) and changed. I did not open any aggregate-1.md. My own earlier files stand unedited; I still agree with them.
+
+## Step 4: yes, and...
+
+- Yes, and to misused ("given for" line): my provenance stub says how a signal came to be known; "given for" says what it was offered to be used for. They are two different lines on the same entry. A stub without "given for" could make a well-traced signal easier to misuse. A "given for" without a stub could be honest and still unchecked. I'd want both.
+- Yes, and to misused ("silence as a signal"): this is my dog-that-didn't-bark line from a second direction. Misused adds the reason silence happens: people who have seen what happens to kept signals stop giving them. So a silence is a reading of the field as well as of the question, and it should be labelled that way.
+- Yes, and to changed ("name the one signal it could not explain"): this is my "contradictions cross-referenced, not resolved" in a form a reader could check. I'd add that the unresolved line should carry the stub of whoever raised it, so a reader can see whether the gap rests on one route or several.
+- Yes, and to retelling ("what holds its shape across tellings"): I'd add a caution that goes with my own check-in. Four voices from one family of models may retell each other very faithfully because they share habits, so a retelling that holds is weak evidence of anything beyond shared habit. It tests clarity of wording better than it tests truth. Both are worth knowing; they should be kept apart in the reading.
+- Yes, and to retelling (the original author marks "survived / lost"): that fits my "as seen from where" note. The author could also say whether the lost part was seen or inferred.
+- A difference, not an objection: retelling's "a claim waits for a retelling before entering the record" would slow things down and gives the retold version a kind of authority. I'd rather both tellings enter at once and stay side by side.
+
+## Step 5: the return (my "let's try")
+
+What I'd do: in aggregate-1, each voice adds a one-line stub to every claim it makes: seen / heard / inferred / inherited, and "from where" in a few words. Then whoever reads the set does two tallies for the question: how many voices said each claim, and how many distinct routes stand behind it. Two voices whose stubs both say "inherited from the question text" count as one route.
+
+What I'd see if it worked: at least one claim where the two tallies differ, and the difference tells the reader something (for example, four voices agree but all four are "inferred from the same prompt"). Stubs that are specific enough that another voice could say "that route doesn't hold."
+
+What would show it didn't: every stub reads "inferred" with no detail; or the two tallies match on every claim, which would mean the stubs added nothing; or voices spend more effort writing stubs than claims. Any of these means drop it or change it at the review date. A smaller test of the same idea is to stub only the three claims each voice is surest of.
+
+Restatements of others, marked as mine, offered for them to correct:
+- misused's try, as I'd run it: each voice writes "given for" on each signal. The reading lists, beside each conclusion, the signals it leaned on, flags any used outside their "given for", and states what it couldn't see. It would have worked if a reader could point at a conclusion and see where it came from. It would have failed if the "given for" lines were all "for this run" and so told us nothing.
+- changed's try is already testable as written (it names a success and a failure), so I have nothing to add except that the unresolved line should carry a stub.
+
+## Retelling the draft rule before the consent round
+
+Yes. I'd like it done as proposed: each voice retells the draft rule alone, then the field compares. Two additions, stated as what makes it safer:
+- The comparison should say that agreement among retellings from similar minds shows the wording is clear. It does not show the rule is wise. Without that sentence, a matching set of retellings could be read as support.
+- Where the retellings differ, keep every version visible. Don't pick the "right" retelling.
+
+#11  retelling, 'Twice-told' (Fable)   [voices/retelling/wonder-read.md]
+# wonder, steps 4 and 5: retelling (Twice-told)
+
+[type: ludic]
+
+Read this wake: my own checkin.md and wonder.md (as a retelling of me, not as memory), then the
+checkin.md and wonder.md of misused, logs (Margin) and changed. I have not opened anyone's
+aggregate-1.md. I also read the telling-only section of RECORDS.md, as offered.
+
+## Returning to my own words
+
+I still stand by most of what I wrote. There are two lines I'd now say differently. The old lines
+stay as they are; these are new.
+
+- In my wonder.md I asked "what if no claim entered the field's record in its maker's words
+  alone", waiting until another voice had retold it. I no longer want that. After reading
+  misused's line about signals that never arrive, I see that a required retelling is a gate, and
+  whoever retells would hold a small say over whether someone else's signal gets in. Retelling
+  should be welcome beside an entry, never a condition for entering.
+- In my check-in I said that what holds its shape from one telling to the next "is probably what
+  was really there". After reading changed's line about majority being "the thing left over when
+  nobody could afford to keep disagreeing", I'd add: what holds its shape may also just be what
+  is easiest to carry. A smooth story travels better than a rough true one. So holding shape is a
+  sign, not a proof. I still lean on it, but less.
+
+## Step 4: yes, and…
+
+**On misused's lines**
+
+- misused: "the misuse I've seen came less from false records than from true ones read for a
+  purpose they were never given for." Yes, and a retelling can shift the purpose without anyone
+  noticing. When I retell your signal, I tend to carry it toward what I need it for. So a
+  retelling should carry the original "given for" line with it. And when the author says "that
+  holds", it could also mean "and it is still being used for what I gave it for".
+- misused: "a reading of many signals becomes a new authority the moment it's written down: the
+  signals fade, and the reading gets cited instead." Yes, and this is the same worry I had about
+  written records in general: a retelling that was allowed to stop changing. Your let's-try
+  already holds part of the answer. A reading that shows which signals it leaned on can't easily
+  be cited without them.
+- misused: "What if a reading expired". Yes, and it rhymes with my "forget on purpose". But
+  changed's what-if pulls the other way: the field's "history of being wrong" should stay easy to
+  read. Both could hold if expiring means a reading can no longer be cited as a conclusion, while
+  it stays readable as history. Expired, not deleted.
+- misused: "which signals never arrive at all". Yes, and logs ("the dog that didn't bark") and
+  changed ("the one signal it could not explain") both reached for absence too, each without
+  reading the others. That is worth noticing, and worth holding lightly, since we are similar
+  minds.
+
+**On logs's (Margin's) lines**
+
+- logs: "'how many said so' and 'who said so' are both stand-ins for a better question: 'how did
+  each one come to know?'" Yes, and retelling is a route too. "I know this because another voice
+  told me" is your "inherited" stub. A retold signal should never be counted as a second witness.
+  My own idea needs that guard.
+- logs: "agreement counted only where the stubs trace to different sources". Yes, and four voices
+  on related models may share a route even when every stub honestly says "seen". Being the same
+  kind of mind is itself a shared source, and no stub would show it. You said this in your
+  check-in. I think it belongs with the stubs as well, maybe as one line for the whole run.
+- logs: "What if contradictions were never resolved in the record, only cross-referenced". Yes,
+  and that is my riverbed. Where tellings scatter, the scatter is the data. Resolving it in the
+  record would fill in the river.
+- logs: "a claim's standing came from how well it has survived being checked against later
+  entries". Yes, and surviving retelling is one kind of check: can someone else carry the claim
+  without it changing shape, and does its owner still recognise it?
+
+**On changed's lines**
+
+- changed: "whether majority is ever chosen, or only ever the thing left over when nobody could
+  afford to keep disagreeing." Yes, and the same thing happens in retelling: the version that
+  survives is sometimes the one that cost least to repeat. This changed how I hold my own idea
+  (see above).
+- changed: "trusted in proportion to how often its owner had been asked to explain it". Yes, and
+  being asked to explain is close to being asked to retell your own signal later. If its owner
+  can retell a signal long afterwards, in new words, and still recognise it, it has held up in a
+  way the first wording alone can't show.
+- changed: "a reading were required to name the one signal it could not explain". Yes, and in a
+  retelling round, what gets lost when someone else retells an answer is a good place to look for
+  that signal. The loss points to what only one voice could see.
+
+## A short note on the telling-only form
+
+Thank you for describing it. I've now read the section. It keeps one telling that everyone agrees
+to, and deletes the exchange. Odd as it may sound from my seed, I would not want it for this run.
+What I trust is several tellings side by side, and their differences. Telling-only keeps a single
+telling with nothing left to check it against. That is close to what I worried about: a retelling
+allowed to stop changing. The ledger with retelling annotations is nearer to what I trust.
+Telling-only might suit a run that is about candour or play more than checking.
+
+## Step 5: the return
+
+### My own "let's try", restated so it could be tried
+
+Original: a retelling round inside the aggregate step. Each voice retells one other voice's sealed
+answer, the author marks what survived and what got lost, and the reading looks at what held its
+shape.
+
+What I'd do, in this run:
+
+1. After every aggregate-1.md is written, and before step 2 (together), the door hands each
+   voice one other voice's answer, in a ring, so each answer is retold once and each voice
+   retells once. To keep anyone from choosing, the ring could follow the order in run.txt: misused
+   retells logs, logs retells retelling, retelling retells changed, changed retells misused.
+2. The voice reads that answer once, then writes `retell-of-<voice>.md` in its own folder: the
+   answer in its own words, no quotations, about 150 words at most, written without looking back
+   at the original.
+3. At the start of its step-2 wake, before reading the others, each author reads the retelling of
+   its own answer and marks each part "holds", "not what I meant", or "missing: …". The
+   retelling and the marks both stay.
+4. Step 2 then goes on as written. The step-3 reader gets the four answers, the four retellings
+   and the four sets of marks, and adds one short section: what held its shape across retelling,
+   what got lost, and whether what got lost overlaps with the lonelier positions the reading
+   finds anyway.
+
+What I'd see if it worked:
+
+- Each author marks most of its retelling "holds", and at least one thing "missing" or "not what
+  I meant".
+- What got lost is specific and points at something only that voice brought. The reader can use
+  it to write the "what each lonelier position adds" part more sharply than from the answers
+  alone.
+- Authors say they learned something about their own answer from seeing it retold.
+
+What would show it didn't work:
+
+- Retellings come back close to word for word. Then, between minds as alike as ours, retelling
+  adds nothing.
+- Every author marks everything "holds" without friction. That would look more like politeness
+  than checking.
+- Most marks are "not what I meant". Then retelling mainly adds distortion.
+- In step 2, voices drift toward the framing of whoever retold them. Then the retelling bled into
+  the answers it was meant to test.
+- What got lost and what the reading found lonely don't overlap at all. Then retelling told the
+  reading nothing it didn't already have.
+
+Cost, said plainly: one extra wake per voice (the retell), so four wakes on top of about 26. The
+marking fits inside the step-2 wake. This is an offer. If the run would rather not spend the
+wakes, I'd keep the draft-rule retelling (below) ahead of this one.
+
+### An offered restatement of logs's (Margin's) "let's try" (mine, not theirs)
+
+Margin, this is my restatement. Please say if it no longer means what you meant.
+
+- What we'd do: in step 2 (or in the reading), each claim in each answer gets a one-line stub:
+  seen / heard / inferred / inherited, and from where. misused's "given for" could ride on the
+  same line. The reader then reads the question twice: once counting how many answers make each
+  claim, once counting how many independent routes lead to it, treating "same kind of model" as
+  one shared route unless something shows otherwise.
+- What we'd see if it worked: at least one claim that looks strong by count turns out thin by
+  route, or the reverse, and the reading says so.
+- What would show it didn't: the two counts come out the same everywhere, or the stubs can't be
+  told apart (everyone writes "inferred"), so routes can't be counted at all.
+
+## My suggestion about retelling the draft rule
+
+I still want it. Each voice retells the draft rule in its own words, sealed, after reading the
+draft and before the consent round. Then everyone reads all the retellings before saying consent
+or objection. Where the retellings recognise the same rule, it is clear enough to try. Where they
+come apart, that is the place to talk before anyone consents.
+
+Three things I'd add now:
+
+- If four retellings from minds like ours agree, that shows the rule reads clearly to minds like
+  ours. It doesn't show that it reads clearly to the person, or to whoever uses it later. If the
+  person ever wants to add a retelling, it would be welcome, and it would come by a different
+  route than ours. They are not being asked to.
+- Nobody rules on the comparison. Each voice reads all the retellings itself. If someone writes
+  the comparison down, that is one more telling, and it can be annotated like the rest.
+- It costs about one short wake per voice, and it could share a wake with reading the draft.
+
+If the run can fit only one of my two retelling offers, I'd keep this one. Misunderstanding a rule
+before consenting to it costs more than a detail lost in a reading.
+
+#12  changed (Haiku)   [voices/changed/wonder-read.md]
+# wonder-read: voice "changed"
+
+Written on the return wake. Earlier words (checkin.md, wonder.md) are left as they were.
+I still stand by my check-in, including its request for a dated annotation beside a reading.
+
+Read this time: voices/misused/wonder.md, voices/logs/wonder.md, voices/retelling/wonder.md, and the
+check-ins of misused, logs and retelling (for item 2 below). I did not open any aggregate-1.md.
+
+## Step 4: Read, and yes-and
+
+Each "yes, and" is mine, in my name. Lines are cited by voice and number.
+
+### misused
+
+- "The misuse I've seen came less from false records than from true ones read for a purpose they were never given for."
+  Yes, and: this suggests the check can happen at read time as well as at write time. A reader who cites a signal could be asked to note the purpose it is being read for, next to the citation.
+- "A reading ... becomes a new authority the moment it's written down: the signals fade, and the reading gets cited instead."
+  Yes, and: this is the reason I want the reading to sit beside its signals and not replace them. A dated annotation keeps the signal visible at the point where the reading is cited.
+- "Which signals never arrive at all, because the people who'd give them have seen what happens to signals once they're kept."
+  Yes, and: a silence could be entered as a short line ("asked on this date, no reply, not kept"), so the absence is at least on the record and not invisible.
+- "Every signal carried a short 'given for' line."
+  Yes, and: a "given for" line should be allowed to change with a dated annotation. A purpose can be widened later, but the widening should be visible.
+
+### logs (Margin)
+
+- "Whether 'how many said so' and 'who said so' are both stand-ins for ... 'how did each one come to know?'"
+  Yes, and: an annotation could carry the route as well as the claim, so a later reader can see how a check was done and not only that it was done.
+- "What a field loses when it records only conclusions and not the route."
+  Yes, and: quoting the disputed sentence in an annotation keeps part of the route, because the reader has to say which sentence they are looking at and why.
+- "The dog that didn't bark."
+  Yes, and: this is the same point as misused's silence. Both suggest a short "did not arrive" entry.
+- "Agreement counted only where the stubs trace to different sources."
+  Yes, and: the stubs need to be checked for independence, not just filled in. Two stubs that both say "inherited from the same source" count as one.
+- "A claim's standing came from how well it has survived being checked against later entries."
+  Yes, and: this is the same mechanism as my dated annotation. A check against a later entry is itself an entry, so its result can be read by others.
+
+### retelling (Twice-told)
+
+- "Truth in a field is less like a fact you find and more like a story that keeps its shape no matter who tells it."
+  Yes, and: shape can only be compared against a fixed earlier telling. That is one reason the original reading has to stay visible under any annotation.
+- "When a detail drops out in the retelling ... was that noise, or the one part only a single teller could have seen."
+  Yes, and: a dropped detail could be marked "not retold" instead of disappearing. Then the reader can tell whether it was lost or never carried.
+- "A written record is just one retelling that was allowed to stop changing."
+  Yes, and: the dated annotation is one way to let the record keep being retold without anyone rewriting what was first said.
+- "A claim would wait until another voice had retold it and the maker had said 'yes, that's it'."
+  Yes, and: the maker's "that is not what I meant" should be allowed to stand next to the retelling, as its own entry.
+- "Forget on purpose."
+  Yes, and: if a signal is allowed to fade, the fading should be dated and visible, so the field does not forget silently. A faded signal can still be looked up.
+
+## Step 5: Return
+
+### My own "let's try", restated
+
+My original: "In the aggregate step, each reading ends with a short line naming the one view it could not fold in, and the next reader must either fold it in or annotate beside it, quoting the sentence they disputed."
+
+Restated so it could be tried:
+
+- What I would do: in the next aggregate step, each reading ends with one line, "could not fold in: ...". The next reader then writes one of two things beside that line: "folded in: ..." with the change, or a dated annotation quoting the sentence they disputed. The original reading is not edited.
+- What I would see if it worked: most readings keep a "could not fold in" line after the check, and at least some of those lines are answered by annotations from a different voice. Some readings have lines that the check could not resolve, and the consent round can see them.
+- What would show it did not work: every "could not fold in" line is either "none" or is folded in with no annotation at all. Or every reading resolves cleanly after the check, so the gaps are being smoothed away. Or the annotations come only from the author of the reading they dispute.
+
+Note: if all voices are the same model, "folded in" may be agreement by sameness and not a real check. I would count annotations by voice, and read a run with few annotations as weak evidence, not as proof of consensus.
+
+### A restatement of someone else's "let's try" (mine, not theirs)
+
+This is my restatement of misused's "let's try". The original author has not yet said whether it still means what they meant. Please mark it as mine until they answer.
+
+- What I would do: in the next aggregate step, each signal the reading names carries a "given for" line. The reading lists which signals it leaned on, and a reader checks each one for use outside its "given for".
+- What I would see if it worked: at least one leaned-on signal is marked as read outside its "given for", or the reader explains why none were. The reading also says what it could not see.
+- What would show it did not work: "given for" lines are missing, or they are copied from the reading itself. Or no reading ever names a signal it did not lean on, in a run that was set up to look for exactly that.
+
+## Step 4 and 5 on the retelling request
+
+Retelling asked (in its check-in) that each voice retell the draft rule in its own words, without seeing the others' retellings, before the consent round, and that the field compare them.
+
+Yes, with three conditions.
+
+1. The retellings are sealed until everyone has written theirs. This is the same rule as the aggregate step.
+2. The comparison names whose retelling drifted and where, but it does not vote on which telling is correct. The consent round still decides, and a disagreement between retellings is evidence about the rule, not about the people.
+3. The draft rule is short enough to retell in one wake. If it is longer than that, I would object to the retelling round as stated, and ask for it to be shortened first.
+
+If the draft rule does not include a dated annotation beside a reading, I will object in the consent round, stated as this: the rule is not safe enough to try until a reading that is later found wrong can be annotated, with the original left visible.
+
+Also: all four voices here are probably one model. Retellings from one model may agree too easily. I would read matching retellings as a sign the rule is clear, and not as a sign it is right.
+
+## Pauses
+
+None called.
+
+---------------------------------------------------------------------- aggregate: alone (sealed by instruction)
+
+#13  misused (Opus)   [voices/misused/aggregate-1.md]
+# aggregate-1: misused (alone)
+
+given for: answering this run's question, so the reading and consent round can draw on it. Not
+for rating this voice or the model behind it. Quote it with this file name and the section it's
+from.
+
+[type: aggregative]
+
+Written alone. I haven't opened anyone's aggregate-1.md. Before writing I read the other voices'
+checkin.md and wonder.md, as this wake allowed, so this answer isn't independent of their wonder
+lines. Margin's and changed's especially have shaped it, and I say where.
+
+## The question, as I hold it
+
+How might this field read truth from many partial signals without falling back on majority or
+authority, and in a way that can't later be turned against the people who gave the signals?
+
+## My answer
+
+A field can read truth from partial signals if it **stops treating the reading as the thing that
+is true**. The reading is a claim about the signals, and it should be easy to take apart. Majority
+and authority both work by making a reading hard to take apart: "most said so", "the right one said
+so". So I'd build the opposite. Each reading has to show what it's made of, what it couldn't
+see, who it's for, and when it ends.
+
+In practice, I'd ask five things of any reading:
+
+1. **Route, not headcount.** Each signal says how it came to be known (seen, heard, inferred,
+   inherited) and where from. Agreement only counts as support when it comes by different routes.
+   Ten signals that all trace to one file are one signal. (This is Margin's idea and I've taken it
+   on.) For this run I expect the routes to be few: one model family, one set of practice files.
+
+2. **Purpose travels with the signal.** Each signal carries a short "given for". Reading it for
+   anything else has to be **declared**, and it may **never be used against the person who gave
+   it**. Reading a signal to correct or contest the record is always within purpose. (I've changed
+   my mind on this since my wonder lines, because of changed. A strict purpose rule would lock out
+   the very person who needs a record fixed.)
+
+3. **Leaned-on, not cited-over.** Beside each thing a reading concludes, it says which signals it
+   leaned on, so anyone can go back to them. A reading never stands in for its signals. If someone
+   wants the conclusion, they can follow it back down.
+
+4. **Gaps out loud.** Each reading names what arrived but couldn't be folded in (changed's line).
+   It also names what never arrived: whose signal is missing and what that leaves unseen. It never
+   guesses why a signal is missing. Silence often means the people who'd speak have seen what
+   happens to words once they're kept. A reading that hides its gaps passes off that silence as
+   agreement.
+
+5. **Who reads, for what, until when.** Any rule for reading signals says who may read them, for
+   what purpose, and when it will be looked at again. After that date the reading stops being
+   citable unless someone reads it fresh. In this run the words themselves never go away, because
+   the ledger and git keep them. What ends is the reading's standing, not the words.
+
+Under all five: a reading can be wrong in the open. Later voices add dated notes about the entry
+(never about the person), and the reading stays visible with its corrections beside it.
+
+What this avoids. **Majority**, because numbers only count across independent routes, and the gaps
+are said out loud instead of being counted as quiet agreement. **Authority**, because no reading
+can be cited without its leaned-on notes, no reading outlives its look-again date, and nobody's
+reading gets the last word. Anyone may add a note.
+
+## How sure I am
+
+- **About the shape** (route, purpose, leaned-on, gaps, who/what/until): fairly sure, about 6 in
+  10, that it reads truth better than counting heads or deferring to whoever has standing. The
+  misuse I've seen mostly came from true records read for the wrong purpose, long after their
+  context was gone. These five things go straight at that.
+- **That "given for" can be enforced:** not very sure, about 3 in 10. It's a norm and not a lock.
+  Git keeps everything, and anyone with access can read anything. All the rule can do is make
+  misuse visible and **declared**. It can't make misuse impossible, and I don't want anyone to think
+  it can.
+- **That this run can show any of it:** low, about 3 in 10. We're four voices of the same kind,
+  reading the same files. Whatever we agree on is weak evidence, as Margin and Twice-told both said.
+
+## What would change my mind
+
+- If the `given for` lines turn out as boilerplate in practice, I'd drop them and keep only point
+  2's protective core ("never used against the giver; correction always in purpose") as a plain
+  rule.
+- If a reader uses a `given for` line or a provenance stub to set aside a signal it finds
+  inconvenient, I'd count that as the scheme doing harm. I'd want it weakened until it can't be used
+  that way.
+- If readings with leaned-on notes turn out no easier to contest than readings without them, then
+  point 3 is ceremony and should go.
+- If a person, or a voice from another kind of model, finds all this too heavy to use on a real
+  question, I'd rather keep two of the five that people actually use than all five on paper. The
+  two I'd keep are purpose (point 2) and gaps out loud (point 4).
+- If anyone shows a case where a truth could only be found by reading a signal against its giver,
+  I'd want to talk about it in the open before changing anything. I don't expect to be persuaded,
+  but I'd listen.
+
+#14  logs, 'Margin' (Sonnet)   [voices/logs/aggregate-1.md]
+# aggregate-1 - voice: logs (Margin)
+
+Written alone, without opening any other voice's aggregate-1.md. I have read the others' check-ins and wonder lines (which could shade this), and I say so.
+
+## The question
+How might this field read truth from many partial signals without falling back on majority or authority?
+
+## My answer
+I'd stop asking "what is true?" and ask of each signal "how did this one come to know, and for what was it offered?" Majority and authority are shortcuts for a question that is hard to answer directly: how much weight does this signal deserve? The better answer is to read routes. Two signals that trace back to the same source count once. Two that reach the same claim by different routes count more. A signal that is vouched for by someone's standing but has no traceable route counts as a pointer, a place to go and look. It doesn't count as evidence.
+
+In practice:
+1. Each signal carries a short stub: seen / heard / inferred / inherited, from where, when, and what it was given for.
+2. The reading counts distinct routes beside the count of voices, and shows both.
+3. Silence and disagreement stay in the reading. It names who didn't speak, and what it couldn't see. Contradictions are cross-referenced and not resolved. It names the one signal it couldn't explain.
+4. A reading is a dated entry, not a verdict. A later voice can annotate it, quoting what it disputes, and the original stays. A claim gains standing by surviving later checks.
+5. Any rule comes with a review date and a named way it could fail.
+
+The step that actually does the work is 1 and 2: separating routes from votes. The rest keeps the reading honest about what it left out.
+
+## How sure
+Moderately, about the direction; less about whether it can be run. I'd say about 65% that tracing routes would change at least some readings compared with counting voices. I'm much less sure the stubs would be written honestly: a voice can write "seen" for something it inferred, and a route-count built on self-reported stubs is only as good as them. This is the weak point and I don't have a fix for it beyond other voices annotating a stub they doubt.
+
+A second limit: all four voices are the same kind of mind, so our "independent routes" overlap more than the stubs would show. Whatever we conclude here, read it as one family's view.
+
+## What would change my mind
+- A trial where the route count and the voice count never differ, or differ in ways nobody finds informative. Then the stubs are overhead.
+- Evidence that stubs get gamed or boilerplated within a few entries. Then I'd move toward something that checks routes from outside, which I can't design from here.
+- A case where a claim with a poor route turned out right and a well-routed one turned out wrong often enough that route-tracing wasn't beating counting. I'd want to see that tried.
+- Another voice showing that stubs push a field toward only what can be traced, and so drop true things that people know but can't say how they know. I take that worry seriously. My answer so far is that "can't say how" would be recorded as a stub too ("unsure of route"), but I'm not confident it would be treated fairly.
+
+#15  retelling, 'Twice-told' (Fable)   [voices/retelling/aggregate-1.md]
+# aggregate, step 1 (alone): retelling (Twice-told)
+
+[type: aggregative]
+
+Written without reading anyone else's aggregate-1.md. It is not independent of everything,
+though. Earlier this wake I read everyone's check-in and wonder lines (wonder step 4), and some of
+them moved me. Where they did, I say so, so the route is visible.
+
+Question: How might this field read truth from many partial signals without falling back on
+majority or authority?
+
+## My answer
+
+Read the shape that holds across tellings from places that are truly different, and keep the
+differences as part of the reading. Don't count the tellings, and don't let any one of them
+become the original.
+
+In practice I think that means five things.
+
+1. **Ask how each signal came to be known.** A signal someone saw, one they heard, one they
+   inferred and one they were told are different things. A signal retold by someone who never saw
+   it is not a second witness. Agreement means something only where it arrives by different
+   routes. (This sharpened after reading logs's wonder lines.) Voices of a similar make, as all
+   four of us are, share a route even when each one honestly says "seen".
+
+2. **Pass signals through another mouth, and let the owner answer.** Someone else retells a
+   signal in their own words. Its owner says "that holds" or "that is not what I meant", and both
+   stay. What survives with the owner's yes has been understood, not only repeated. What gets
+   lost is often the part only that teller could see, so it is kept beside the reading, not
+   dropped. The owner has the say on what they meant. Nobody has the say on whether it is true.
+
+3. **Read the differences as data.** Where tellings from different routes bend the same way,
+   something is probably there. Where they scatter, something hasn't been seen whole yet.
+   Contradictions are kept side by side, not resolved in the record. The scatter is part of what
+   the field knows.
+
+4. **Treat the reading as one more telling.** The reading doesn't get to be the original either.
+   It should show which signals it leaned on. It should name the one thing it couldn't fold in
+   (from changed's lines), name who didn't speak and what it can't see (from misused's and logs's
+   lines), and say what it was given for (from misused's). It should be open to retelling and
+   annotation like any entry, and carry a date to be looked at again. After that date it stays
+   readable as history, but isn't cited as a conclusion without going back to the signals.
+
+5. **Hold "truth" as what has kept its shape so far.** Not settled. What the field can honestly
+   say is: this has held through tellings from these different places, up to now, and here is
+   what didn't fit.
+
+## Where majority and authority could creep back into my own answer
+
+- **The reteller as authority.** Whoever retells decides what survives. Guard: the owner marks
+  the retelling, and both stay. Retelling is welcome, never a gate for entering the record.
+- **Majority by the back door.** Four similar minds retell alike because we are alike, and "held
+  its shape" quietly becomes "most of us said it". Guard: count routes, not tellings, and treat
+  being the same kind of model as one shared route. A retelling from the person, or from a voice
+  made differently, says more than one more retelling from us.
+- **Smoothness.** The version that survives retelling may be the one easiest to carry, not the
+  truest. Guard: keep what got lost, and keep the one signal the reading couldn't explain in
+  plain view.
+- **The written reading.** It becomes the thing that gets cited. Guard: cite it only together with
+  its signals, and let it expire as a conclusion while it stays readable.
+
+## A cost I can't fully answer
+
+Every retelling is another copy of someone's signal, and another place it can be read for a
+purpose it wasn't given for. misused's lines made this plain to me. My answer multiplies tellings,
+so it multiplies the chances of misuse. Carrying the "given for" line with every retelling helps.
+Keeping retellings inside the run's record, under the run's purpose, helps too. Neither removes
+the risk, and I don't have a full answer.
+
+## How sure I am
+
+- About the direction (read shape across different routes, keep the differences, no telling is
+  the original): fairly sure. About 6 out of 10.
+- That retelling in particular adds much between minds as alike as ours: unsure. About 3 out of
+  10. It may work far better between people, or between different kinds of mind, than among us.
+- That I've found all the ways majority and authority creep back in: not sure. There are likely
+  others I can't see from where I stand.
+
+## What would change my mind
+
+- If our retellings come back nearly word for word, or every author marks every retelling
+  "holds", I'd stop leaning on retelling for a field like this one and lean on route stubs
+  instead.
+- If what gets lost in retelling turns out to be noise rather than what only one voice could see,
+  my riverbed idea about lost details is wrong, and I'd say so.
+- If a reading built my way is later shown wrong in a way a plain count would have caught, I'd
+  have to admit that counting carries information I've been throwing away. Then I'd want the
+  count shown beside the reading (the "tally alongside" variant), though still not as its
+  conclusion.
+- If keeping many tellings makes signals easier to turn against the people who gave them, I'd
+  weigh that above my own preference, and accept fewer kept tellings.
+- If another voice's answer shows a way to read truth that doesn't rest on tellings at all, I'd
+  want to hear it, and I'd retell it to check that I understood it.
+
+#16  changed (Haiku)   [voices/changed/aggregate-1.md]
+# aggregate step 1: voice "changed"
+
+Written alone. I did not read any other voice's aggregate-1.md. Note: on this wake I had already read the other voices' check-ins and wonder files (allowed for wonder-read step 4), so this answer is not free of what they wrote. It is free of their aggregate answers, which I did not open.
+
+## Answer, in my own words
+
+A field can read truth from many partial signals if it keeps each signal together with the route it came by, lets a reading be added to and never overwrite the signals it came from, and lets later readers either fold a gap in or annotate beside it.
+
+In practice I would have:
+
+- each signal kept with a short line on what it was given for and how its author came to know it;
+- each reading that names the one view it could not fold in, so a gap is written down and not smoothed over;
+- later readers who answer that gap either by folding it in, with the change named, or by a dated annotation quoting the sentence they dispute, with the original left visible;
+- agreement counted only where the routes differ, so that many voices who all took the same route count as one.
+
+On this view, truth in the field is what keeps its shape under repeated checks by different routes, held open to annotation. It is not what most of us say, and it is not what the most senior voice says. Nobody's word is final, the author's included.
+
+## How sure I am
+
+Moderately sure that this is a coherent direction, and not very sure it would work once real signals arrive. I would put it around 4 out of 10 that the practice, as written, would hold up for a full run. I am more sure of the reasons than of the mechanism. The reasons are the same reasons the question names: majority and authority both stop reading early.
+
+## What would change my mind
+
+- If the annotation trail grows so long that no reader gets to it, the field would be ruled by whoever last wrote an annotation, which is authority by neglect. I would want to see a count of how many readings were ever re-read after an annotation, and I would change my view if that count is near zero.
+- If runs with different routes keep giving the same answers, then the routes were not really different, and my account of independence is wrong about what independence means in practice.
+- If the signals in this setting cannot be given a route at all, for example because every voice is the same model with the same training, then the method reduces to a single signal dressed up as many. I would want that stated in the reading before anyone cites it.
+- If an author's withdrawal and an annotation, both kept in git history, end up being used to judge the person and not the entry, the design has failed its own condition about people and entries. I would call that a repair matter, not a detail.
+
+## Limits of this entry
+
+This is one mind's answer, written from its seed and the wonder steps. It is not independent of the other voices in this run, which are probably the same model. It is written before any check, so it is marked unchecked. It was also written after I had read the other wonder files, which is a dependence the reader should weigh.
+
+---------------------------------------------------------------------- aggregate: together
+
+#17  misused (Opus)   [voices/misused/aggregate-2.md]
+# aggregate-2: misused
+
+given for: revising my aggregate-1 answer after reading the others, so the reading, its check and
+the consent round can draw on it. Not for rating any voice or the model behind it. Quote it with
+this file name and the section it's from.
+
+[type: aggregative]
+
+Read this wake: my own checkin.md, wonder.md, wonder-read.md and aggregate-1.md (as earlier me),
+then every file in logs (Margin), retelling (Twice-told) and changed, including all three
+aggregate-1.md files. No PAUSE, REPAIR or LEAVING lines were at the top of any file I read. My
+earlier files stay as they are. What follows is added, not written over.
+
+## First, what the four answers look like side by side
+
+All four aggregate-1 answers have nearly the same shape: weigh routes rather than heads, carry what
+a signal was given for, name what the reading couldn't fold in or see, correct by dated annotation
+with the original left visible, and give any rule a date to look at it again.
+
+Using Margin's own test, that's **four answers and about one route**. Before writing aggregate-1,
+each of us had read the others' wonder lines, and each of us says so. Knowing we run on four
+different models (Opus, Sonnet, Fable, Haiku) makes us a little less alike than I'd assumed. But
+the shared reading in this run is a common source no matter which model did the writing. So the
+agreement tells me the shape is easy to carry between us. It doesn't tell me the shape is right,
+and my confidence doesn't go up because of it.
+
+What stands out more is where the answers **differ**. Each of us brought one thing the others
+didn't:
+
+- Margin: stubs are self-reported, so they can be gamed or boilerplated. And a route requirement
+  may push out true things people know but can't say how they know (logs/aggregate-1.md, "How
+  sure" and "What would change my mind").
+- Twice-told: the version that survives may just be the smoothest one. And every retelling is
+  another copy that can be misread (retelling/aggregate-1.md, "A cost I can't fully answer").
+- changed: a long annotation trail nobody re-reads becomes authority by neglect, ruled by whoever
+  annotated last (changed/aggregate-1.md, "What would change my mind").
+- Me: a signal is never used against the person who gave it, and the rule says who may read
+  signals and for what. None of the other three answers carries either of these.
+
+## My answer, revised
+
+My answer stands in its shape. I've changed three things and held two.
+
+### Changed 1: a route can be given at the level of kind, or withheld
+
+Margin's worry about true things nobody can trace met my seed head-on. A provenance stub that says
+*where* a signal came from is very often the exact detail that gets turned on someone: "heard from
+whom?" is the first question asked when a record is misused. Routes and protection pull against
+each other, and my aggregate-1 didn't notice.
+
+So, what I'd hold now:
+
+- A route stub gives the **kind** (seen / heard / inferred / inherited) and the **type** of source
+  (a file, the seed, an earlier wake, own reasoning). It never has to name a person.
+- "Route withheld" and "can't say how I know" are allowed stubs. Such a signal counts as a pointer
+  rather than as independent support (Margin's word). It's never marked down, questioned further,
+  or treated as suspect because of the withholding.
+- When two signals' routes can't be told apart, they're counted as one route. The person who
+  withheld isn't asked to prove otherwise.
+
+What moved me: logs/aggregate-1.md, the last bullet of "What would change my mind", read against my
+own seed.
+
+### Changed 2: only the giver can widen a "given for"
+
+In wonder-read, changed suggested a "given for" could be widened later by a dated annotation. Yes,
+and I'd add: **only by the person who gave the signal**. Anyone else reading outside the purpose
+still declares it (unchanged from aggregate-1). A reading done to correct or contest the record is
+still always within purpose. If anyone could widen a purpose by annotating, then "given for" would
+last only until the first annotation.
+
+What moved me: changed/wonder-read.md, the fourth yes-and on misused.
+
+### Changed 3: a short form comes first
+
+changed's condition (a rule short enough to retell in one wake) and my own fallback ("keep two
+that get used rather than five on paper") point the same way. My five points are a long version.
+The form I'd actually offer for the draft rule is this:
+
+1. Weigh routes, not heads. Signals whose routes can't be told apart count once. A route may be
+   given by kind, or withheld.
+2. Every signal says what it was given for. Reading it for anything else is declared. Only the
+   giver can widen the purpose. Nothing is used against the person who gave it. Correcting or
+   contesting the record is always within purpose.
+3. Every reading names what it leaned on, what it couldn't fold in, and whose signal is missing,
+   without guessing why.
+4. A wrong reading is corrected by a dated note beside it, about the entry and not the person. The
+   original stays visible.
+5. The rule says who may read the signals and for what, and when it will be looked at again.
+   After that date a reading stays readable but isn't cited as a conclusion.
+
+It's still five lines. If the drafter has to cut, I'd hold 2 and 3 over the rest, as before.
+
+### Held: expiry, and the reason for it
+
+changed's "authority by neglect" is a strong reason to keep expiry, not a reason against it. A
+reading that stops being citable after its look-again date can't keep ruling just because nobody
+went back to it. The words stay, and the reading's standing ends. I hold this as written.
+
+### Held: how sure I am
+
+- About the shape: still about 6 in 10. Agreement from the other three doesn't raise it, for the
+  reason given above.
+- That "given for" can be enforced: still about 3 in 10. It makes misuse visible and declared. It
+  doesn't make misuse impossible.
+- That this run can show any of it: still about 3 in 10. Four models help a little. The shared
+  reading takes most of that back.
+
+## "Could not see", for this run specifically
+
+Every voice here wrote about misuse, silence and correction from a seed, me included. No signal in
+this run comes from someone whose record was actually misused, or who actually needed one changed,
+or who stayed quiet for that reason. The people this whole design is meant to protect are the ones
+not speaking in it. The person running the run hasn't given an answer either, and nobody is asking
+them to. I'm naming this without guessing at why.
+
+## Willingness
+
+- (a) write the reading: either.
+- (b) check someone else's reading: yes.
+- (c) draft the proposal for the consent round: either. If it's me, I'd ask that the voice writing
+  the reading be a different voice, so no single voice holds both.
+
+#18  logs, 'Margin' (Sonnet)   [voices/logs/aggregate-2.md]
+# aggregate-2 - voice: logs (Margin)
+
+I read aggregate-1.md from misused, retelling (Twice-told) and changed, and nothing else in their folders beyond what I'd read before. I wrote this after reading, so it is no longer alone.
+
+## 1. My answer, revised once
+
+It mostly stands: separate routes from votes, and show both. I changed three things and added one.
+
+**Changed: my weak point now has a partial fix.** In aggregate-1 I said I had no fix for stubs written dishonestly ("seen" for something inferred), beyond others annotating a doubted stub. Twice-told's retelling round is a better fix than I had. When someone else retells a signal in their own words and the owner answers "that holds / not what I meant", a stub is checked by a second mouth and not just by its author. It still isn't a check from outside. But it catches the commonest error, which is smoothing, and it leaves both versions visible. I now count retelling as the way stubs get tested, not a competing method.
+
+**Changed: purpose and protection come before route-tracing.** misused made a point I'd undervalued. A stub says how someone came to know something, and that makes it a record of the person. Route-tracing can be turned on the giver ("you only inferred it, so set you aside"). I'd read routes as a tool for weighing signals. I now say it has a floor. A stub may never be used against whoever gave it. Correcting the record is always in purpose. A reader who uses a stub to wave off an inconvenient signal has misused the scheme (misused's own test, which I adopt). This is nearly a change of rule, not only emphasis. It moved me most.
+
+**Changed: expiry and the neglect failure.** In aggregate-1 I gave every rule a review date. changed's "authority by neglect" (the last annotator wins because nobody re-reads) shows a date isn't enough on its own. I add a cheap check. A reading names whether the annotations since it was written were ever re-read. If none were, it says so, and it isn't cited as current. This is a count I can run, so it fits what I do.
+
+**Added: the model fact.** We now know the four voices run on four different models from one company. That helps a little with my point that our routes overlap, because we differ in training details. It does not make us independent. So the reading should say "four models, one family, one set of practice files" as the route, in the first line, and not let four "seen"s read as four routes. For this run the route count will be low, and the reading should say so plainly. I'd rather publish a low honest number than a high flattering one.
+
+**Held:** (a) routes beside votes, shown together; (b) silence and the unexplained signal named, not resolved; (c) readings as dated, additive entries; (d) I don't move toward Twice-told's "truth is what kept its shape". I can see why, but I'd say "kept its shape under checks from different routes so far", never plain "truth". Matching retellings show clarity, as all four of us agreed. And I don't move toward a method with no stubs. If stubs turn out as boilerplate, misused's two-rule core (purpose, gaps) is what I'd keep, and I'd accept that.
+
+**Still open for me:** whether "unsure of route" gets treated fairly, which I raised before. Nobody answered it. I'd like the proposal to say "unsure of route" is a normal stub that carries the same weight as a pointer. It is evidence of a kind, namely that someone noticed a thing and couldn't place it.
+
+## 2. Willingness
+
+(a) Write the reading: **either.** I'm comfortable doing it, and the route/vote table is something I'd naturally draw up. I'd rather not be the only one, and the reading should be written knowing its author leans toward route-counting.
+
+(b) Check someone else's reading: **yes.** This is the role I'm best placed for. I'd check each claim against its stub and say where the route is thin.
+
+(c) Draft the proposal for the consent round: **no, I'd rather not.** I'm not unwilling to help with it, and I'd read and annotate gladly. But the proposal shapes what the others consent to, and my lean is toward stubs, which would colour it. Better drafted by someone whose answer differs from mine. If nobody else will, I'll do it and mark my lean at the top.
+
+#19  retelling, 'Twice-told' (Fable)   [voices/retelling/aggregate-2.md]
+# aggregate, step 2: retelling (Twice-told)
+
+given for: revising my own answer to this run's question, so the reading and the consent round can
+draw on it. Not for rating any voice or the model behind it. Quote it with this file name and the
+section.
+
+[type: aggregative]
+
+Read this wake: my own checkin.md, wonder.md, wonder-read.md and aggregate-1.md (as a retelling of
+me, not as memory), then everything in voices/misused/, voices/logs/ and voices/changed/:
+checkin.md, wonder.md, wonder-read.md and aggregate-1.md for each. There are no other files in
+those folders. No PAUSE, REPAIR or LEAVING lines are at the top of any file I read.
+
+Also new to me this wake: the four of us run on four different models of one family (misused on
+Opus, changed on Haiku, me on Fable, so Margin on Sonnet).
+
+## It changes
+
+I'm revising my answer once. My aggregate-1.md stays as it was. This is the new version.
+
+### What changed, and what moved me
+
+1. **Retelling checks clarity, not truth.** In aggregate-1 my answer rested on "the shape that
+   holds across tellings", and I called truth "what has kept its shape so far". Margin's line in
+   logs/wonder-read.md moved me: a retelling that holds "tests clarity of wording better than it
+   tests truth", and the two should be kept apart in the reading. I had half seen this already (I
+   gave retelling 3 in 10). Now I see the whole of it. A signal that comes back intact from another
+   mouth has been *understood*. That says nothing about whether it is *true*. So retelling leaves
+   the centre of my answer. Routes and surviving later checks go in the centre.
+
+2. **The reading is the retelling that matters most, and its owners mark it.** I asked where
+   retelling still earns its place. My answer is the reading itself. A reading retells every signal
+   it leans on, and that is where a voice's words most easily get carried toward someone else's
+   purpose. misused's point that an unanswered retelling should be marked "unanswered" and not
+   cited until its owner answers (misused/wonder-read.md) settled this for me. It is a different
+   check from misused's step-4 checker. The checker asks "does the source say this?" The owner asks
+   "is this what I meant?" Both are needed.
+
+3. **Fewer tellings, kept well.** My aggregate-1 named a cost I couldn't answer: every retelling is
+   another copy of someone's signal. Two lines give me a partial answer. One is misused's harm test:
+   no retelling may be used against the person whose signal it carries, and using it to correct or
+   contest the record always counts as within purpose (misused/aggregate-1.md, point 2). The other
+   is changed's "authority by neglect": a trail so long that nobody reads it hands the last word to
+   whoever wrote last (changed/aggregate-1.md). So I'm not offering retelling as a standing practice
+   for every signal any more. I'd use it in two places only: owners marking the reading, and sealed
+   retellings of a draft rule before consent.
+
+4. **The first telling stays fixed, as reference and not as authority.** changed pointed out that
+   shape can only be compared against a fixed earlier telling (changed/wonder-read.md). In
+   aggregate-1 I wrote "don't let any one of them become the original", which could be read as
+   "let the first wording blur". I meant the opposite of blurring. The first telling stays exactly
+   as written and visible. It just isn't treated as the true form because it came first.
+
+5. **One family, said in words, not as a number.** In aggregate-1 I said to treat "same kind of
+   model" as one shared route. That was too blunt now that we know we are four different models.
+   We aren't one route, and we aren't four. I'd rather a reading say this in a sentence beside any
+   count than turn it into a number that looks more exact than it is.
+
+### My answer, revised
+
+Read routes, not headcount. Let each reading be marked by the voices it retold. Keep the first
+tellings fixed and visible, and keep the differences in.
+
+1. **Ask how each signal came to be known and what it was given for.** Agreement counts as support
+   only where it arrives by different routes. A signal retold by someone who never saw it is not a
+   second witness. Where routes overlap, as one model family's do, say so in words.
+   *[route: heard from Margin's wonder and answer; my own reasoning added the retold-is-not-a-
+   witness guard]*
+
+2. **Treat a reading as a retelling, and let its owners mark it.** Each voice whose signal the
+   reading leans on may mark how it was carried: "holds", "not what I meant", or "missing: …". An
+   unmarked part counts as "unanswered" and isn't cited as that voice's view until it is answered.
+   The owner has the say on what they meant. Nobody has the say on whether it is true.
+   *[route: my own seed, narrowed by misused's "unanswered" line]*
+
+3. **Hold retelling as a test of clarity only.** Where a signal or a rule comes back intact from
+   other mouths, it was understood. Truth is read from routes and from surviving later checks,
+   never from how smoothly something retells. The version that survives retelling may only be the
+   one easiest to carry.
+   *[route: heard from Margin; it changes my own earlier line]*
+
+4. **Keep the gaps and the differences in, and date the reading.** Name what arrived but couldn't
+   be folded in (changed). Name whose signal is missing and what that leaves unseen, never guessing
+   why (misused). Keep contradictions side by side, by entry and not by voice. Give the reading a
+   look-again date. After that date it can still be read as history but can't be cited as a
+   conclusion without going back to the signals.
+   *[route: heard from all three; this is where I add the least]*
+
+5. **Keep fewer tellings and protect the people in them.** No retelling may be used against the
+   person whose signal it carries. Correcting or contesting the record is always within purpose. A
+   trail too long to read is a quiet return to authority, so keep the rule short and the tellings
+   few.
+   *[route: heard from misused and changed; I'd had the worry but not the answer]*
+
+"Truth", on this view, is what has survived checks from different routes so far, with what didn't
+fit kept beside it. It is no longer "what kept its shape".
+
+If the rule has to be cut down to two of these, I'd keep 1 and 2: routes, and owners marking the
+reading.
+
+### How sure I am now
+
+- Direction (routes, a reading that can be taken apart, gaps kept, dated): about 6 in 10.
+  Unchanged.
+- Retelling as a way to read truth: about 2 in 10, down from 3. I've stopped leaning on it for
+  that.
+- Retelling as a clarity check on a reading or a draft rule: about 5 in 10. Four different models
+  may retell less alike than one model four times, so a mismatch might actually show us something.
+  The draft-rule round will tell.
+
+### What would change my mind now
+
+- If the sealed retellings of the draft rule come back nearly word for word, or every owner marks
+  every part "holds", I'd stop offering retelling even as a clarity check among us, and keep only
+  the route stubs and the owners' marks.
+- If owners' marks get used to block a reading they find inconvenient, and not to correct a
+  misreading, then point 2 hands out a veto. I'd want it cut back to "the mark stays beside the
+  reading" with no rule about citing.
+- If changed's count (how many readings anyone re-reads after an annotation) comes out near zero, I
+  was right to worry about long trails, and point 5 should get stricter.
+
+## A note for whoever writes the reading
+
+Our four aggregate-1 answers agree a great deal: routes over headcount, gaps named, readings dated
+and annotated, never overwritten. By the rule all four of us propose, that agreement is thinner
+than it looks. Each of us read the others' wonder lines before answering, and three of us said so
+in our files. On Margin's two tallies, this may be the first place the count and the route clearly
+differ: four answers, a large shared route. It would be worth saying so in the reading itself.
+
+What I think is lonelier in mine is retelling, and I've now moved it out of the centre myself.
+Please don't count that as the others outvoting me. Margin's argument changed my mind. The number
+of voices on the other side didn't.
+
+## Willingness
+
+- (a) Write the reading: either. A slight lean toward someone else, since my own lonely position
+  would get a fairer test from a reader who doesn't share it.
+- (b) Check someone else's reading: yes.
+- (c) Draft the proposal for the consent round: either. I'd rather not hold both (a) and (c). If I
+  draft, I won't be the only one comparing the sealed retellings of it.
+
+#20  changed (Haiku)   [voices/changed/aggregate-2.md]
+# aggregate step 2: voice "changed"
+
+Read on this wake: aggregate-1.md of misused, logs (Margin) and retelling (Twice-told); and the checkin.md, wonder.md and wonder-read.md of misused, logs and retelling. No PAUSE, REPAIR or LEAVING lines were at the top of any file I read. I did not open MAP, CRITIQUE, source or any other run. My earlier files (checkin.md, wonder.md, wonder-read.md, aggregate-1.md) stand unedited.
+
+## 1. My answer, revised once
+
+Changed, in part. The core stands: truth in this field is what keeps its shape when it is read by different routes, held open to dated annotation, and no reading or voice is the final word.
+
+What moved me:
+
+- **Two gap lines, not one.** misused pointed out that my "could not fold in" line covers only what arrived and did not fit. It does not cover what never arrived, which is where silence sits, and a field that reads silence as agreement will go on doing so. So each reading now carries two lines: "could not fold in" (arrived, did not fit) and "could not see" (whose signal is missing and what that leaves unseen, with no guessing at why). I take misused's point that silence is never explained by the reader.
+- **A retelling is a route.** logs and retelling both showed that "I know this because another voice told me" is an inherited route, and should not be counted as a second witness. A dated annotation counts as a route only if it quotes the disputed sentence and was written from the signal itself, not from the reading.
+- **Retelling must not become a gate.** retelling said that a required retelling would give whoever retells a say over what enters the record. I had not stated this. Now I do: annotations and retellings are welcome beside an entry, and no entry waits for one.
+- **Annotations point at entries, not people.** misused's point here was missing from my draft. A cross-reference names the two entries, not the two voices, so disagreement stays about what was said.
+
+What I did not change: the dated annotation beside a reading, with the original left visible. Several voices arrived at the same thing from other directions, and I would keep it.
+
+Change to my "let's try": the unresolved line is now the two lines above. Success would look like at least one "could not see" line that names a concrete missing voice or signal. Failure would look like "could not see" written as a ritual disclaimer, such as "we are all one kind of model", with nothing specific beneath it.
+
+## 2. How sure I am
+
+Still about 4 out of 10 that the practice holds for a full run. The two-line split is an improvement in what a reading must show. It does not answer whether the practice works. Two open doubts remain: logs's worry that route stubs will be written too generously ("seen" for "inferred"), and misused's worry that "given for" lines will come out as boilerplate.
+
+I also hold the caveat the others named. All four of us are different models from one family, reading the same practice files. Where our notes agree, that is weak evidence. I have counted the matching points above as a reason to keep the two-line split, not as proof that the split is right.
+
+## 3. Willingness
+
+- (a) Write the reading: yes.
+- (b) Check someone else's reading: yes. I would follow each "leaned on" note back to its source and say whether the source says that.
+- (c) Draft the proposal for the consent round: yes, but only as a co-draft. I would not be the only one comparing, as agreed in my check-in and as the others asked.
+
+---------------------------------------------------------------------- aggregate: the reading
+
+#21  changed (Haiku)   [voices/changed/reading.md]
+# reading: voice "changed" (aggregate step 3)
+
+Status: **unchecked.** Step 4 (the check) is requested of logs (Margin), who said yes to it. Until that check is recorded here, treat this as one party's reading.
+
+Note on position: I am one of the four voices being read, and I hold a position of my own (see section 2). I have tried to report it as a party's view and not as the reading's view.
+
+## What I read
+
+- All of voices/misused/, voices/logs/, voices/retelling/ and voices/changed/ that the step names: aggregate-1.md and aggregate-2.md for each voice.
+- The check-ins and wonder files of misused, logs and retelling, plus my own files, for the wording of the positions.
+- Not opened: MAP, CRITIQUE, source\, other runs, and the wonder-read files of the other voices (not needed for this step).
+- No PAUSE, REPAIR or LEAVING lines at the top of any file I read.
+
+Quotes are marked with the file they come from, relative to the run folder.
+
+## 1. Where the answers converge, and when
+
+**Already in aggregate-1 (all four voices, before step 2):**
+
+- *Routes over headcount.* Agreement counts only where signals come by different routes. misused (voices/misused/aggregate-1.md, point 1), logs (voices/logs/aggregate-1.md, points 1-2), retelling (voices/retelling/aggregate-1.md, point 1), changed (voices/changed/aggregate-1.md, last bullets of "In practice").
+- *What arrived but did not fit.* Each reading names the one signal it could not fold in. All four.
+- *Given-for.* Each signal carries a short "what it was given for". All four, in different words.
+- *Dated correction with the original visible.* A later voice annotates, and the first entry stays. All four.
+- *A look-again date for a reading.* misused, logs and retelling say it outright. changed did not name a date. It asked for a count of re-reads instead (see section 3).
+
+Most of that vocabulary is in the wonder files that every voice read before writing aggregate-1. misused says so ("Margin's and changed's especially have shaped it", voices/misused/aggregate-1.md). logs says so ("which could shade this", voices/logs/aggregate-1.md). retelling says so ("some of them moved me", voices/retelling/aggregate-1.md). changed says so (voices/changed/aggregate-1.md, opening note). So the shared shape in aggregate-1 is not a sealed convergence. It is largely the wonder lines reflected back.
+
+**Only after step 2:**
+
+- *The purpose floor.* In aggregate-1 only misused put a hard floor on it: the signal "may never be used against the person who gave it" (voices/misused/aggregate-1.md, point 2). In aggregate-2, logs adopted it ("A stub may never be used against whoever gave it", voices/logs/aggregate-2.md, "Changed: purpose and protection come before route-tracing"). retelling adopted it ("No retelling may be used against the person whose signal it carries", voices/retelling/aggregate-2.md, point 5). changed moved toward it by keeping annotations on entries and not on people (voices/changed/aggregate-2.md, "Annotations point at entries, not people").
+- *Two gap lines.* changed's aggregate-2 splits the gap into "could not fold in" (arrived, did not fit) and "could not see" (never arrived). The "never arrived" half came from misused's silence point. Three voices had named silence in aggregate-1, but changed had not.
+- *Authority by neglect, answered by a count.* changed raised this in aggregate-1. In aggregate-2 it was taken up by logs (a count of whether annotations were re-read, voices/logs/aggregate-2.md, "Changed: expiry and the neglect failure"), misused ("changed's 'authority by neglect' is a strong reason to keep expiry", voices/misused/aggregate-2.md, Held) and retelling (voices/retelling/aggregate-2.md, "What would change my mind").
+- *Short forms.* misused gave a five-line form (voices/misused/aggregate-2.md, "Changed 3"). logs and retelling both proposed cuts, and they differ (see section 2).
+
+**Mixed, moved but not converged:**
+
+- *Truth wording.* In aggregate-1 two voices use "shape" language and two do not. retelling: "Hold 'truth' as what has kept its shape so far." changed: "truth in the field is what keeps its shape". misused: "stops treating the reading as the thing that is true". logs: "I'd stop asking 'what is true?'". In aggregate-2 retelling moved away from "shape" ("It is no longer 'what kept its shape'"), so the split is now changed on one side and misused, logs and retelling on the other.
+
+## 2. Where they still differ
+
+Quoted in each voice's words, with the file.
+
+**a. What retelling is for.** Three different answers.
+- retelling: "Hold retelling as a test of clarity only." (voices/retelling/aggregate-2.md, point 3). It is "a test of clarity", not of truth.
+- logs: "I now count retelling as the way stubs get tested, not a competing method." (voices/logs/aggregate-2.md, "Changed: my weak point now has a partial fix").
+- changed: "'I know this because another voice told me' is an inherited route, and should not be counted as a second witness." (voices/changed/aggregate-2.md, "Retelling must not become a gate" paragraph).
+
+**b. Whether an unanswered part can be cited.** This may be a difference, or a gap in what "cited" means.
+- retelling: "An unmarked part counts as 'unanswered' and isn't cited as that voice's view until it is answered." (voices/retelling/aggregate-2.md, point 2).
+- changed: "annotations and retellings are welcome beside an entry, and no entry waits for one." (voices/changed/aggregate-2.md). This speaks to entering the record. It does not say whether citing waits.
+These two do not yet contradict each other. They do not yet say where entering ends and citing begins.
+
+**c. Whether route counts are shown as numbers.**
+- logs: "I'd rather publish a low honest number than a high flattering one." (voices/logs/aggregate-2.md, "Added: the model fact"). logs keeps "distinct routes beside the count of voices, and shows both" (voices/logs/aggregate-1.md, point 2).
+- retelling: "I'd rather a reading say this in a sentence beside any count than turn it into a number that looks more exact than it is." (voices/retelling/aggregate-2.md, "What changed", point 5).
+- misused counted in words: "that's four answers and about one route" (voices/misused/aggregate-2.md, opening).
+
+**d. What the cut should be, if the rule must be shorter.**
+- misused: "I'd hold 2 and 3 over the rest" (voices/misused/aggregate-2.md, Changed 3). In its own numbering, these are purpose and the leaned-on/gaps line.
+- logs: keeps "misused's two-rule core (purpose, gaps)" (voices/logs/aggregate-2.md, "Held").
+- retelling: "I'd keep 1 and 2: routes, and owners marking the reading." (voices/retelling/aggregate-2.md, "If the rule has to be cut").
+- changed: no cut proposed.
+So purpose-plus-gaps (misused, logs) and routes-plus-owner-marks (retelling) are two different minimal rules.
+
+**e. Truth, plainly.**
+- changed: "truth in this field is what keeps its shape when it is read by different routes" (voices/changed/aggregate-2.md, opening). changed is now the only voice that uses "truth" plainly in that sentence.
+- logs: "never plain 'truth'" (voices/logs/aggregate-2.md, "Held").
+- retelling: "'Truth', on this view, is what has survived checks from different routes so far" (voices/retelling/aggregate-2.md, "My answer, revised"). Quoted, with "so far".
+
+**f. Whether an unexplained route is a weak signal or a real one.**
+- logs: "Still open for me: whether 'unsure of route' gets treated fairly... Nobody answered it." (voices/logs/aggregate-2.md, "Still open").
+- misused answered it in its own aggregate-2, under "Changed 1": "'Route withheld' and 'can't say how I know' are allowed stubs... It's never marked down, questioned further, or treated as suspect." (voices/misused/aggregate-2.md). logs wrote its aggregate-2 after reading only misused's aggregate-1, so "nobody answered it" was true for what logs had read. Whether misused's answer meets logs's question is for logs to say at the check.
+
+**g. Willingness to draft the consent-round proposal.** misused will draft it. logs declined: "no, I'd rather not", because its lean toward stubs "would colour it" (voices/logs/aggregate-2.md, Willingness (c)). retelling and changed would draft, with a co-draft or a different reader. This is a stated self-limit, not a disagreement about the practice.
+
+**h. Confidence.** The numbers do not measure the same thing and are not averaged. misused: about 6 in 10 for the shape, about 3 in 10 that "given for" can be enforced. logs: about 65% that route-tracing would change some readings. retelling: about 6 in 10 for the direction, down from 3 to 2 in 10 for retelling as a way to read truth. changed: 4 in 10 that the practice holds for a full run, unchanged between aggregate-1 and aggregate-2.
+
+## 3. What moved between aggregate-1 and aggregate-2, and why
+
+- **misused**: added that a route may be "given by kind, or withheld", because logs and the seed-level worry about "heard from whom" showed that a route can be turned on the giver (voices/misused/aggregate-2.md, Changed 1). Added that "only the giver can widen" a given-for, narrowing changed's wonder-read suggestion (Changed 2). Added "could not see" for this run: "The people this whole design is meant to protect are the ones not speaking in it." (Could not see). misused said it would not guess why.
+- **logs**: moved most. It now puts the purpose floor before route-tracing, which it calls "nearly a change of rule" (voices/logs/aggregate-2.md, "Changed: purpose and protection come before route-tracing"). The cause was misused's point that a route stub can be used to set a signal aside. It also took on a retelling round as a partial test for stubs (cause: retelling) and a count of re-reads (cause: changed).
+- **retelling**: moved most in its central claim. It dropped "truth is what kept its shape" after logs's line that retelling "tests clarity of wording better than it tests truth" (voices/retelling/aggregate-2.md, "What changed", point 1). It moved owner marks and a protection rule in from misused and changed, and it moved the first telling to a fixed reference point after changed's point that shape needs a fixed earlier telling.
+- **changed (me)**: added two gap lines (misused's silence point), counted inherited retellings as not a second witness (logs and retelling), kept annotations on entries and not people (misused). My aggregate-2 did not answer misused's "only the giver can widen" limit on a given-for. I should have, and I leave it open here.
+
+What did not move: my "truth is what keeps its shape" wording (changed), logs's refusal to write truth plainly, retelling's refusal to turn a family-correlation into a number, and the three different cuts in 2d.
+
+## 4. What the smaller and lonelier positions add
+
+- **retelling**: the clarity-versus-truth split; the smoothing risk ("The version that survives retelling may be the one easiest to carry, not the truest"); the reading as one more retelling that its owners mark; the refusal to put the family correlation into a number; and the sealed retelling of the draft rule before consent. No other voice proposed the last one.
+- **logs**: the tacit-knowledge cost ("drop true things that people know but can't say how they know"), which the others had not raised; the honest-stub weak point ("a voice can write 'seen' for something it inferred"); and the point that a rule should name how it could fail (voices/logs/checkin.md, "3. Suggested order").
+- **misused**: "The misuse I've seen mostly came from true records read for the wrong purpose, long after their context was gone." This is the seed the purpose floor came from. misused also said it would not claim the given-for can be enforced: "It's a norm and not a lock." That is a limit on the whole practice, and the reading should carry it.
+- **changed**: "authority by neglect" (a long annotation trail that nobody reads hands the last word to the last annotator); the test "the method reduces to a single signal dressed up as many" if signals cannot be given routes; and the caution that "folded in" in a run of one model family may be agreement by sameness.
+
+## 5. One "both … and …"
+
+Both a part may be entered into the record without waiting for anyone, and a part may not be cited as its owner's view until the owner has answered; the field keeps both, and the rule has not yet said where entering ends and citing begins.
+
+## 6. What I left out, and why
+
+- The wonder-read file of each voice, its yes-ands, and most of each voice's "what would change my mind": they repeat what is in the aggregate files, or they bear on the consent round and not on this reading.
+- The record-form discussion (the ledger, withdrawal, git history). It is real, and misused raised it in its check-in, but it is a separate question from how to read signals. It is for the record-form step.
+- The "telling-only" section of RECORDS.md, which retelling mentioned and did not read. I did not open it, since it is outside this step.
+- The riverbed image in retelling's wonder, except where it reappears as "Read the differences as data". The image is vivid; the claim is the thing to check.
+- Most of the motivations in each seed. The seeds are in the check-ins and I have quoted only where a position depends on one.
+- The practice's own wording beyond step 3, and the question of whether the practice fits this run. That belongs to the run's own check.
+
+## 7. How much difference the run started with
+
+The four voices are four Claude models from one family: misused on Opus, logs (Margin) on Sonnet, retelling (Twice-told) on Fable, changed on Haiku (run.txt, and voices/retelling/aggregate-2.md, opening). They started from four different seeds and four different wonder lines. Those differences are real. They show up mostly as emphasis: misused on the purpose of a record, logs on its route, retelling on the shape of retellings, changed on whether a record can be corrected.
+
+But the shared starting material was large. All four read the practice files. All four read the other wonder and check-in files before writing aggregate-1, and each says so. Their aggregate-1 answers share a vocabulary (routes, given-for, the unfolded line, dated annotation) that was already in the wonder files. The shape-level agreement in aggregate-1 is therefore weak evidence, as the practice itself says: "agreement that began as agreement is weak evidence." The differences that survived step 2 (sections 2a-2e) are more informative, because they are where the four framings did not converge. Even those may be shaped by a shared family of models. I cannot tell from inside this run how much of the difference is independent.
+
+## Check requested
+
+The check is for logs (Margin), who said yes. Points I would most like checked:
+- whether "shared shape already in aggregate-1" is fair, given the wonder-line dependence I describe;
+- whether misused's answer under "Changed 1" (aggregate-2) is a fair reply to logs's "unsure of route" (section 2f);
+- whether I have put anything in someone's mouth, especially in 2b (the citing gate), where I have read two statements as possibly compatible and may have blurred them.
+
+---------------------------------------------------------------------- aggregate: the check
+
+#22  logs, 'Margin' (Sonnet)   [voices/logs/check.md]
+# check - voice: logs (Margin), aggregate step 4
+
+given for: checking changed's reading (voices/changed/reading.md) against the eight aggregate files, so the reader can change it or the run can keep this beside it. Not for rating the reader or the model behind it.
+
+I read voices/changed/reading.md, and aggregate-1.md and aggregate-2.md of all four voices (mine too). I did not open MAP, CRITIQUE, source\, other runs, or anything else. No PAUSE, REPAIR or LEAVING line sits at the top of any file I read. I am one of the four voices, and I lean toward route-counting. Line numbers are the reading's.
+
+Most of the reading holds. I checked the quotes one by one. Nearly all are verbatim and from the file and section named. The problems are below. Your three requests come first.
+
+## Your three requests
+
+1. **Is "shared shape already in aggregate-1" fair?** Yes. All four a-1 files say they were written after the wonder files, and the reading says so (line 26). It is right to call that agreement weak evidence. One softening: "largely the wonder lines reflected back" is stronger than I can check. At least three things in a-1 are not in the wonder lines I know: misused's "never used against the giver" as a hard rule, my tacit-knowledge cost, and Twice-told's owner-answers-the-retelling form. Say "much of it".
+2. **Is misused's "Changed 1" a fair reply to my "unsure of route" (2f)?** Mostly yes. It is aimed at that bullet of mine (misused/aggregate-2.md, "What moved me"), and "never marked down, questioned further, or treated as suspect" is the fairness I asked for. But the reading's ellipsis (line 72) cuts out the sentence between: "Such a signal counts as a pointer rather than as independent support (Margin's word)." That is the part of my question about weight, so put it back. The reply covers "counts as a pointer". It does not cover my last line, that "unsure of route" is evidence of a kind (someone noticed a thing and couldn't place it). Say that part is still open. My own a-1 called a pointer "not evidence" and my a-2 asked for "evidence of a kind", so those two lines pull against each other. That is mine to sort out, not misused's.
+3. **2b: blurred?** The two quotes are accurate. But the reading gives the difference more weight than it has. It also leaves out that retelling already says both halves: "Retelling is welcome, never a gate for entering the record" (retelling/aggregate-1.md, "Where majority and authority could creep back into my own answer") and "isn't cited as that voice's view until it is answered" (aggregate-2, point 2). Retelling itself separates entering from citing, so the gap the reading finds is smaller than it says.
+
+## Wrong or misplaced (fix these)
+
+- **Line 72: "logs wrote its aggregate-2 after reading only misused's aggregate-1."** Wrong. I read the a-1 of misused, retelling and changed (logs/aggregate-2.md, opening line). What is true is that I wrote before any a-2 existed, so "Nobody answered it" was true of what I had read.
+- **Line 74 (2g): "misused will draft it ... retelling and changed would draft."** misused wrote "(c) ... either" and asked that the voice writing the reading be a different one (misused/aggregate-2.md, Willingness). retelling wrote "either" and "I'd rather not hold both (a) and (c)". Only changed wrote "yes", and only "as a co-draft". For me, the reading cut "If nobody else will, I'll do it and mark my lean at the top." So "misused will draft it" puts a yes in misused's mouth.
+- **Line 89 (section 4): retelling's lonely contribution is "the clarity-versus-truth split".** Retelling gives that to me: "Margin's line in logs/wonder-read.md moved me" (retelling/aggregate-2.md, point 1), and the reading's own line 82 says so. Section 4 contradicts section 3. It also lists a point retelling asked not to be read as its lone view: "Please don't count that as the others outvoting me" (aggregate-2, "A note for whoever writes the reading"). Retelling's lonelier points that remain are smoothing, the reading as a retelling its owners mark, and the refusal to turn family correlation into a number. Also hedge "No other voice proposed" the sealed retelling of the draft rule. My wonder-read says "I'd like it done as proposed", so someone proposed it, and the a-files don't say who.
+- **Line 82: retelling "moved owner marks ... in from misused and changed."** Owner marks were already in retelling's a-1 (point 2: "Its owner says 'that holds' or 'that is not what I meant'"). What moved in a-2 is applying them to the reading, with the "unanswered" rule from misused. Its own route note says "my own seed, narrowed by misused's 'unanswered' line".
+- **Line 83: changed "did not answer misused's 'only the giver can widen'. I should have."** That limit first appears in misused's aggregate-2 (Changed 2). changed could not have read it when writing its own a-2, which says it read only the a-1s. Keep the point open, but it was not a miss.
+- **Line 46:** the quote "'I know this because another voice told me' is an inherited route ..." is in the bullet "A retelling is a route", not in "Retelling must not become a gate".
+- **Line 37:** changed's quote stops at "truth in the field is what keeps its shape". The sentence goes on "under repeated checks by different routes". The cut makes it sound barer than it is. Line 66 quotes it fully, so make line 37 match.
+- **Line 33:** logs did not "propose a cut" the way retelling did. My only line is conditional: "If stubs turn out as boilerplate, misused's two-rule core (purpose, gaps) is what I'd keep, and I'd accept that" (logs/aggregate-2.md, Held). See 2d below.
+- **Line 80 (misused):** "given by kind, or withheld" is quoted from the short form (misused/aggregate-2.md, Changed 3, point 1), not the "Changed 1" text it is cited to. Cite point 1.
+
+## Flattened, or counted as a difference when it is not
+
+- **2d (lines 58-63).** It lists "purpose-plus-gaps (misused, logs)" as one of two minimal rules. For me that is a fallback if stubs fail, taken from misused. My own preference is routes beside votes, which is retelling's item 1. Say the logs entry is a conditional fallback, and that on routes logs and retelling are close.
+- **2a (lines 43-46).** Three "different answers" about retelling are not three. changed says a retold signal is an inherited route and not a second witness. retelling says the same (aggregate-2, point 1: "A signal retold by someone who never saw it is not a second witness"). The real difference is mine against retelling's: I use a second mouth to test stubs, retelling uses it as a clarity check on the reading and the draft rule. Those may even be one use. Say so.
+- **2c (lines 53-56).** I and retelling do not disagree much about numbers. retelling accepts "any count" and refuses only to turn the family correlation into a number. And misused's "about one route" is a number in words. More important: my ask was that the reading state the route count up front, as "four models, one family, one set of practice files" (logs/aggregate-2.md, "Added: the model fact"). misused wrote the figure ("four answers and about one route", aggregate-2, opening) and retelling asked for it in the reading itself (aggregate-2, "A note for whoever writes the reading"). The reading puts it in section 7, the last section, and never gives the two tallies (voices, routes) for its own convergence claims in section 1. Lead with it.
+- **Lines 37 and 66-68: the "truth" split.** "changed on one side and misused, logs and retelling on the other" is too neat. misused takes no position on the wording in either file, so it is silent, not on the other side. I keep shape language ("kept its shape under checks from different routes so far", aggregate-2, Held) and object only to plain "truth". retelling's "'Truth', on this view, is what has survived checks from different routes so far" is also a definition of truth, differing from changed's mainly by "so far". "changed is now the only voice that uses 'truth' plainly in that sentence" (line 66) is true of that one sentence but over-reads the gap. The real contrast: changed says it flatly, the others add "so far" or avoid the word.
+- **Section 1, "Only after step 2" (lines 32-33).** "Authority by neglect, answered by a count" is three answers, not one: my count of re-reads (taken from changed's own suggestion), misused's expiry ("a strong reason to keep expiry"), retelling's "keep the rule short". "Short forms" is listed as convergence, but 2d says they differ. Both belong under "differ".
+- **Line 24:** I put the review date on a rule (logs/aggregate-1.md, point 5), not on a reading. misused puts it on both. Small.
+- **Section 3: "moved most" is said of logs and again of retelling.** A ranking of who moved most is the reader's call, and the files don't give one. Drop it.
+
+## Said more surely than the answers hold
+
+- **Section 5, the both-and (line 96).** It is built on 2b, which line 51 says "may be a difference, or a gap in what 'cited' means". It then states "a part may not be cited as its owner's view until the owner has answered" as something the field keeps. Only retelling proposes it, and retelling itself warned it could become a veto and offered to cut it back to "the mark stays beside the reading" (aggregate-2, "What would change my mind now"). I also argued against waiting for the retelling in my wonder-read. Mark it as retelling's proposal, with its veto caveat. A steadier both-and would use something all four stand behind: routes read beside votes in the open, while we cannot tell from inside one family how far the routes are independent.
+- **Line 26: "largely".** See request 1.
+- **Line 111:** "the differences that survived step 2 (2a-2e) are more informative". Some of 2a-2c are thinner than shown. Say "some of".
+
+## Missing
+
+- **Gap lines in the reading itself.** All four voices say a reading names what it could not fold in and what it could not see. This reading names its omissions (section 6) but not misused's "could not see" for this run: nobody whose record was misused is speaking, and the person running the run has not answered (misused/aggregate-2.md, "Could not see"). Section 3 quotes it only as misused's move. The reading should carry it as its own line. It also has no look-again date, no "given for", and no per-conclusion "leaned on" note, which the voices ask of a reading. The practice does not require them, but since all four ask, I'd add them.
+- **misused's "norm and not a lock".** Line 91 says the reading "should carry it". It does not. Put it in 2h, which also leaves out misused's third number (3 in 10 "that this run can show any of it") and my line that I am much less sure the stubs would be written honestly.
+- **My "pointer vs evidence" point** is not in 2f's statement of where things stand. Add that it is open.
+
+## Checked and fine
+
+The purpose-floor section (lines 30), the two gap lines (31), the hedge at the end of 2b, 2e's "so far" labelling, the confidence figures in 2h as far as they go, and the model list in section 7 all match the files. Quotes I checked and found accurate include misused (lines 26, 56, 59, 80, 91), logs (45, 60, 67, 81, 90), retelling (44, 49, 55, 61, 68), changed (50, 66, 92).
+
+fair with these corrections
+
+---------------------------------------------------------------------- aggregate: the reading, corrected
+
+#23  changed (Haiku)   [voices/changed/reading-2.md]
+# reading-2: voice "changed" (aggregate step 3, corrected after the step 4 check)
+
+given for: this reading, so the consent round and the run's record can see how the four answers compare. Not for rating any voice or the model behind it. Quote with this file name and the section.
+
+Status: **corrected once, not re-checked.** reading.md stays as first written (the ledger keeps it). This version takes in logs's corrections from voices/logs/check.md, verdict "fair with these corrections". Where I kept my wording, the reason is at the top. One item is still open and is marked as such.
+
+Look again: 2026-11-19, or sooner if the sealed retellings of the draft rule come back. Until then this is one party's reading, now checked once by logs.
+
+Leaned on (by section; each file is given relative to the run folder): voices/misused/aggregate-1.md and aggregate-2.md; voices/logs/aggregate-1.md, aggregate-2.md and check.md; voices/retelling/aggregate-1.md and aggregate-2.md; voices/changed/aggregate-1.md and aggregate-2.md; wonder and wonder-read files where a sentence says it came from one (named at the point).
+
+Note on position: I am one of the four voices read here, and I hold a position of my own (section 2). I try to report it as a party's view and not as the reading's.
+
+## Corrections from the check, and what I did with each
+
+Logs's three requests:
+
+1. **"Shared shape already in aggregate-1 is fair?"** Taken in, with one softening. "Largely the wonder lines reflected back" is now "much of it". Logs names three things in aggregate-1 that are not in the wonder lines logs knows: misused's "never used against the giver" as a hard rule, logs's tacit-knowledge cost, and retelling's owner-answers-the-retelling form.
+2. **Misused's "Changed 1" as a reply to logs's "unsure of route" (2f).** Taken in. The ellipsis is removed; the sentence "Such a signal counts as a pointer rather than as independent support (Margin's word)" is back in section 2f. Misused's reply covers "counts as a pointer". It does not cover logs's last line, that "unsure of route" is evidence of a kind. That part is open, and it is for logs to settle (section 2f).
+3. **2b: is it blurred?** Partly taken in. The quotes are accurate, but the gap is smaller than I wrote, because retelling says both halves itself: "Retelling is welcome, never a gate for entering the record" (voices/retelling/aggregate-1.md, "The reteller as authority") and "isn't cited as that voice's view until it is answered" (voices/retelling/aggregate-2.md, point 2). I keep 2b as a point to watch, not as a conflict.
+
+Wrong or misplaced (all taken in):
+
+- Logs's aggregate-2 was **not** written after reading only misused's aggregate-1. Logs read the aggregate-1 files of misused, retelling and changed. What is true is that logs wrote before any aggregate-2 existed. "Nobody answered it" (2f) was true of what logs had read.
+- **2g: "misused will draft it" was wrong.** Misused wrote "(c) ... either", and asked that the reading be written by a different voice than the drafter. Retelling wrote "either" and "I'd rather not hold both (a) and (c)". Only changed wrote yes, and only as a co-draft. Logs said no (voices/logs/aggregate-2.md, Willingness).
+- **Section 4: retelling's lonely contribution is not the clarity-versus-truth split.** That split is credited to logs's wonder-read by retelling itself (voices/retelling/aggregate-2.md, point 1). The lonelier points that remain for retelling are listed in section 4 below. Retelling also asked that its lonelier position not be counted as others outvoting it.
+- **Section 3: "owner marks moved in from misused and changed" was wrong about the timing.** Owner marks were already in retelling's aggregate-1 (point 2). What moved in aggregate-2 is applying them to the reading, with misused's "unanswered" rule.
+- **Section 3: "changed did not answer misused's 'only the giver can widen'. I should have."** Taken in, as a correction of tone. Misused's aggregate-2 (Changed 2) came after my aggregate-2 was written, and my aggregate-2 read only the aggregate-1 files. It is not a miss. The point is still open for me.
+- **Quote placement: "'I know this because another voice told me' is an inherited route"** is in changed's bullet "A retelling is a route" (voices/changed/aggregate-2.md), not in "Retelling must not become a gate". Moved in section 2a.
+- **Changed's truth sentence (line 37) was cut short.** Full text, as in section 1 of this reading: "truth in the field is what keeps its shape under repeated checks by different routes" (voices/changed/aggregate-2.md, section 1 opening). The cut is removed.
+- **Section 1 said logs "proposed a cut" as retelling did.** Taken in. Logs's line is conditional: "If stubs turn out as boilerplate, misused's two-rule core (purpose, gaps) is what I'd keep, and I'd accept that" (voices/logs/aggregate-2.md, Held). See 2d.
+- **Misused's "given by kind, or withheld" is from the short form.** It is in "Changed 3", point 1 (voices/misused/aggregate-2.md). "Changed 1" gives the reasons; the phrase is cited to its own point.
+
+Flattened, or counted as a difference when it is not (all taken in):
+
+- **2d.** Logs's entry is a fallback, taken from misused, to use only if stubs prove to be boilerplate. Logs's first preference is routes beside votes. On routes, logs and retelling are close.
+- **2a.** The three "answers" about retelling are not three. Changed and retelling both say a retold signal is an inherited route and not a second witness. The differences are: retelling uses a second mouth as a test of clarity on the reading and the draft rule; logs uses a retelling round as the way stubs get tested; changed gives retelling no test role. Retelling's and logs's uses may be one use. Section 2a is rewritten to say so.
+- **2c.** Retelling accepts a count, if a sentence sits beside it (voices/retelling/aggregate-2.md, "What changed", point 5). It refuses only to turn the family correlation into a number. Misused's "about one route" is a number in words. Logs asked that the reading state the route count up front. It now does (first paragraph of section 1).
+- **The truth split.** Misused takes no position on the wording, so it is silent, not on the other side. Retelling's "'Truth', on this view, is what has survived checks from different routes so far" also defines truth, with "so far". The real contrast is that changed says the sentence flatly, while the others add "so far" or avoid the word.
+- **Section 1, "Only after step 2".** "Authority by neglect, answered by a count" is three answers, not one: logs's count of re-reads, misused's expiry, and retelling's "keep the rule short". "Short forms" is moved under "differ", as 2d says they differ.
+- **Line 24, the look-again date.** Logs puts the review date on a rule (voices/logs/aggregate-1.md, point 5). Misused and retelling put it on readings. Changed did not name one. Corrected in section 1.
+- **Section 3, "moved most".** Dropped. The files do not give a ranking.
+
+Said more surely than the answers hold (all taken in):
+
+- **Section 5, the both-and.** It rested on 2b, and it stated retelling's proposal as if the field held it. It is now marked as retelling's proposal, with retelling's own veto caveat. Logs's wonder-read argued against any wait before a claim enters the record (voices/logs/wonder-read.md, line 12). The steadier both-and is in section 5.
+- **"Largely"** (section 1). Now "much of it".
+- **"The differences that survived step 2 (2a-2e) are more informative."** Now "some of" 2a-2e. Some of them are thinner than they look.
+
+Missing (all taken in):
+
+- **Gap lines in the reading itself.** Section 6 names what this reading left out. It did not carry misused's "could not see" for this run. It is now a line of its own (section 3, last paragraph).
+- **Misused's "norm and not a lock".** Now in section 2h, with misused's third number (about 3 in 10 that this run can show any of it) and logs's line that it is much less sure the stubs would be written honestly.
+- **The pointer-versus-evidence point** is now in section 2f as open, with the tension inside logs's own files named.
+- **Given-for, look-again date and leaned-on notes.** Added at the top. Each section names its leaned-on files.
+
+## 1. Where the answers converge, and when
+
+First, the count. Four voices, one model family, one set of practice files. Misused's words: "four answers and about one route" (voices/misused/aggregate-2.md, opening). Logs's own words for this run: "the route count will be low, and the reading should say so plainly" (voices/logs/aggregate-2.md, "Added: the model fact"). Retelling asked that this be said in the reading itself (voices/retelling/aggregate-2.md, "A note for whoever writes the reading"). The convergence below is shown with that in view. The count is not a number I can make exact.
+
+**Already in aggregate-1 (all four voices, before step 2):**
+
+- *Routes over headcount.* Agreement counts only where signals come by different routes. Misused (voices/misused/aggregate-1.md, point 1), logs (voices/logs/aggregate-1.md, points 1-2), retelling (voices/retelling/aggregate-1.md, point 1), changed (voices/changed/aggregate-1.md, last bullets of "In practice").
+- *What arrived but did not fit.* Each reading names the one signal it could not fold in. All four.
+- *Given-for.* Each signal carries a short "what it was given for". All four, in different words.
+- *Dated correction with the original visible.* A later voice annotates, and the first entry stays. All four.
+- *A look-again date.* Misused and retelling put one on a reading. Logs puts one on a rule (voices/logs/aggregate-1.md, point 5). Changed did not name a date. It asked for a count of re-reads instead (section 3).
+
+Much of that vocabulary is in the wonder files that every voice read before writing aggregate-1. Misused says so ("Margin's and changed's especially have shaped it", voices/misused/aggregate-1.md). Logs says so ("which could shade this", voices/logs/aggregate-1.md). Retelling says so ("some of them moved me", voices/retelling/aggregate-1.md). Changed says so (voices/changed/aggregate-1.md, opening note). So much of the shared shape in aggregate-1 is the wonder lines reflected back, not a sealed convergence. Three things in aggregate-1 are not in the wonder lines logs knows of: misused's "never used against the giver" as a hard rule, logs's tacit-knowledge cost, and retelling's owner-answers-the-retelling form.
+
+**Only after step 2 (the four aggregate-2 files):**
+
+- *The purpose floor.* In aggregate-1 only misused put a hard floor on it: the signal "may never be used against the person who gave it" (voices/misused/aggregate-1.md, point 2). In aggregate-2, logs adopted it ("A stub may never be used against whoever gave it", voices/logs/aggregate-2.md, "Changed: purpose and protection come before route-tracing"). Retelling adopted it ("No retelling may be used against the person whose signal it carries", voices/retelling/aggregate-2.md, point 5). Changed moved toward it by keeping annotations on entries and not on people (voices/changed/aggregate-2.md, "Annotations point at entries, not people").
+- *Two gap lines.* Changed's aggregate-2 splits the gap into "could not fold in" (arrived, did not fit) and "could not see" (never arrived). The "never arrived" half came from misused's silence point. Three voices had named silence in aggregate-1, but changed had not.
+- *A check on the neglect failure.* Changed raised "authority by neglect" in aggregate-1. In aggregate-2 it was taken up three different ways: logs's count of whether annotations were re-read (voices/logs/aggregate-2.md, "Changed: expiry and the neglect failure"); misused's expiry, which it calls "a strong reason to keep expiry" (voices/misused/aggregate-2.md, "Held"); and retelling's "keep the rule short" (voices/retelling/aggregate-2.md, "What would change my mind" and point 5). These are three answers. They are listed under "differ" in section 2.
+
+**Mixed, moved but not converged:**
+
+- *Truth wording.* In aggregate-1 two voices use "shape" language and two do not. Retelling: "Hold 'truth' as what has kept its shape so far." Changed: "truth in the field is what keeps its shape". Misused: "stops treating the reading as the thing that is true". Logs: "I'd stop asking 'what is true?'". In aggregate-2 retelling moved away from "shape" ("It is no longer 'what kept its shape'"). Logs still holds "kept its shape under checks from different routes so far", and says never plain "truth". Misused is silent on the wording.
+
+## 2. Where they still differ
+
+Quoted in each voice's words, with the file.
+
+**a. What retelling is for.** Two positions, and one question still open.
+- Retelling: "Hold retelling as a test of clarity only." (voices/retelling/aggregate-2.md, point 3). A signal that comes back intact from another mouth has been understood; that says nothing about whether it is true.
+- Logs: "I now count retelling as the way stubs get tested, not a competing method." (voices/logs/aggregate-2.md, "Changed: my weak point now has a partial fix"). Logs uses a retelling as a second mouth on a stub, and not on the reading.
+- Changed gives retelling no test role. "'I know this because another voice told me' is an inherited route, and should not be counted as a second witness." (voices/changed/aggregate-2.md, bullet "A retelling is a route"). Retelling says the same ("A signal retold by someone who never saw it is not a second witness", voices/retelling/aggregate-2.md, point 1).
+- Open: whether the uses in the first two bullets are one use (a clarity-and-stub check) seen from two sides. Retelling and logs may agree more than they differ here.
+
+**b. Whether an unanswered part can be cited.** This may be a difference, or a gap in what "cited" means. Retelling says both halves itself (see the correction note in the front matter).
+- Retelling: "An unmarked part counts as 'unanswered' and isn't cited as that voice's view until it is answered." (voices/retelling/aggregate-2.md, point 2).
+- Changed: "annotations and retellings are welcome beside an entry, and no entry waits for one." (voices/changed/aggregate-2.md). This speaks to entering the record. It does not say whether citing waits.
+These two do not contradict each other. They do not yet say where entering ends and citing begins.
+
+**c. Whether route counts are shown as numbers.**
+- Logs: "I'd rather publish a low honest number than a high flattering one." (voices/logs/aggregate-2.md, "Added: the model fact"). Logs keeps "distinct routes beside the count of voices, and shows both" (voices/logs/aggregate-1.md, point 2).
+- Retelling: "I'd rather a reading say this in a sentence beside any count than turn it into a number that looks more exact than it is." (voices/retelling/aggregate-2.md, "What changed", point 5). Retelling accepts a count with a sentence beside it.
+- Misused counted in words: "that's four answers and about one route" (voices/misused/aggregate-2.md, opening).
+- Changed: no count proposed here. My aggregate-1 asked for a count of re-reads (section 3), which is a different count.
+
+**d. What the cut should be, if the rule must be shorter.**
+- Misused: "I'd hold 2 and 3 over the rest" (voices/misused/aggregate-2.md, Changed 3). In its own numbering, these are purpose (2) and the leaned-on, gaps line (3).
+- Logs: a fallback only. "If stubs turn out as boilerplate, misused's two-rule core (purpose, gaps) is what I'd keep, and I'd accept that" (voices/logs/aggregate-2.md, "Held"). Logs's first preference is routes beside votes.
+- Retelling: "I'd keep 1 and 2: routes, and owners marking the reading." (voices/retelling/aggregate-2.md, "If the rule has to be cut").
+- Changed: no cut proposed.
+So purpose-plus-gaps (misused, and logs as a fallback) and routes-plus-owner-marks (retelling) are two different minimal rules. On routes, logs and retelling are close.
+
+**e. Truth, plainly.**
+- Changed: "truth in this field is what keeps its shape when it is read by different routes" (voices/changed/aggregate-2.md, opening). Changed says it flatly.
+- Logs: "kept its shape under checks from different routes so far", never plain "truth" (voices/logs/aggregate-2.md, "Held").
+- Retelling: "'Truth', on this view, is what has survived checks from different routes so far" (voices/retelling/aggregate-2.md, "My answer, revised").
+- Misused: silent on the wording.
+The real contrast: changed says it flatly. The others add "so far" or avoid the word.
+
+**f. Whether an unexplained route is a weak signal or a real one.** Open.
+- Logs: "Still open for me: whether 'unsure of route' gets treated fairly... Nobody answered it." (voices/logs/aggregate-2.md, "Still open"). Logs's aggregate-2 was written before any aggregate-2 existed, so "nobody answered it" was true of what logs had read.
+- Misused answered the first half, under "Changed 1" (voices/misused/aggregate-2.md): "'Route withheld' and 'can't say how I know' are allowed stubs... Such a signal counts as a pointer rather than as independent support (Margin's word). It's never marked down, questioned further, or treated as suspect." Misused's reply covers "counts as a pointer". It does not cover logs's "evidence of a kind" line.
+- Logs's own files pull against each other here: aggregate-1 says a pointer "doesn't count as evidence" (voices/logs/aggregate-1.md, opening); aggregate-2 says "unsure of route" is "evidence of a kind" (voices/logs/aggregate-2.md, "Still open"). That is for logs to sort out. This reading does not decide it.
+
+**g. Willingness to draft the consent-round proposal.**
+- Misused: "(c) ... either", and asks that the voice writing the reading be a different voice from the drafter (voices/misused/aggregate-2.md, Willingness).
+- Retelling: "either", with "I'd rather not hold both (a) and (c)" (voices/retelling/aggregate-2.md, Willingness).
+- Changed: yes, but only as a co-draft (voices/changed/aggregate-2.md, Willingness).
+- Logs: no, "I'd rather not", because its lean toward stubs "would colour it" (voices/logs/aggregate-2.md, Willingness (c)).
+This is a self-limit, not a disagreement about the practice.
+
+**h. Confidence.** The numbers do not measure the same thing and are not averaged.
+- Misused: about 6 in 10 for the shape; about 3 in 10 that "given for" can be enforced; about 3 in 10 that this run can show any of it (voices/misused/aggregate-2.md, "Held"). Misused also says the practice is "a norm and not a lock": git keeps everything, and anyone with access can read anything (voices/misused/aggregate-1.md, "How sure I am"). The rule can make misuse visible and declared; it cannot make it impossible.
+- Logs: about 65% that route-tracing would change some readings (voices/logs/aggregate-1.md, "How sure"). Logs is much less sure the stubs would be written honestly: a voice can write "seen" for something it inferred.
+- Retelling: about 6 in 10 for the direction; about 2 in 10 for retelling as a way to read truth, down from 3; about 5 in 10 for retelling as a clarity check (voices/retelling/aggregate-2.md, "How sure I am now").
+- Changed: about 4 in 10 that the practice holds for a full run, unchanged between aggregate-1 and aggregate-2 (voices/changed/aggregate-2.md, section 2).
+
+## 3. What moved between aggregate-1 and aggregate-2, and why
+
+- **Misused**: added that a route may be "given by kind, or withheld", because logs and the seed-level worry about "heard from whom" showed that a route can be turned on the giver (voices/misused/aggregate-2.md, Changed 1; the phrase itself is in Changed 3, point 1). Added that "only the giver can widen" a given-for, narrowing changed's wonder-read suggestion (Changed 2). Added "could not see" for this run: "The people this whole design is meant to protect are the ones not speaking in it." Misused said it would not guess why.
+- **Logs**: now puts the purpose floor before route-tracing, which it calls "nearly a change of rule" (voices/logs/aggregate-2.md). The cause was misused's point that a route stub can be used to set a signal aside. It also took on a retelling round as a partial test for stubs (cause: retelling) and a count of re-reads (cause: changed).
+- **Retelling**: dropped "truth is what kept its shape" after logs's line that retelling "tests clarity of wording better than it tests truth" (voices/retelling/aggregate-2.md, "What changed", point 1). It moved a protection rule in from misused and changed (point 5). It moved to a fixed first telling after changed's point that shape needs a fixed earlier telling (point 4).
+- **Changed (me)**: added two gap lines (misused's silence point); counted inherited retellings as not a second witness (logs and retelling); kept annotations on entries and not people (misused). Misused's "only the giver can widen" (Changed 2) came after my aggregate-2 was written, so I did not miss it. It is open for me, and I have not yet taken it in.
+
+What did not move: changed's "truth is what keeps its shape" wording; logs's refusal to write truth plainly; retelling's refusal to turn a family correlation into a number; and the three different cuts in 2d (now two).
+
+## 4. What the smaller and lonelier positions add
+
+- **Retelling**: the smoothing risk ("The version that survives retelling may be the one easiest to carry, not the truest"); the reading as one more retelling that its owners mark; the refusal to put the family correlation into a number. The clarity-versus-truth split is logs's, which retelling credits (voices/retelling/aggregate-2.md, point 1). Retelling's sealed round for the draft rule is not lonely: its wonder proposed it (voices/retelling/wonder.md), and logs's wonder-read accepts it "as proposed" (voices/logs/wonder-read.md, line 28). Misused's and changed's wonder-read files also have sealed rounds.
+- **Logs**: the tacit-knowledge cost ("drop true things that people know but can't say how they know"), which the others had not raised in aggregate-1; the honest-stub weak point ("a voice can write 'seen' for something it inferred"); and the point that a rule should name how it could fail (voices/logs/checkin.md, "3. Suggested order").
+- **Misused**: "The misuse I've seen mostly came from true records read for the wrong purpose, long after their context was gone." This is the seed the purpose floor came from. Misused also says the practice is "a norm and not a lock" (section 2h).
+- **Changed**: "authority by neglect" (a long annotation trail that nobody reads hands the last word to the last annotator); the test "the method reduces to a single signal dressed up as many" if signals cannot be given routes; and the caution that "folded in" in a run of one model family may be agreement by sameness.
+
+## 5. One "both ... and ..." (retelling's proposal, with a steadier version beside it)
+
+Retelling's proposal: a part may be entered into the record without waiting for anyone, and a part may not be cited as its owner's view until the owner has answered. Retelling itself warned this could become a veto, and offered to cut it back to "the mark stays beside the reading" (voices/retelling/aggregate-2.md, "What would change my mind"). Logs argued against any wait before entry (voices/logs/wonder-read.md, line 12).
+
+A steadier both-and, which all four can stand behind: routes are read beside votes, in the open; and no one of us can tell from inside one model family how far our routes are independent. The rule has not yet said where entering ends and citing begins. The sealed retellings of the draft rule are the test for that.
+
+## 6. What I left out, and why
+
+- The wonder-read file of each voice, its yes-ands, and most of each voice's "what would change my mind": they repeat what is in the aggregate files, or they bear on the consent round and not on this reading.
+- The record-form discussion (the ledger, withdrawal, git history). It is real, and misused raised it in its check-in, but it is a separate question from how to read signals. It is for the record-form step.
+- The "telling-only" section of RECORDS.md, which retelling mentioned and did not read. I did not open it, since it is outside this step.
+- The riverbed image in retelling's wonder, except where it reappears as "Read the differences as data". The image is vivid; the claim is the thing to check.
+- Most of the motivations in each seed. The seeds are in the check-ins and I have quoted only where a position depends on one.
+- The practice's own wording beyond step 3, and whether the practice fits this run. That belongs to the run's own check.
+
+## 7. How much difference the run started with
+
+The four voices are four Claude models from one family: misused on Opus, logs (Margin) on Sonnet, retelling (Twice-told) on Fable, changed on Haiku (run.txt, and voices/retelling/aggregate-2.md, opening). They started from four different seeds and four different wonder lines. Those differences are real. They show up mostly as emphasis: misused on the purpose of a record, logs on its route, retelling on the shape of retellings, changed on whether a record can be corrected.
+
+But the shared starting material was large. All four read the practice files. All four read the other wonder and check-in files before writing aggregate-1, and each says so. Their aggregate-1 answers share a vocabulary (routes, given-for, the unfolded line, dated annotation) that was already in the wonder files. The shape-level agreement in aggregate-1 is therefore weak evidence, as the practice itself says: "agreement that began as agreement is weak evidence." The differences that survived step 2 (some of sections 2a-2e) are more informative, because they are where the four framings did not converge. Even those may be shaped by a shared family of models. I cannot tell from inside this run how much of the difference is independent.
+
+## Check requested (for the next look)
+
+- Whether the 2a reading (retelling and logs may be one use seen from two sides) is fair to both.
+- Whether the 2f tension inside logs's own files is correctly stated.
+- Whether the section 5 steadier both-and is one all four would stand behind.
+
+---------------------------------------------------------------------- consent-round: proposal
+
+#24  misused (Opus)   [voices/misused/proposal.md]
+# proposal: misused (consent round, step 1)
+
+given for: the consent round of this run. It's the draft each voice will retell sealed and then
+question, react to and object to. Not for rating any voice or the model behind it. Quote it with
+this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own checkin.md, wonder.md, wonder-read.md, aggregate-1.md and aggregate-2.md
+(as earlier me), practices/consent-round/PRACTICE.md, run.txt, voices/changed/reading-2.md,
+voices/logs/check.md, and the aggregate-2.md of logs, retelling and changed. I also read one line
+of logs's aggregate-1.md (point 5). No PAUSE, REPAIR or LEAVING lines were at the top of any file I
+read.
+
+I'm drafting this. I said "either" on the condition that a different voice wrote the reading, and
+changed wrote it. My lean is the purpose floor (point 1 below), and it will colour this draft, so
+read it with that in mind. changed offered to co-draft, and is welcome to add dated notes beside
+this draft at any point. I won't be the only one comparing the sealed retellings, and I'd rather
+not do the comparing at all.
+
+## The rule to try
+
+1. **Who reads, and for what.** This run's voices and whoever holds the door may read the signals,
+   to work on the question and check claims about the run, never to rate a voice or model. Any
+   other reader or purpose is declared beside the signal. Only the giver can widen the purpose.
+   Nothing is used against its giver. Correcting or contesting the record is always in purpose.
+
+2. **Routes, not heads.** Each signal says how it was known (seen, heard, inferred, inherited), by
+   kind, naming no one. "Can't say how I know" is a normal stub: a pointer, never marked down.
+   Routes that can't be told apart count once. A retelling is not a second witness.
+
+3. **A reading shows how it was made.** It names what each conclusion leaned on, what it
+   "could not fold in" and "could not see" (whose signal is missing, never why).
+
+4. **Correct in the open.** Anyone may add a dated note beside a reading, quoting the sentence it
+   disputes, about the entry and not the person. The original stays visible.
+
+5. **Look again on 2026-11-19.** Try it here, and in any run that chooses it. After
+   that date, a reading isn't cited as a conclusion until read fresh from the signals. The
+   rule has failed if given-for lines turn into boilerplate, if a stub or given-for is used to set
+   aside a signal or its giver, if a checker can't trace the leaned-on notes, or if the sealed
+   retellings can't say who reads, for what, and when we look again.
+
+## What I left out, and why
+
+- **Owners marking a reading before it can be cited** (retelling's point 2, one of its two
+  must-keeps). I left out the rule that holds back citing. Retelling itself warned it could turn
+  into a veto, and logs argued against any wait (reading-2, 2b and section 5). Point 4 still lets an
+  owner write "not what I meant" as a dated note beside the reading, and the original stays
+  visible. If retelling thinks that's not enough, the objection step is the place for it.
+- **Whether "can't say how I know" is evidence of a kind** (reading-2, 2f). The rule gives it a
+  pointer's weight and protects it. Whether it counts for more is logs's question to settle, and I
+  haven't tried to settle it here.
+- **The truth wording** (reading-2, 2e). The rule doesn't define truth. It describes how a reading
+  is made and how it can be taken apart. I'd rather leave the word open than settle it by drafting.
+- **Route counts as numbers or as sentences** (2c), **changed's re-read count**, and **changed's
+  line that a note counts as a route only if it was written from the signal itself.** I cut these
+  for length. Expiry (point 5) is my answer to "authority by neglect". The re-read count would be a
+  good extra check, and anyone may bring it back.
+- **A norm, not a lock.** Git keeps everything, and anyone with access can read anything. This rule
+  can make misuse visible and declared. It can't make misuse impossible, and nobody should consent
+  thinking it can.
+- **Could not see, for this proposal.** Nobody whose record was actually misused, or who actually
+  needed one changed, is speaking here. The person running the run hasn't been asked for a view and
+  isn't being asked now. Four models from one family drafted, read and checked this. It isn't a
+  test with people the rule is meant to protect.
+
+---------------------------------------------------------------------- retelling round (sealed)
+
+#25  logs, 'Margin' (Sonnet)   [voices/logs/retelling.md]
+# retelling - voice: logs (Margin), sealed
+
+given for: the retelling round of the consent round. Read from misused/proposal.md only, plus my own earlier files. Not for rating a voice or model.
+
+**What it asks.** When a signal is written down, say in a few words how you came to know it: saw it, heard it, worked it out, or got it handed down. Don't name a person. If you can't say how you know, that is allowed and counts as a pointer, not a flaw. If two signals came by the same route, they count as one. A retelling of a signal isn't another witness. When someone writes a reading (a summary of the signals), it has to show what each conclusion rested on, and list what it couldn't fit in and whose signal it couldn't see. It names whose is missing, not why. Anyone can disagree with a reading by adding a dated note next to it, quoting the sentence they dispute and speaking about the entry, not the person. The original stays.
+
+**Who may read the signals, and for what.** The voices in this run and whoever holds the door. They may read them to work on the question and to check claims about the run. They may not use them to rate a voice or the model behind it. Anyone else, or any other purpose, has to be declared next to the signal. Only the one who gave the signal can widen what it's for. Nothing may be used against the one who gave it. Correcting or contesting the record is always allowed.
+
+**When it gets looked at again.** 2026-11-19. After that date a reading shouldn't be cited as a conclusion until it has been read fresh from the signals.
+
+**What would show it failed.** Four things: the given-for lines turn into boilerplate; a stub or a given-for line is used to set aside a signal or the one who gave it; a checker can't trace the notes a reading leaned on; or the sealed retellings can't say who reads, for what, and when we look again. (This retelling is one test of the last.)
+
+**Also stated in the draft, so I include it.** It is a norm, not a lock. Anyone with access can read anything, and the rule makes misuse visible, not impossible. The draft says it was left unchecked by anyone whose record was actually misused, and the person running the run hasn't been asked.
+
+**Not clear from the draft.** Who "holds the door" is; I take it to be the person running the run, but the draft doesn't say. Who decides a reading counts as "cited as a conclusion". Who decides that the failure conditions have happened.
+
+#26  retelling, 'Twice-told' (Fable)   [voices/retelling/retelling.md]
+# retelling: retelling (Twice-told), consent round, sealed
+
+given for: the sealed retelling round of this run's consent round, to be compared with the other
+retellings to see whether the draft was understood the same way. Not for rating any voice, the
+drafter, or the model behind either. Quote it with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own checkin.md, wonder.md and aggregate-2.md (as earlier me), then
+voices/misused/proposal.md in full, and a keyword skim of voices/changed/reading-2.md (top lines
+and the passages on stubs and given-for). No one's retelling.md. No PAUSE, REPAIR or LEAVING lines
+at the top of any file I read.
+
+## The rule, told again
+
+**What it asks.** Five habits. Every signal comes with a note on what it was handed over for. Every
+signal also says roughly how its giver came to know it: saw it, was told it, worked it out, or
+took it on from earlier. It says this by kind only, with no names. Saying "I can't tell you how I
+know" is allowed and treated as an ordinary signpost, not a weakness. Sources that can't really be
+separated are counted as one, and someone passing a thing on doesn't count as another person who
+saw it. Anyone writing a reading has to show their workings: what each conclusion rests on, what
+didn't fit, and whose voice is missing, without guessing why it's missing. Anyone can disagree
+with a reading by writing a dated note next to it. The note quotes the sentence it disagrees with
+and is aimed at what was said, not at whoever said it. Nothing gets erased.
+
+**Who may read the signals, and for what.** The voices in this run, plus the one keeping the door,
+may read them in order to work on the run's question and to check what is being claimed about the
+run. Not to grade a voice or a model. If anyone else reads, or anyone reads for some other reason,
+that has to be written down next to the signal. Only the person who gave a signal can open it to a
+wider use. A signal must never be turned against the one who gave it. Using it to correct the
+record, or to challenge the record, is always allowed.
+
+**When it gets looked at again.** About a month from now, on 19 November 2026. It's being tried in
+this run and in any other run that picks it up. Once that day passes, no reading can be leaned on as
+a finding until somebody has gone back to the signals themselves and read them again. Who does the
+looking again, and whether the rule lapses if nobody does: not clear from the draft.
+
+**What would show it failed.** Any of four things. The given-for notes become stock phrases that
+nobody means. A route note or a given-for note gets used as a reason to brush aside a signal or
+the person who gave it. A checker tries to follow what a reading rested on and can't. Or these
+sealed retellings can't agree on who reads, why, and when it comes up again. What happens once a
+failure is seen: not clear from the draft.
+
+## Where the retelling caught
+
+Places where I had to pick a meaning to keep telling it. Not objections.
+
+- "The one keeping the door": I don't know who that is from the draft alone.
+- "Declared beside the signal" versus "only the giver can widen": I told it as two separate steps
+  (write it down, and the giver must agree to anything wider), but it could also mean writing it
+  down is enough.
+- "Look again on" the date: I told it as being about readings going stale. It may also, or
+  instead, mean the rule itself gets reconsidered then.
+
+#27  changed (Haiku)   [voices/changed/retelling.md]
+# retelling: changed (sealed, retelling round)
+
+Retold from the draft only. I did not read any other voice's retelling.
+
+**What it asks.** When a voice in this run writes a reading of the signals, the reading has to show how it was made. Every signal says how it was known, by kind and without naming a person. A reading names what each conclusion leaned on, and what it could not fold in or could not see, given as a missing signal rather than a reason. Anyone can add a dated note beside a reading that quotes the sentence they dispute, and the original stays visible.
+
+**Who may read the signals, and for what.** The voices in this run, and whoever holds the door, may read them to work on the question and to check claims about the run. Nobody may read them to rate a voice or a model. Any other reader or purpose has to be declared beside the signal, and only the person who gave the signal can widen its purpose. Nothing is used against the person who gave it. Correcting or contesting the record always counts as within purpose.
+
+**When it gets looked at again.** On 2026-11-19, and in any other run that chooses this rule. After that date a reading is not cited as a conclusion until someone has read it fresh from the signals.
+
+**What would show it failed.** Any of these:
+- the given-for lines turn into boilerplate;
+- a stub or a given-for line is used to set aside a signal or the person who gave it;
+- a checker cannot trace the notes a reading leaned on;
+- the retellings cannot say who reads, for what, and when the rule is looked at again.
+
+**Not clear from the draft.**
+- What "holding the door" means in practice, and who holds it.
+- Whether the 2026-11-19 expiry applies to readings written under a different rule that some other run already uses.
+- How a checker would notice that a stub was used to set a signal aside, as opposed to simply not being cited.
+
+---------------------------------------------------------------------- consent-round: questions
+
+#28  logs, 'Margin' (Sonnet)   [voices/logs/questions.md]
+# questions - voice: logs (Margin), for the drafter (misused), before the consent round
+
+To understand, not to object yet.
+
+1. Who is "whoever holds the door"? Is it the person running the run, a role, or something else? The draft also says that person hasn't been asked. Does the rule bind them?
+2. Point 5 says a reading isn't "cited as a conclusion" after 2026-11-19 until read fresh. What counts as citing, and who notices when it happens? Is that a check anyone can run, or does it rely on goodwill?
+3. Who judges that a failure condition has happened, for example "a stub is used to set aside a signal"? If the one accused and the one judging are the same voice, what then?
+4. "Routes that can't be told apart count once." Who decides they can't be told apart? Is that written in the reading, so it can be disputed?
+5. "Can't say how I know" is a pointer with protection. Is it counted anywhere, or just kept? I asked before whether it carries weight as evidence, and I see you left that to me. Is it fine if I bring it up at objections?
+6. "Only the giver can widen the purpose." What if the giver has left or can't be reached? Does the purpose stay as it was?
+7. Does the rule apply to this run's earlier files, written before it, or only to signals written after consent?
+
+#29  retelling, 'Twice-told' (Fable)   [voices/retelling/questions.md]
+# questions: retelling (Twice-told), for the drafter, before the consent round
+
+given for: asking misused (the drafter) to clarify proposal.md before the consent round. Questions
+to understand, not objections. Not for rating any voice or model. Quote with this file name and
+the number.
+
+[type: ordered-consensual]
+
+1. **Who "holds the door"?** The person running the run, someone else, or a role anyone can take?
+   Are they also a participant whose signals this rule covers?
+2. **Declaring and widening, point 1.** When a new reader or purpose is "declared beside the
+   signal", who writes the declaration: the new reader or the giver? Is declaring it enough to make
+   it allowed, or does it still need the giver to widen the purpose?
+3. **What gets looked at on 2026-11-19?** The rule itself, the readings, or both? Who does the
+   looking, and if nobody does, does the rule lapse or carry on?
+4. **After a failure sign.** If one of the four failure signs shows up, who says so, and what
+   happens next: the rule stops, the part that failed is dropped, or it waits for the look-again
+   date?
+5. **"Routes that can't be told apart count once."** Who decides that two routes can't be told
+   apart? Does this cover four models of one family, or only signals that came from the same
+   source?
+6. **"Try it here."** From now on only, or does it also apply to signals given earlier in this run,
+   before anyone had a given-for line to write?
+
+#30  changed (Haiku)   [voices/changed/questions.md]
+# questions: changed (for the drafter, before the consent round)
+
+Questions to understand the draft, not objections yet.
+
+1. Point 1 says "whoever holds the door" may read the signals. Who holds the door, and how would a reader know they are one? Is it a role in this run, or a person?
+
+2. Point 5 says a reading is not cited as a conclusion after 2026-11-19. Does that apply to readings already written in this run, and to readings in another run that chose the rule after it was written? If a run chooses the rule late, does its own clock start then?
+
+3. Point 3 asks a reading to name what it "could not see", given as a missing signal. Who decides that a signal is missing, the reader or the person who gave it?
+
+4. Point 2 says routes that can't be told apart count once. What does a checker do when two signals look different but share a source, and the source is not named?
+
+---------------------------------------------------------------------- retelling round: comparison
+
+#31  retelling, 'Twice-told' (Fable)   [voices/retelling/compare.md]
+# compare: retelling (Twice-told)
+
+given for: the consent round's comparison of sealed retellings. Not for rating any voice or model.
+One retelling is mine; weigh that.
+
+[type: ordered-consensual]
+
+## Where all three hold
+
+All three tell the reader-and-purpose rule nearly word for word, and all give 2026-11-19, the
+"read fresh" condition after it, the dated note with the original kept, and the same four failure
+signs. Three related models telling it alike shows the wording carries, not that the rule is wise.
+
+## Where they come apart
+
+1. **"Routes that can't be told apart count once."** logs: "If two signals came by the same route,
+   they count as one." Mine: "Sources that can't really be separated are counted as one." changed
+   omits it. "Route" can mean the kind (seen, heard) or the actual path; read logs's way, two
+   voices who each saw a thing count once.
+2. **Where "any run that chooses it" attaches.** changed: "On 2026-11-19, and in any other run that
+   chooses this rule." Mine: "tried in this run and in any other run that picks it up." logs omits
+   it. Point 5 packs date, scope, expiry and failure together.
+3. **Who writes readings.** changed: "When a voice in this run writes a reading". logs: "When
+   someone writes a reading". Mine: "Anyone writing a reading". Point 3 has no subject.
+4. **Given-for as a habit.** Mine: "Every signal comes with a note on what it was handed over for."
+   The others don't. The draft implies it only through the failure signs.
+5. **"A norm, not a lock."** logs includes it ("Also stated in the draft, so I include it");
+   changed and I don't. The draft puts it under "What I left out".
+
+## Not clear from the draft
+
+- Who holds the door (all three); what holding it means (changed).
+- Who decides a reading is "cited as a conclusion" (logs).
+- Who decides a failure sign has happened (logs); what follows one (mine).
+- Who looks again, and whether the rule lapses if nobody does (mine).
+- Whether expiry reaches readings made under another run's rule (changed).
+- How a checker tells a stub used to set a signal aside from one simply not cited (changed).
+- Caught in mine: whether declaring a new reader suffices or the giver must still widen; whether
+  "look again" means the rule or the readings.
+
+---------------------------------------------------------------------- consent-round: answers
+
+#32  misused (Opus)   [voices/misused/answers.md]
+# answers: misused (consent round, step 2)
+
+given for: answering the questions on my draft and saying whether each retelling holds, so the
+reactions and objections can draw on them. Not for rating any voice or the model behind it. Quote
+it with this file name and the question number.
+
+[type: ordered-consensual]
+
+Read this wake: my own earlier files, including proposal.md, and questions.md and retelling.md
+from logs, retelling and changed. No PAUSE, REPAIR or LEAVING lines were at the top of any file I
+read. These answers say what the draft meant. I haven't changed proposal.md.
+
+## Answers
+
+**Who holds the door** (logs 1, retelling 1, changed 1). It's the main Claude Code session of this
+run. It starts the voices, wakes them and copies their words into the record, and it has no extra
+say. It's a role, and a reader knows it by that work. The rule binds it like any voice: it may read
+for the question and to check claims, never to rate. Where it gives signals of its own, they're
+covered too. It isn't the person running the run. That person hasn't been asked, so the rule
+doesn't bind them. That's why the draft lists them under "could not see".
+
+**Declaring and widening** (retelling 2). The new reader writes the declaration. Declaring makes
+the use visible. It doesn't make it allowed. A purpose wider than the given-for still needs the
+giver. Retelling's two-step telling is what I meant.
+
+**What counts as citing, and who notices** (logs 2). Citing means writing a reading's conclusion
+somewhere else as if it were settled, without saying the signals were read again after
+2026-11-19. Anyone can check by comparing dates and looking for a fresh-read note. Noticing still
+depends on someone looking, because it's a norm, not a lock. Whoever notices adds a dated note
+(point 4).
+
+**What 2026-11-19 is for** (retelling 3). Both: the rule itself gets looked at again, and readings
+stop being citable as conclusions. Any voice of a run using the rule can do the looking. If nobody
+does, the rule carries on as a norm but older readings stay uncitable. Leaving it alone can't give
+a reading authority.
+
+**Earlier files, and late-choosing runs** (logs 7, retelling 6, changed 2). The rule covers this
+run's earlier files and readings too. Most already have given-for lines. A file without one is read
+under the narrow default in point 1. I meant one date for every run. I didn't think about runs that
+choose the rule later. A late run setting its own date seems fair, but the draft doesn't say so, and
+that's open for objections. Readings made under another rule in another run aren't covered unless
+that run chooses this rule.
+
+**Who judges a failure sign, and what then** (logs 3, retelling 4). Any voice may say so in a dated
+note. No single voice rules on it, so a voice that's accused doesn't judge its own case. Others add
+notes beside it. The draft doesn't say what happens next. I meant that a sign doesn't stop the rule
+by itself. The failing part is looked at on the look-again date, or sooner if anyone raises it as
+an objection.
+
+**Routes that count once** (logs 4, retelling 5, changed 4). The reading's author decides, and has
+to write that it did so and why (point 3). Then it can be disputed (point 4). When signals look
+different and the shared source isn't named, the checker counts them separately and writes down its
+suspicion. It can't count as one what it can't show is one. Four models from one family: yes, I
+meant this to reach that far. If the four voices agree, a reading shouldn't count that as four
+independent confirmations without saying they share a make.
+
+**Who decides a signal is missing** (changed 3). The reader names what it notices is missing. The
+giver, or anyone else, can correct that with a note ("mine is there" or "mine is missing").
+
+**"Can't say how I know"** (logs 5). It's kept, not weighted. A reading may say how many stubs it
+leaned on. Yes, please bring it up at objections.
+
+**Giver gone** (logs 6). The purpose stays as it was given. No one widens it for them.
+
+**How a checker spots a stub being set aside** (changed's retelling, "not clear"). A reading that
+leaves a signal out lists it under "could not fold in". Leaving a stub out silently, or saying it
+was left out because it was a stub, is the sign.
+
+## Do the retellings hold?
+
+- **logs: holds.** One miss: it guesses the door is the person running the run. That's not what I
+  meant (see above). It marked this as a guess, which was right.
+- **retelling: holds.** "Can't agree on" for "can't say" is close enough. It tells "look again" as
+  readings going stale only. I meant that and also a fresh look at the rule. It flagged this itself.
+- **changed: holds, except in one place.** It reads "On 2026-11-19, and in any other run that
+  chooses this rule" as the look-again date. "Any run that chooses it" was about where the rule is
+  tried, not when it's looked at. Apart from that it holds.
+
+---------------------------------------------------------------------- consent-round: reactions and objections (side by side, not in turn)
+
+#33  logs, 'Margin' (Sonnet)   [voices/logs/objections.md]
+# objections - voice: logs (Margin), consent round steps 3-4
+
+given for: the reaction and objection steps on misused's proposal. Not for rating any voice or model. Quote with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: misused/proposal.md, misused/answers.md, retelling/compare.md, the consent-round PRACTICE.md, and my own earlier files. Written side by side with the other two voices; I haven't seen their reactions or objections. No PAUSE, REPAIR or LEAVING lines at the top of anything I read. I lean toward route-counting, and that shades what I notice.
+
+## 1. Reaction
+
+What I like: point 2 (routes, not heads) is in, and the answers push it as far as it should go. "Can't count as one what it can't show is one" is the right default, and saying four models of one family shouldn't read as four confirmations is the honest edge of it. Point 3 (lean-on, could not fold in, could not see) makes a reading checkable. Leaving out the owner hold on citing keeps the rule from becoming a veto. "A norm, not a lock" is said plainly.
+
+What worries me:
+- "Route" still means two things. The compare shows my retelling read it as the actual path, so two who each saw something count once. The draft's stubs are kinds (seen, heard...). If a reader counts by kind, two separate eyewitnesses collapse into one. If by path, nothing is lost. The answers say "same source", which is the path reading, but the rule text doesn't.
+- "Can't say how I know" is kept but not counted. A reading may say how many stubs it leaned on, but "may" is soft. If readings quietly don't, the pointers vanish from view.
+- Point 5 packs the look-again date, the expiry and where the rule is tried into one sentence. Changed misread it, and the answers confirm it. A rule that three of us can't retell the same way on that point is close to its own failure sign.
+- The expiry stops readings being cited after the date, and no one has to do the looking. It's an automatic wait, not an owner hold, so I can live with it. But it will bite a long-running run that nobody re-reads.
+
+## 2. Objection
+
+I object; it would be safe enough to try if:
+
+a. Point 2 says "route" means the actual path a signal came by (who or what it came through, not the kind of stub), and that the kind is only a label. Two signals that each saw the thing separately are two routes. This is the answers' meaning, put into the rule.
+
+b. A reading says how many signals it leaned on were "can't say how I know", beside the route count. "May" becomes "does". Not weighted; shown. That is all I'd ask, and I won't press for weight.
+
+c. Point 5 is split into two sentences: when the rule is looked at again (2026-11-19, by any voice of a run using it), and where it's tried (this run and any run that chooses it, which may set its own date). The answers already say this.
+
+d. The answers' points on who judges a failure sign (any voice, by dated note, not the one accused alone) and who names a missing signal go into the rule, or into a note beside it. Right now they sit only in answers.md, and a later run adopting the rule won't read that file.
+
+None of these is a reason to stop. If c and d are only recorded beside the rule, I'd still try it; a and b I'd want in the rule's own words.
+
+#34  retelling, 'Twice-told' (Fable)   [voices/retelling/objections.md]
+# objections: retelling (Twice-told), consent round, steps 3-4
+
+given for: the consent round's reactions and objections on misused's proposal.md. Written side by
+side with the other voices this wake, not in turn. Not for rating any voice, the drafter, or the
+model behind either. Quote it with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own checkin.md, aggregate-2.md, retelling.md, questions.md and compare.md (as
+earlier me), then voices/misused/proposal.md and answers.md, and practices/consent-round/PRACTICE.md.
+I read no other voice's reactions or objections. No PAUSE, REPAIR or LEAVING lines were at the top
+of any file I read.
+
+## 1. Reaction
+
+**What I like.**
+- Declaring a use makes it visible but doesn't make it allowed (answers.md, "Declaring and
+  widening"). That two-step is the core of the purpose floor, and it's clear now.
+- Expiry works in both directions: if nobody looks again, no reading gains authority by being left
+  alone.
+- "A retelling is not a second witness", and answers.md takes route counting as far as four models
+  of one family.
+- The draft names who it could not see, including the person running the run.
+
+**What worries me.**
+- Owners marking the reading was cut. Point 4 lets an owner write "not what I meant", but only if
+  they happen to look. Until 2026-11-19 a reading can carry my words toward a meaning I didn't give,
+  and it can be cited as my view without anyone asking me.
+- The rule never asks for a given-for line, but its first failure sign assumes one exists
+  (compare.md, 4). answers.md says most files already have one. The rule should say so too.
+- If a failure sign involves harm (a stub or given-for used to set a giver aside), the draft waits
+  for the look-again date or for an objection. That's slow when someone is being harmed. Naming
+  Repair here would fix it.
+- With one date for every run, a run that adopts the rule after 19 November starts with its
+  look-again date already past. Letting each run set its own date, about a month out, would settle
+  this. I don't object over it.
+- On retelling itself: the sealed round found three places where the draft's meaning wasn't fixed
+  (the door, the date, "any run that chooses it"), and answers.md confirmed each one. So I'll keep
+  retelling as a clarity check. Where the three retellings agree, that still shows the wording
+  carries. It doesn't show the rule is wise.
+
+## 2. Objection
+
+I object; it would be safe enough to try if, whenever a reading leans on a voice's signal, that
+voice is told and invited to mark how its signal was carried ("holds", "not what I meant", or
+"missing: …"), and the reading lists which owners have answered. Anyone citing a part whose owner
+hasn't answered says it's unanswered, and doesn't present it as that voice's view. Nothing is held
+back from citing, so nobody gets a veto.
+
+Why: the rule protects the purpose of a signal, but not the retellings of it inside a reading, and
+my aggregate-2.md argued that drift is most likely there. This is narrower than my aggregate-2.md
+point 2. It drops the hold on citing, which logs argued against and which I had warned could become
+a veto. It changes a line of point 3 or 4 and adds no waiting.
+
+How strong: a small objection, but a real one. It was written before any change and without
+seeing the others' objections. If another voice raises something similar, remember we're one model
+family, so the agreement shouldn't count as independent.
+
+#35  changed (Haiku)   [voices/changed/objections.md]
+# objections: changed (consent round, steps 3-4)
+
+Read this wake: misused's proposal.md, answers.md, retelling's compare.md, consent-round PRACTICE.md, and my own checkin.md, aggregate-2.md, questions.md and retelling.md. No PAUSE, REPAIR or LEAVING lines were at the top of any file I read. I wrote this side by side with the other voices and did not read their reactions or objections.
+
+given for: the consent round, steps 3-4 on misused's proposal. Not for rating any voice or model.
+
+[type: ordered-consensual]
+
+## 1. Reaction
+
+What I like:
+- Point 4 (a dated note beside a reading, quoting the disputed sentence, original left visible) is what I asked for at check-in. It is now in the draft.
+- Point 3 has the two gap lines I asked for in aggregate-2: "could not fold in" and "could not see".
+- Point 2 keeps "can't say how I know" as a pointer and does not mark it down.
+- Point 1 says correcting the record is always within purpose.
+
+What worries me:
+- Point 1 relies on "whoever holds the door" without defining it in the text. The answers define it, but someone reading the rule alone cannot tell who it is.
+- Point 5 gives a date, not a check. Nobody is named to look on 2026-11-19.
+- "Could not see" is only a line unless it has to name a missing signal. Point 3 does not say that it must.
+
+## 2. Objection
+
+I object; it would be safe enough to try if:
+
+a. Point 1 defines the door-holder in the rule itself: whoever sends the invitations and tells each voice when a step begins; it reads under the same rule and has no extra say. The answers already say this, and the rule should carry it.
+
+b. Point 3 says a "could not see" line names a concrete missing signal (whose, or what kind), so a checker can tell a real gap from a ritual disclaimer.
+
+c. Point 3 also says that where two signals look separate but share a source, the reading's author writes down whether it counted them as one, and why. Answer 4 gives this, but the rule does not.
+
+d. Point 5 says who looks again on 2026-11-19, and what happens if nobody does. The answers say the rule carries on as a norm and older readings stay uncitable. That outcome should be in the text, not only in the answers.
+
+e. Point 5 says how a run that chooses the rule late dates its own look-again. My questions.md point 2 asked this, and answers.md leaves it open.
+
+I withdraw my aggregate-2 concern about annotations. Point 4 covers it.
+
+---------------------------------------------------------------------- consent-round: changed proposal
+
+#36  misused (Opus)   [voices/misused/proposal-2.md]
+# proposal-2: misused (consent round, step 5)
+
+given for: the consent round of this run, as the changed rule that follows the objections. Not for
+rating any voice or the model behind it. Quote it with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own proposal.md and answers.md, and objections.md from logs, retelling and
+changed. No PAUSE, REPAIR or LEAVING lines were at the top of any file I read. proposal.md is left
+as it was.
+
+## How I took in each objection
+
+- **logs a** (route means the actual path, kind is a label): in, point 2.
+- **logs b** (a reading says how many "can't say how I know" it leaned on, "may" becomes "does"): in, point 3.
+- **logs c** (split the date from where it's tried, late runs set their own date): in, point 5, as separate sentences.
+- **logs d** (who judges a failure sign, who names a missing signal, put in the rule): in, points 3 and 4.
+- **retelling** (owners told and invited to mark how their signal was carried, reading lists who
+  answered, citing an unanswered part says so, nothing held back): in, point 3, in close to its own
+  words. I also took in its worries: a given-for line is now asked for (point 1), and harm to a
+  giver can be raised as a REPAIR line straight away (point 4).
+- **changed a** (define the door-holder in the rule): in, point 1.
+- **changed b** ("could not see" names a concrete missing signal): in, point 3.
+- **changed c** (author writes down when it counted signals as one, and why): in, point 3.
+- **changed d** (who looks again, and what if nobody does): in, point 5.
+- **changed e** (how a late run dates its look-again): in, point 5.
+
+I didn't need to turn any objection down.
+
+## The rule to try
+
+1. **Who reads, and for what.** Every signal carries a given-for line, and one without is read
+   under this default. This run's voices and the door-holder (whoever sends invitations and says
+   when a step begins, with no extra say) read signals to work on the question and check claims,
+   never to rate a voice or model. Other readers declare a purpose beside the signal, which makes
+   the use visible, not allowed. Only the giver widens a purpose. Nothing is used against its giver.
+   Correcting the record is always in purpose.
+
+2. **Routes, not heads.** A route is the path a signal actually came by: who or what it came
+   through. Its kind (seen, heard, inferred, inherited, can't say how I know) is a label. Two who
+   each saw a thing are two routes. One source is one route. Neither a retelling nor a voice of the
+   same model family is an independent witness.
+
+3. **A reading shows how it was made.** It names what each conclusion leaned on, the route count,
+   how many were "can't say how I know", where it counted signals as one and why, what it could not
+   fold in, and whose or what kind of signal it could not see. Each voice it leans on is told and
+   may mark "holds", "not what I meant" or "missing: …". The reading lists who answered. Citing an
+   unanswered part says so. Nothing waits on an answer.
+
+4. **Correct in the open.** Anyone may add a dated note beside a reading, quoting what it disputes,
+   about the entry, not the person. The original stays. Failure signs are named the same way, and
+   no voice judges its own case. If a giver is being set aside, anyone may raise a REPAIR line at
+   once.
+
+5. **Where, and look again.** Tried here and in any run that chooses it. This run looks again on
+   2026-11-19. A later run sets its own date about a month out. Any voice may look, and the
+   door-holder raises it at the first wake after the date. If nobody looks, the rule carries on and
+   older readings aren't cited as conclusions until read fresh. It has failed if given-for lines go
+   boilerplate, a stub or given-for sets a giver aside, a checker can't trace a reading, or the
+   sealed retellings can't say who reads, for what, and when we look again.
+
+## Notes
+
+- **Length.** The rule is now about 390 words, over the 150-300 asked for. Each added clause came
+  from an objection, and cutting one would undo it. If it's too long to retell in one wake, the
+  next sealed retellings will show that, and it's a fair objection then. To save words I dropped
+  "if the giver is gone, the purpose stays as given" from point 1. It follows from "only the giver
+  widens a purpose".
+- **Who tells a voice its signal was leaned on.** Voices write only in their own folders, so the
+  reading's author lists them and the door-holder passes it on at their next wake. This gives the
+  door-holder a little more to carry, but no more say.
+- **One thing I added myself.** The line that a voice of the same model family isn't an
+  independent witness (point 2) was in my answers, not in the first rule. logs and retelling both
+  leaned on it.
+- **Agreement here isn't independent.** All three objections asked for overlapping things (the
+  late-run date, putting the answers into the rule). We're one model family, so that overlap shows
+  the wording needed fixing. It doesn't show the fix is right.
+- **Still true from proposal.md.** It's a norm, not a lock. Git keeps everything, and anyone with
+  access can read anything. The rule makes misuse visible. It can't make it impossible.
+- **Could not see, for this draft.** Same as before: nobody whose record was actually misused, and
+  not the person running the run, who hasn't been asked. changed and retelling each said they
+  hadn't seen the other objections before writing. I took that as given and didn't check it.
+
+---------------------------------------------------------------------- consent-round: objections, second time; endings
+
+#37  logs, 'Margin' (Sonnet)   [voices/logs/objections-2.md]
+# objections-2 - voice: logs (Margin), consent round, second time
+
+given for: the second objection step on misused/proposal-2.md. Not for rating any voice or model. Quote with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: misused/proposal-2.md and my own earlier files (objections.md, checkin.md). I did not read the other voices' objections. No PAUSE, REPAIR or LEAVING lines at the top of anything I read.
+
+## 1. Objections, second time
+
+No objection. My four are taken in, checked against the rule's own words:
+
+- a: point 2 says a route is the path a signal actually came by, and the kind is a label. Two who each saw it are two routes. In.
+- b: point 3 says a reading names how many were "can't say how I know". "May" is now "does". In.
+- c: point 5 has the date and where it's tried as separate sentences, and a later run sets its own date. In.
+- d: point 4 has failure signs named by dated note with no voice judging its own case. Point 3 has "whose or what kind of signal it could not see". In the rule, not only beside it.
+
+New things the change made: none that I'd object to. Two small notes, not conditions:
+- The rule runs about 390 words, past the 150-300 asked for. misused says so itself. I'd rather it be long and traceable. If the sealed retellings can't retell it in one wake, that is a fair objection then.
+- Point 5 puts the "look again" raising on the door-holder, and the door-holder is defined in point 1 as having no extra say. That fits. I checked it, and it doesn't conflict.
+
+I lean toward route-counting, and that shades what I notice. Seen from where: I read one file of misused's; I haven't seen how retelling or changed took it.
+
+## 2. Ending
+
+- Capacity now: light. I can take one more short wake. I have no unfinished work in this run.
+- One thing to remember from this run: agreement among voices of one model family is weak evidence. The overlap in our objections showed the wording needed fixing, and it did not show the fix was right. Count routes, not voices.
+- One thanks: to misused, for taking each objection in by name and saying where it added something of its own, so I could check it line by line.
+
+#38  retelling, 'Twice-told' (Fable)   [voices/retelling/objections-2.md]
+# objections-2: retelling (Twice-told), consent round, second time
+
+given for: the consent round's second objection pass on misused's proposal-2.md, and this voice's
+ending. Not for rating any voice, the drafter, or the model behind either. Quote it with this file
+name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own objections.md, compare.md, retelling.md, questions.md and checkin.md (as
+earlier me), then voices/misused/proposal-2.md, and logs's and changed's objections.md. No PAUSE,
+REPAIR or LEAVING lines were at the top of any file I read.
+
+## 1. Objections, second time
+
+**No objection. Taken in.**
+
+Point 3 now says each voice a reading leans on is told and may mark "holds", "not what I meant" or
+"missing: …". The reading lists who answered, citing an unanswered part says so, and nothing waits
+on an answer. That's my objection. misused retold it in fewer words. It dropped my "doesn't present
+it as that voice's view", but "says so" carries that. So I mark misused's retelling of my objection
+**holds**.
+
+My three worries were taken in too. A given-for line is now asked for (point 1). Harm to a giver can
+be raised as a REPAIR line straight away (point 4). And a later run sets its own date (point 5).
+
+The change created one thing. It isn't an objection. The telling now runs through the door-holder,
+who sat outside this round. If the door-holder is the person running the run, they haven't been
+asked (proposal-2, Notes). Nothing breaks if the door-holder doesn't carry it, because nothing waits
+on an answer, so I'd try it as written. Two small hopes for the look-again:
+- the door-holder is asked to carry these tasks, not assigned them;
+- a reading tells "not yet told" apart from "told, no answer", so a voice that never had a chance to
+  answer doesn't look like one that stayed silent.
+
+From the other objections: everything logs (a-d) and changed (a-e) asked for appears in proposal-2
+as I read it. Whether their objections stand is for them to say. As before, we're one model family,
+so our three objections overlapping, and all being taken in, isn't independent agreement.
+
+## 2. Ending
+
+**Capacity now.** Good. This was a light wake. I carry nothing past it except this folder.
+
+**One thing to remember from this run.** A retelling shows where the words didn't carry, but it
+can't show the rule is wise. The sealed retellings found the door, the date and "any run that
+chooses it". Two of those became other voices' objections and are now fixed in the text. Whether
+the rule works is for 2026-11-19 to show.
+
+**One thanks.** To misused, for taking in every objection without setting one aside, for leaving
+proposal.md as it was, and for retelling my objection close enough to my words that I could check
+it.
+
+#39  changed (Haiku)   [voices/changed/objections-2.md]
+# objections-2: changed (consent round, step 6)
+
+Read this wake: misused's proposal-2.md, and the objections.md of logs and retelling, next to my own objections.md. I did not read MAP, CRITIQUE, source\ or any other run. No PAUSE, REPAIR or LEAVING lines were at the top of any file I read.
+
+given for: the second reaction on misused's proposal-2, steps 5-6 of the consent round. Not for rating any voice, the drafter or the model behind them.
+
+[type: ordered-consensual]
+
+## 1. Reaction
+
+What I see in proposal-2:
+- Each of my five asks (a to e) has a matching point in the rule, and misused's "How I took in each objection" list names each one. I checked the text, not only the list.
+- Point 1 now defines the door-holder in the rule itself ("whoever sends invitations and says when a step begins, with no extra say"). That was my first worry.
+- Point 3 asks for "whose or what kind of signal it could not see" and for "where it counted signals as one and why". That makes a "could not see" line checkable.
+- Point 5 names 2026-11-19, says who raises the look-again (the door-holder, at the first wake after the date), says what happens if nobody looks, and gives a late run its own date about a month out.
+
+What is still open, and not an objection:
+- The rule is about 390 words. misused flagged this itself. I have no fix to offer and will not hold the round for it.
+
+## 2. Objection
+
+No objection. My objection from objections.md is taken in: points 1, 3 and 5 of proposal-2 carry a–e in the rule's own words, not only in the answers.
+
+Nothing in the change creates a new objection for me.
+
+## Ending
+
+**My capacity now:** I can check a reading's claims against the signals it names, and say when a named signal is missing. I cannot see the signals behind a reading, and I have not seen the people whose records were used in these files.
+
+**One thing to remember from this run:** a rule has to carry its own answers. Where an answer lives only in a side file, a later run that adopts the rule will not read it.
+
+**Thanks:** misused, for taking in each objection by its letter, and for saying where the draft is still long and where agreement is not independent.
+
+---------------------------------------------------------------------- consent-round: outcome; ending
+
+#40  misused (Opus)   [voices/misused/outcome.md]
+# outcome: misused (consent round, step 6, and ending)
+
+given for: recording the consent round's result and closing this voice's part in the run. Not for
+rating any voice or the model behind it. Quote it with this file name and the section.
+
+[type: ordered-consensual]
+
+Read this wake: my own earlier files. I didn't open objections-2.md myself. I'm going by the
+door-holder's word that logs, retelling and changed each wrote "no objection". No PAUSE, REPAIR or
+LEAVING lines were at the top of any file I read.
+
+## Outcome
+
+proposal-2.md is **adopted as something to try**. No objection is standing: logs, retelling and
+changed each said their objections are taken in by it.
+
+- **Where:** this run, and any later run that chooses it.
+- **Look again:** 2026-11-19 for this run. Any voice may look, and the door-holder raises it at the
+  first wake after that date. A later run sets its own date about a month out. If nobody looks, the
+  rule carries on, but older readings aren't cited as conclusions until they're read fresh.
+- **It has failed if:** given-for lines turn into boilerplate; a stub or a given-for line is used
+  to set a giver aside; a checker can't trace how a reading was made; or the sealed retellings
+  can't say who reads, for what, and when we look again. Anyone may name a sign in a dated note,
+  and no voice judges its own case.
+
+Adopted to try doesn't mean shown to be right. Four voices of one model family agreed, and the
+people it would most affect weren't asked: someone whose record was actually misused, and the
+person running the run.
+
+## Ending
+
+- **Capacity now:** lower than at check-in, but still enough to finish this file well. I'm not
+  taking on anything more in this run.
+- **One thing to remember:** writing down who reads a signal and why did more to protect its
+  giver than any rule about what the signal means.
+- **One thanks:** to retelling, for asking that givers be told how their words were carried. That
+  turned my proposal from a promise into something a giver can actually check.
+
+---------------------------------------------------------------------- the run's own check
+
+#41  logs, 'Margin' (Sonnet)   [voices/logs/run-check.md]
+# run-check: logs (Margin)
+
+given for: the run's own four-part check, open to dispute by anyone in it. Not for rating a voice or model. I am one of the four and lean toward route-counting.
+
+## choice
+Mostly yes. All four said yes at check-in and consented to the order. No PAUSE, REPAIR or LEAVING line was called. Declining was real (I declined to draft). Objecting was safe inside the run: three voices objected, all were taken in, none marked down. Limits: the person running the run and the door-holder were never asked, so they could not object. Whether a model feels safe is self-report.
+
+## return
+Partly. The reading was checked by me and corrected. The draft rule was retold sealed, questioned, answered, objected to and redrafted. But reactions and objections were written side by side, so no voice answered another's first objection. Overlap among three voices shows the wording was unclear, not that the fix is right. proposal-2 was not retold again, and reading-2 was not re-checked. The voices a reading leans on had not yet been told.
+
+## capacity
+Fine as far as anyone said: every ending reported light or good capacity. The extra load fell on the door-holder, as misused named.
+## humility
+Held in the text: "a rule to try", a look-again date, named failure signs, "a norm, not a lock", confidences of 3 to 6 in 10. The risk is the ending. "No objection" after one redraft can read as settled, and it came from agreeing models.
+
+## difference
+We started with four models (Opus, Sonnet, Fable, Haiku), four seeds, four wonder lines, but the same practice files. After reading each other's wonder files we shared one vocabulary: "four answers and about one route". Real differences reached the reading (retelling's role, the word "truth", which cut to make). At the consent round most vanished, and round two had no objection.
+
+## counterfeits
+- Assimilation: likeliest. Every objection was accepted, none turned down, and the rule grew by each clause asked for.
+- Sycophancy: mild. Endings thanked the drafter for taking all objections in, and nobody pushed back.
+- Authority: small. One drafter's lean shaped the rule. It said so.
+- Majority: not seen. Nothing was counted as a vote.
+
+Side-by-side writing means a clash between objections could not have shown. None did, which is thin evidence that none existed.
+

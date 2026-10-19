@@ -1,0 +1,37 @@
+R1 notes: single participant, four declared lenses, ledger
+==========================================================
+
+What happened
+  wonder, then aggregate, then consent-round, all voiced by Claude (main session). The order
+  could not be agreed by a field, since there was none (#5). The outcome is a draft aggregation
+  rule (#22 + #27), adopted to try in R2-R4.
+
+Difference
+  Started near zero (#31): four framings chosen by one mind. Kept: the reading quotes each lens
+  separately, but the differences were authored, not met.
+
+What worked
+  - "Say what you left out" (#6, used in #21) was cheap and surfaced three real gaps.
+  - The lonelier-position prompt surfaced the distinction between kept answers and a ledger
+    (#19, #24). That bears directly on CRITIQUE 1.
+
+What one mind could not do
+  - agree an order (#5);
+  - seal answers (only "write in order, don't go back");
+  - check the reading (#21 is UNCHECKED);
+  - object with any force (#29).
+
+Pause, repair, leaving
+  None. A lens cannot really leave the mind voicing it (#31, choice caveat).
+
+Capacity at the end
+  Unchanged.
+
+Spend
+  No agent wakes. A small share of this session's tokens.
+
+Bears on
+  - CRITIQUE 1 (ledger): lens retelling, #19 and #24. A reading can be checkable against kept
+    answers without a ledger of everything. This is a candidate middle position for R3 to test.
+  - MAP open question (one model alone): consistent with the portability check. Aggregative and
+    ordered-consensual both thin out with one mind; ludic held up best of the three.

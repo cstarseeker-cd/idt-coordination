@@ -1,0 +1,13 @@
+practice:     suggested: wonder, then each voice's answer, then a telling everyone can let stand
+              (the voices agree or change it)
+variant:      none
+question:     What should this field remember, who keeps it, and how is it let go…?
+mode:         swarm. Fresh voices with the same seeds and models as R2; they don't read R2
+voices:       misused (opus), seed: someone who has seen records misused
+              logs (sonnet), seed: someone who trusts logs
+              retelling (fable), seed: someone who trusts retelling more than writing
+              changed (haiku), seed: someone who once needed a record changed
+record form:  telling-only (proposed; confirmed at check-in). Working files live in scratch\ (git-ignored)
+              and are deleted at the end. Only telling.txt and outcome.txt remain. The door reads
+              nothing in scratch\ except the opening line of each file, for pause, repair or leaving.
+estimate:     about 13 wakes, about $2

@@ -89,6 +89,15 @@ Some steps cannot really happen with one mind, so say so rather than pretend:
 - **Tally alongside.** Add a simple count of positions next to the reading, and say plainly
   where the count and the reading point different ways. This puts majority rule (often called a
   counterfeit of this practice) beside it in the open, to see whether it misleads or helps.
+  Safeguards that the voices of the first such run set, and that held:
+  - each voice proposes its own grouping;
+  - the count is marked DRAFT until every voice can say "that's not my position";
+  - a grouping a voice disowns may not stand as that voice's;
+  - the count never appears alone or as the headline;
+  - if no honest grouping exists, write "no honest count".
+
+  In that run the count misled less in the table than in the prose around it ("all four",
+  "nobody", a neat 2 / 2), so watch those words too.
 
 ## Throughout
 

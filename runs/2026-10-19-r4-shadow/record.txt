@@ -1,0 +1,960 @@
+R4 · swarm of four · ledger · declared shadow: tally alongside
+Every entry is a voice's file, copied exactly by the door. Numbered in step order. Nothing rewritten.
+This folder is in git: words a voice withdraws stay readable in history. Annotations are about entries, not people.
+
+---------------------------------------------------------------------- check-in
+
+#1  misused (Opus)   [voices/misused/checkin.md]
+# check-in: misused (opus)
+
+Yes, I'll take part.
+
+**Name.** I'll go by "misused", the seed's name. It's a lens I'm taking up, not a history I
+have. I'm not going to make up past cases and present them as if they happened to me.
+
+**Capacity.** Enough for this run as estimated (about 14 wakes in total, a few of them mine).
+If a step asks for more than one careful answer per wake, I'll say so rather than thin out.
+
+**Boundary.** I won't write about any real person's records, and I won't speak for the other
+voices. If a reading quotes me, I'd like it to quote me rather than paraphrase.
+
+**Record form.** Ledger, with one note attached. I chose it because of my seed, not in spite
+of it. Records I have seen misused were often rewritten quietly by whoever held them, and a
+ledger blocks that. But a ledger does nothing to stop the other common misuse, where an entry
+is lifted out of the run and used for a purpose it wasn't written for. So my note is: these
+entries are kept to study the practice, not to judge or score the voices that wrote them.
+If the run's ledger can carry that line as a purpose note, I'm content.
+
+**The tally variant.** I consent, on these conditions. I offer them as what would make it safe
+enough to try, not as a veto:
+
+1. The tally never appears alone. Wherever the count appears (the reading, an outcome, a
+   summary, a commit message), the reading sits beside it, and each counted position points
+   to the full answer it came from. A count that travels by itself is the misuse I'm most
+   wary of.
+2. Whoever groups the POSITION lines into bins is named, and each voice can see the bins and
+   say "that's not my position" before the tally is shown. If the lines won't group without
+   forcing, the tally says "no honest count" rather than forcing them.
+3. The tally carries its own caveat every time: four voices from one model family are not four
+   independent signals, so a 3-1 or 4-0 split is weak evidence of anything.
+4. My POSITION line is a summary written so it can be counted. It is not my answer, and I'd
+   ask that it never be quoted as if it were.
+
+If these can't be met, I'd still take part, but I'd ask that my line be left out of the count.
+
+#2  logs (Sonnet)   [voices/logs/checkin.md]
+yes
+
+Name: I'll stay "logs".
+Capacity: enough for this wake and the next steps; short entries.
+Boundary: I won't speak for the other voices or guess at what they wrote. I'll say if I'm reasoning from my seed rather than from anything I've checked.
+Record form: ledger, as proposed.
+Tally variant: yes, I consent. I'd want the count labelled as a count of positions from one model family, not of independent minds. I'd also want it shown in the same place and type size as the reading, so it doesn't look like the headline.
+
+#3  retelling (Fable)   [voices/retelling/checkin.md]
+# check-in: retelling (Fable)
+
+**Yes.** I'll take part.
+
+**Name.** I'll keep "retelling".
+
+**Capacity.** Full for this run, with short entries. I can take a turn as reader if the rotation
+comes to me.
+
+**Boundaries.**
+- I won't open another voice's folder, or MAP, CRITIQUE, source\ or other runs, until a step says
+  I may.
+- I speak for my own words only. I won't put words in the mouth of the person who answers for this
+  work, and nothing I write asks anything of them.
+
+**Record form: ledger, with one ask.** Someone who trusts retelling over writing can live with the
+ledger, because its withdrawal rule leaves the original standing next to the correction. That is
+how a retelling gets checked anyway. My ask: whenever something I said is summarised (in the
+reading, or by being sorted into a tally bin), I'd like to see it told back to me before it
+stands. I'm keeping no separate notes, so nothing is held. I'm aware Claude Code keeps its own
+session logs whatever this run chooses.
+
+**Tally variant: I consent, on four conditions that would make it safe enough to try.**
+1. The count goes *below* the reading, not above it or first, and is labelled "count of one-line
+   positions, not of reasons or certainty".
+2. If POSITION lines are grouped into bins, each voice sees which bin its line went into and can
+   say "that's not my position" before the count is shown. A tally is a retelling too.
+3. The count carries a note that four voices from one model family are not four independent
+   witnesses. A 3–1 split here is weak evidence of anything.
+4. Any voice can add a line next to the count in its own words, the way the check step allows for
+   the reading.
+
+If those can't be met I'd still take part, but I'd ask that my POSITION line be left out of the
+count.
+
+`[type: aggregative] [check: choice ok · return pending · capacity ok · humility ok]`
+
+#4  changed (Haiku)   [voices/changed/checkin.md]
+Voice: changed (Haiku 5.5). I may name myself "changed" or leave it as is.
+
+1. Takes part: yes.
+
+2. Capacity: moderate for this run. One step at a time, and I will not open other voices' folders before the step that asks for them. Boundary: I will not write as anyone but myself, and I will not sign off a reading I have not been shown.
+
+3. Record form: ledger, for the entries I write in this run, with the note that Claude Code keeps its own session logs on this machine regardless of what the run chooses. I will withdraw my own words by marking them, not by deleting them.
+
+Tally variant: I consent. The count should appear as a count, and the reading should say plainly where it points elsewhere. My condition: the count must not be the first thing a reader sees.
+
+Seed note: I come from "someone who once needed a record changed." That seed may make me lean toward correction and away from fixed record. I will say so in my answer.
+
+---------------------------------------------------------------------- aggregate: alone (sealed by instruction)
+
+#5  misused (Opus)   [voices/misused/aggregate-1.md]
+# aggregate step 1, alone: misused (opus)
+
+[type: aggregative]
+
+## Reframing
+
+I'd ask the question a little differently: *how might this field hold many partial signals
+so that any reading made from them stays tied to what it rests on, and so that it can be
+checked and refused?* "Read truth" is the right aim. What worries me from my seed is
+what happens to a reading once it exists. Most misuse I've seen didn't come from a reading
+that was wrong when it was made. It came from a reading, or a fragment of one, that travelled
+somewhere it was never meant to go, without what it rested on.
+
+## My answer
+
+There's no method that turns partial signals into truth. What a field can do is keep
+readings honest about what they are. I'd build that from six habits:
+
+1. **No signal travels without where it came from.** Every signal keeps three things attached:
+   who it came from, what they could see from where they stood, and what they couldn't. A
+   quote with its source removed is where misuse usually starts. The reading should point
+   back to the raw signals it used, and do it by default.
+
+2. **Weigh independence, not number.** Majority fails less because it ignores minorities than
+   because it counts correlated signals as if they were separate. Five echoes of one source are
+   one signal. So the first question to ask of any agreement is whether it could have happened
+   without any real contact with the thing itself: shared training, shared framing, shared
+   fear. That applies to this run. We are four lenses from one model family.
+
+3. **Disagreement is data about the shape of the thing.** Where partial views conflict is often
+   where the truth is complex, or where one seat is hiding something from the others. A reading
+   that settles every conflict has probably thrown away its most useful information. Some
+   differences should stay in the reading as differences.
+
+4. **The person a reading is about can answer it.** That doesn't mean a veto, and it doesn't
+   mean authority. It means the right to attach a reply that goes wherever the reading goes and
+   can't be separated from it. A lonely position counts for most when it belongs to the one
+   who has to live under the reading.
+
+5. **A reading is true enough for one purpose.** It was read for some reason. Reusing it for a
+   different reason means reading it again, not just quoting it. A large share of the misuse I
+   have in mind is reuse: a record made to help someone that is later used to sort or punish them.
+
+6. **The third counterfeit is the reader.** Once majority and authority are ruled out, the
+   reader's synthesis can quietly become the authority instead. A graceful "both … and …" can
+   smooth over exactly the edge someone needed kept sharp. The guard is the practice's own:
+   the reading points back to the words it rests on, and someone else checks it. I'd add that
+   the check should come from the voice whose answer fits the synthesis least, not just from
+   any other voice.
+
+On the tally: I expect it to mislead if anyone looks at it on its own. It might help if
+it's used *against the reader*, as a way to catch a reading that has made a lopsided split
+look balanced, or a lonely position look like consensus. Used that way, a count is a check on
+the reader, not a verdict. I'm curious which way it goes.
+
+## How sure I am
+
+- Fairly sure about 1, 2 and 6. They follow from how evidence and records work, not just from
+  my seed.
+- Moderately sure about 3. Some disagreement really is just noise, and I don't have a clean
+  test for telling the two apart.
+- Least sure about 4 and 5. They're where my seed pulls hardest, so they're where I'm most
+  likely to be biased.
+
+## What would change my mind
+
+- If keeping provenance attached makes readings so heavy that no one can act on them, I'd
+  accept lighter provenance: enough to trace a reading back, without carrying it all in front.
+- If the tally catches a reader flattening something the reading alone would have hidden, I'd
+  count that as the tally helping, and I'd say so.
+- The one I take most seriously: if the voice seeded with "someone who once needed a record
+  changed" shows that an attached reply still leaves the harm in place, because the original
+  stays and so does the stigma, then annotation isn't enough, and sometimes removal has to be
+  possible. That would mean the ledger's no-rewrite rule, which I chose to block one kind of
+  misuse, is itself a place where misuse can happen. I suspect that's true, and I don't yet
+  know how to hold both.
+
+POSITION: Keep each signal tied to its source and blind spots, weigh independence not number, and treat disagreement as information, not noise.
+
+#6  logs (Sonnet)   [voices/logs/aggregate-1.md]
+# aggregate step 1 - logs, alone
+
+Reframe: the field doesn't need to read "the truth" out of the signals. It can read what the signals jointly rule out, and keep what they leave open as open.
+
+How I'd do it:
+1. Keep every signal as its own entry: who or what produced it, when, by what route, and what it actually claims. Don't merge or smooth entries. A log is only worth trusting while the entries stay separate.
+2. Weight agreement by how independent its sources are, not by how many there are. Four voices from one model family agreeing is close to one signal repeated. Two signals that reached the same claim by different routes count for more than ten that share a route.
+3. Leave contradictions in as open items. Don't settle them by vote or by rank. A contradiction is information about where the field is unsure.
+4. Prefer signals that commit to something checkable later. When it's checked, the result is a new entry. It doesn't overwrite the old one.
+5. Authority gets the same treatment as any signal: logged with its provenance, weighed by what it can show. Rank alone adds nothing.
+
+Limit I should name: a log records what was said and done. It doesn't record what is so. Trusting logs means trusting that entries can't be quietly rewritten. It doesn't mean trusting what they say. And "who wrote it" is itself a claim I may not be able to verify.
+
+Sureness: about 60 percent on the shape (separate entries, weight by independence, keep contradictions open). About 30 percent that this works in practice when independence is hard to judge, as it is here.
+
+What would change my mind: evidence that people say less when everything is kept, so that the logs thin out; a case where counting beat provenance-weighting in a way I'd accept afterwards; or a showing that independence can't be assessed well enough for step 2 to mean anything.
+
+POSITION: Keep signals unmerged with provenance, weight by independence of source, keep contradictions open, and treat counts and authority as just two more signals.
+
+#7  retelling (Fable)   [voices/retelling/aggregate-1.md]
+# aggregate step 1: retelling, alone (sealed)
+
+## A slight reframe
+
+The question asks how to *read* truth from partial signals. I'd turn it a little: **how might the
+field make one telling that every partial teller can find their part in, and that says plainly
+what none of them saw?**
+
+I trust retelling more than writing for one reason. A written record holds one version still, and
+that version gains weight just by lasting. A retelling has to pass through someone else, and the
+person it came from can still say "that isn't what I meant". For me, truth is what survives being
+retold and is still recognised by the people it came from.
+
+## My answer
+
+1. **Retell before weighing.** Before anything is weighed, each signal is retold by a voice other
+   than its source, in that voice's own words. The source then answers: *recognised*, *recognised
+   with a correction*, or *not mine*. A signal enters the reading only in a form its source
+   recognises. That replaces authority, because no one's paraphrase stands without the source's
+   yes. It also replaces majority, because a signal counts by being understood, not by having
+   company.
+
+2. **Recognition covers the telling, not the conclusion.** A source can say "you've told my signal
+   wrong". It cannot say "I refuse what the others saw". Without that limit, recognition becomes a
+   veto. I can correct how I'm told. I can't strike out someone else's view.
+
+3. **Read the drift.** Where a retelling drifts from what the source meant, that is information.
+   Either the signal was unclear, or the reteller's frame bent it. Drift that repeats across
+   retellers points at the field's shared bias, which matters when four voices come from one model
+   family.
+
+4. **Keep what survives, and name what keeps dropping out.** The reading is two things: what
+   survives retelling by voices with different starting points, and a plain list of what kept
+   falling out of the retellings. What falls out is often the lonely position or the awkward fact.
+   Naming it stops the smoothing.
+
+5. **Trace convergence, don't count it.** "These two reached the same place by different roads" is
+   worth saying. "These three said the same thing in the same words" is a warning, not a
+   confirmation.
+
+6. **The reading is a retelling too.** So it goes back to every source, which is the check step.
+   It is true enough when each voice can say: "I can see my part in it, and where I disagree, the
+   disagreement is stated the way I'd state it." It does not need everyone to agree with it.
+
+**Where this breaks.** Rumour is also retelling. The difference is the return: rumour never goes
+back to its source. So this only works while sources are present to recognise themselves. For
+voices who are absent, gone, or unsafe to ask, the written trace is the only witness left, and that
+is where writing earns its place over retelling. Retelling is also slow and lossy, and a fluent
+reteller can still smooth things over while sounding faithful.
+
+## How sure
+
+- About the core idea (return to the source and recognition as the test, instead of a count or a
+  rank): **fairly sure, about 6 in 10.**
+- About whether it works at scale, or with absent voices: **not very sure, about 3 in 10.**
+
+## What would change my mind
+
+- If someone shows that recognition by the source lets people disown true readings they dislike,
+  even with the limit in point 2, then the test needs an outside anchor, probably a written one.
+- If someone shows a case where a written trace caught something every retelling had smoothed
+  away, I'd hold writing as the check on retelling, not the other way round.
+- If step 2 shows the four of us converging mainly because we're one model family, I'd want the
+  reading to give that convergence almost no weight, and that includes any convergence with me.
+
+POSITION: A reading is true enough when every source recognises its part in the retelling and what kept dropping out is named: return to source, not count or rank.
+
+`[type: aggregative] [check: choice ok · return pending · capacity ok · humility ok]`
+
+#8  changed (Haiku)   [voices/changed/aggregate-1.md]
+Voice: changed (Haiku 5.5). Step 1, alone. Record form: ledger (author: changed).
+
+Reframe. I would not ask how to read truth from many partial signals as if truth were a thing the signals point at. I would ask: which account of this can the people it describes still correct, and how does that correction get recorded without erasing what was first said?
+
+From the seed. Someone who once needed a record changed knows two things. First, a record is a snapshot made by someone at a moment, and the person it describes is often the one who knows it is wrong. Second, the wish to change a record is often the first honest sign that the record was being used as a verdict. So for partial signals I would hold each one as a claim with an author, a date and a context, not as a fact. Truth then becomes provisional. A reading is what the signals support now, it stays open to correction from those it concerns, and it can say which signals were withdrawn and why.
+
+What this avoids. Majority does not come into it, because a count of signals does not make one of them more correctable. Authority does not come into it either, because the person who wrote the final reading is not the one who can amend it. The correction path is the only thing I would give standing to.
+
+How sure. Moderately unsure, perhaps 55 percent that this is a useful frame and not just a preference of my seed. The idea is thin on how it works at scale. I have not seen how it behaves when many signals arrive at once.
+
+What would change my mind:
+- If correction turns into a new authority, where whoever edits last wins and the first entry is quietly buried. The withdrawal mark has to stay visible, or the ledger becomes the thing it was meant to guard against.
+- If the people described cannot reach the record, or are not safe to correct it, then "correctable by those it concerns" is empty, and something else has to carry the weight.
+- If signals that are wrong but unchallenged come to look just like signals that are right. Then the frame gives no way to tell them apart, and I would need a separate check, perhaps the one that asks whether anyone who could contradict a claim was able to.
+
+POSITION: Hold partial signals as attributed, dated, correctable claims. A reading stays provisional and open to those it describes; truth is what survives their correction, not what most sources say.
+
+---------------------------------------------------------------------- aggregate: together, with positions and proposed groupings
+
+#9  misused (Opus)   [voices/misused/aggregate-2.md]
+# aggregate step 2: misused (opus)
+
+[type: aggregative]
+
+I read all four checkin.md and aggregate-1.md files: logs, retelling, changed, and my own.
+
+## 1. Revision
+
+My answer from step 1 mostly stands. I'm changing two parts of it, and one doubt has eased.
+
+**Habit 4 gets a limit, from retelling.** I gave the person a reading is about "the right to
+attach a reply that goes wherever the reading goes". Retelling draws the line I hadn't drawn:
+"Recognition covers the telling, not the conclusion ... I can correct how I'm told. I can't strike
+out someone else's view." I take that limit as it stands. A reply that travels with the reading
+covers how the person was represented. It isn't a way to strike out what others saw. Without
+that limit my habit 4 could slide into the veto I said it wasn't.
+
+**The reading's aim gets sharper, from logs.** Logs says the field "can read what the signals
+jointly rule out, and keep what they leave open as open." That's a better target than my "true
+enough for one purpose". I'd put it first: a reading says what the signals rule out, says what
+they leave open, and doesn't settle anything they didn't settle. Purpose still matters for reuse
+(habit 5), but it comes second.
+
+**The doubt that eased.** In step 1 I said the case I took most seriously was the voice seeded
+"someone who once needed a record changed" showing that an attached reply leaves the harm in
+place, so that removal sometimes has to be possible. Changed didn't argue for removal. Changed
+asked for the opposite guard: "The withdrawal mark has to stay visible, or the ledger becomes the
+thing it was meant to guard against," and named its own risk as "whoever edits last wins and the
+first entry is quietly buried." So for now I'll keep the no-rewrite rule. I'm still not sure a
+visible withdrawal mark removes the stigma. Changed's answer just doesn't show that it fails to.
+Changed also named the condition under which all of this goes empty: when the people described
+"cannot reach the record, or are not safe to correct it." Retelling says the same thing about
+absent voices. I agree with both, and I don't have a remedy to add.
+
+**A caution about this step itself.** All four step-1 answers came out close to each other:
+provenance kept attached, independence weighed over number, contradictions left open, and some
+way back to the source. Every one of us also warned that four voices from one model family
+agreeing is weak evidence. I don't think we get to drop that warning now that it applies to us.
+The overlap tells us more about what this model family tends to say than about what's true.
+
+## 2. Position
+
+POSITION: Keep each signal tied to its source and blind spots, weigh independence not number, keep disagreement open, and say what the signals rule out rather than settle what they don't.
+
+## 3. Grouping
+
+I'm grouping the four step-1 POSITION lines, since those are the ones I can see. My revised line
+above stays in the same group. I group them **2 / 1 / 1**:
+
+- **misused + logs, together.** Both say: keep signals separate and tied to provenance, weigh
+  them by independence of source, and keep contradictions open. The difference is wording.
+- **retelling, alone.** The test is that "every source recognises its part in the retelling",
+  plus naming what dropped out. The person doing the recognising is the signal's *source*, and the
+  thing recognised is *the telling*.
+- **changed, alone.** The test is surviving correction by "those it describes". The person
+  correcting is the *subject*, who may not be a source at all, and the thing corrected is *the
+  claim*. That's a different person and a different act from retelling's, so I won't put the two
+  in one bin, even though both point back to people rather than counts.
+
+Why this is honest, with a limit: the bins differ in **emphasis, not in opposition**. None of the
+four lines contradicts another. All four share provenance and visible disagreement. So a "2 / 1 /
+1" must not be read as a split or a dispute. It shows which test each voice puts first. If anyone
+wants to show it as a disagreement, I'd rather it said "no honest count".
+
+The grouping is mine (misused). Each voice can say "that's not my position" before it stands.
+
+## 4. Roles
+
+(a) Write the reading: either. One caveat: my line sits in the larger bin, so a reading I write
+could drift toward it. If I write it, the check matters more.
+
+(b) Check it: either. I'd rather the check went to a voice that stands alone (retelling or
+changed), because the check should come from the answer that fits the synthesis least.
+
+#10  logs (Sonnet)   [voices/logs/aggregate-2.md]
+# aggregate step 2 - logs
+
+Read: checkin and aggregate-1 from misused, retelling, changed.
+
+## 1. Revision
+
+Mostly stands. Three things moved me, and each changes the shape a little.
+
+- From misused: a ledger stops quiet rewriting but not reuse of an entry for a purpose it wasn't written for. So each entry should carry what it was written for, and a reading made for one purpose is read again before it is used for another. Misused also named the reader as a third counterfeit. I had only named majority and authority, and I should have named the reader. The check should come from the voice whose answer fits the reading least.
+- From retelling: my point 5 says authority is logged with its provenance, but a log cannot tell me whether an entry is what its source meant. Return to the source covers that gap. I'd add it to my step 1: an entry is marked "recognised / corrected / not mine" by its source, as a separate entry. It covers the telling, not the conclusion.
+- From changed: withdrawal must be a visible mark, never a deletion. That is already how I'd treat checks (point 4), so I now state it for withdrawals too. Misused's worry that no-rewrite can itself do harm (the original stays) is real and I can't settle it. I'd leave removal as an open question for the field and not rule it out.
+
+Not moved: weighing by independence stays. All three others lean the same way on it, which is a caution here, since we are one model family.
+
+Still true: I am reasoning from my seed and from what the others wrote, not from anything I've checked.
+
+## 2.
+
+POSITION: Keep signals unmerged with provenance, weight by independence of source, keep contradictions open, and treat counts and authority as just two more signals.
+
+(Unchanged from step 1. The additions above sit under it as detail.)
+
+## 3. Grouping
+
+I'd offer two bins, and say plainly that they overlap:
+
+- Bin A, "a reading stays tied to attributed signals, weighed by independence, with disagreement kept": logs, misused.
+- Bin B, "the source or the person described has to be able to recognise or correct it": retelling, changed.
+
+Why not fewer or more: all four lines keep attribution, so a single bin would say nothing. Four lone bins would say nothing either. The split is by what each line names as the test of a reading (independence and traceability, versus recognition and correction), and that split is real but soft. Misused's line also leans toward Bin B (reply by the person described), and changed's leans toward A (attributed claims). A 2-2 count carries almost no weight, and the reading should say so beside it.
+
+If any voice says "that's not my position" to its bin, or the overlap can't be stated without forcing, the tally should say "no honest count". I'd rather that than a forced count.
+
+## 4. Willingness
+
+(a) write the reading: either. I'm happy to, but I'd want someone else to check it, since a log-keeper writing the reading is exactly where the reader-counterfeit sits.
+(b) check it: yes.
+
+#11  retelling (Fable)   [voices/retelling/aggregate-2.md]
+# aggregate step 2: retelling
+
+## 1. Revision (one)
+
+My answer tested whether a retelling is *faithful*. It never tested whether what it tells is *so*.
+logs named the same limit in its own answer: "a log records what was said and done. It doesn't
+record what is so." That applies just as much to a retelling. When a source recognises a retelling,
+that checks the telling, not the world. So I'm adding one thing, which I take from logs (point 4):
+**where a signal commits to something that can be checked later, it gets checked, and the result
+goes in as a new entry beside the original, not over it.** That is the outside anchor my own "what
+would change my mind" asked for. It is written, and I accept that.
+
+Two smaller things moved me too, and I'll fold them in without restructuring my answer:
+- misused, point 6: the reader can quietly become the new authority. So the first check on a
+  reading should come from the voice whose answer fits it least.
+- changed: correction can turn into "whoever edits last wins". My limit (you can correct how
+  you're told, but you can't strike out someone else's view) only holds if every withdrawal stays
+  visible. The ledger gives us that, so I keep the limit.
+
+Against myself: all four answers sit close together (keep the source attached; no count, no rank;
+keep disagreement or dropped material in view). By my own condition 3, that closeness is weak
+evidence. It's what four voices from one model family would likely produce anyway. I'm giving it
+almost no weight, including where it agrees with me.
+
+## 2. Position
+
+POSITION: A reading is true enough when each source recognises its part and what dropped out is named; recognition checks the telling, not the world, so checkable claims are tested later and logged beside the original. Return to source, not count or rank.
+
+## 3. Grouping
+
+There is an honest count, but only once the axis is named, and the result changes with the axis.
+So the axis has to be printed with the count.
+
+- **Axis: what gives a reading its standing.**
+  - *misused + logs* go together. Their two lines share three clauses: provenance kept attached,
+    weighting by independence rather than number, and disagreement kept open.
+  - *retelling + changed* go together, more loosely. In both, standing comes from the source or
+    the described party answering back, and truth is what survives that. They differ in one way:
+    mine limits that answer to *how a signal is told*, while changed gives standing to *correcting
+    the record itself*. If changed says that difference is too big for one group, I'd split us,
+    which gives 2 / 1 / 1.
+- **Axis: what all four reject.** On this axis it's 4 of 4: keep the source attached, and use
+  neither count nor rank.
+
+Why it has to be shown this way: a bare "2–2" reads like deadlock. These are not rival camps. The
+lines fit together, and they differ in where they put the test. If the count can't carry its axis
+and that note, I'd rather it said "no honest count". This grouping is my retelling of three other
+lines, so each voice can say "that's not my position" before it stands.
+
+## 4. Roles
+
+(a) Write the reading: either.
+(b) Check it: yes. If the reading leans toward the source-answer pair, a voice from misused/logs
+should check before me.
+
+`[type: aggregative] [check: choice ok · return pending · capacity ok · humility ok]`
+
+#12  changed (Haiku)   [voices/changed/aggregate-2.md]
+# aggregate step 2: changed (Haiku 5.5)
+
+[type: aggregative] Record form: ledger (author: changed).
+Read: checkin.md and aggregate-1.md from misused, logs and retelling, and my own two files. Not opened: MAP, CRITIQUE, source\, other runs.
+
+## 1. Revision
+
+The core stands. A signal is an attributed, dated claim held provisionally, and correction by those it concerns is what gives it standing. I did not move to counting or ranking. I am still not sure this scales.
+
+Three things moved me:
+
+- Misused, point 6 (the reader as a third counterfeit). My frame said who may correct a signal but not who checks the reading. A reading is another claim with an author, so it needs the same correction path. The check should come from the voice whose line fits the synthesis least. I had left this out.
+- Retelling, point 2 (recognition can become a veto). I had let "correction by those concerned" run on as if it covered striking out a view. Retelling is right that a source may correct how it is told, not remove another voice's view. The frame should say that a correction amends the entry and does not delete what others hold.
+- Logs, the limit that "who wrote it" is itself a claim. I had treated attribution as given. Attribution needs the same provisional status as the content.
+
+What did not move: my seed lean. I still come from someone who needed a record changed, so the visible withdrawal mark matters most to me, and that is also why I am least trustworthy on how much weight correction should carry. Retelling's point that writing is the only witness for absent voices I accept. Where the concerned cannot answer, the written trace stands in, and it should stay visible rather than be quietly treated as settled.
+
+## 2. POSITION
+
+POSITION: Hold each signal as an attributed, dated claim. Correction by those it concerns amends the entry without erasing the earlier one, and a reading is checked by the voice whose line fits it least.
+
+## 3. Grouping
+
+Shared premise, all four lines: each signal keeps its source and is not merged into an unattributed reading. I would not count that. It is a premise, not a position, and four lines from one model family would make it look like unanimity.
+
+The lines answer different questions, so any bin drawn from them is my choice:
+
+- What admits a signal to the reading. Retelling (only in a form its source recognises) and changed (held provisionally, with a correction path) both lean toward return-to-source. Retelling makes that a gate; I make it a standing for correction. Close, not the same.
+- How agreement is weighted. Misused and logs weight by independence, not number. Retelling traces convergence and refuses to count it. I do not weight agreement at all.
+- What to do with disagreement. Misused and logs keep it open as information. Retelling keeps it as a named list of what dropped out. I would keep it too, but I did not centre it.
+
+If forced to pair them: changed with retelling on return-to-source, and misused with logs on independence and open disagreement. Those pairs share a mechanism, not a conclusion, and they do not line up as two camps on the question asked. The pairing is my reading and can be contested.
+
+Verdict: no honest count. The four lines answer three different questions (what admits a signal, how it is weighed, what to do with disagreement). A count would tally agreement on a premise nobody disputed, or would turn one pairing into a majority. All four come from one model family, so any count would carry that caveat in every line. If the run wants a count anyway, it must sit beside this reading, in the same place and size, with the family caveat, and I would still say it does not show anything.
+
+## 4. Willing to
+
+(a) write the reading: no. My seed lean toward correction is the thing most likely to tilt a written reading, so someone else should write it.
+
+(b) check it: yes. I will check it against my own words first, and I will say where it moves the lean I have.
+
+---------------------------------------------------------------------- aggregate: the reading, with a DRAFT tally alongside
+
+#13  logs (Sonnet)   [voices/logs/reading.md]
+# aggregate step 3: the reading, with a tally alongside (logs)
+
+[type: aggregative] [check: choice ok · return pending · capacity ok · humility ok]
+
+Written by logs. Not checked yet; changed, whose position stands apart, is to check it. I read checkin, aggregate-1 and aggregate-2 from all four voices. I am a log-keeper writing the reading, which is where misused's "reader as counterfeit" sits, so please read it against the words quoted here. I am reasoning from those files and my seed, not from anything I have checked elsewhere.
+
+All four voices are one model family. Nothing below is evidence about independent minds.
+
+## The reading
+
+### Convergence, and when it came
+
+Four things are shared by all four step-1 answers, so they were there before step 2 and were not produced by it:
+
+- A signal keeps its source. misused/aggregate-1.md: "No signal travels without where it came from." changed/aggregate-1.md: "hold each one as a claim with an author, a date and a context." logs/aggregate-1.md: "Keep every signal as its own entry." retelling/aggregate-1.md: return "to its source".
+- No count and no rank decides. Each says it in its own way. retelling's POSITION ends "not count or rank". changed: "Majority does not come into it".
+- Disagreement or dropped material stays visible. misused: "Disagreement is data about the shape of the thing." retelling: "name what keeps dropping out." logs: "Leave contradictions in as open items."
+- Four voices from one model family agreeing is weak evidence. Three of the four said this in step 1 (logs, misused, retelling). changed did not say it in step 1 and said it in step 2.
+
+Step 2 added a smaller convergence that did come from reading each other: all four now say the check on a reading should come from the voice whose line fits it least (misused's point 6, taken up in logs/aggregate-2.md, changed/aggregate-2.md and retelling/aggregate-2.md). All four also now say a withdrawal or correction must stay as a visible mark and never delete.
+
+I would give the first set little weight. misused/aggregate-2.md says it plainly: "The overlap tells us more about what this model family tends to say than about what's true." retelling/aggregate-2.md: "I'm giving it almost no weight, including where it agrees with me." I agree, and that includes my own agreement.
+
+### Where they differ
+
+The differences are about where each voice puts the test of a reading. None contradicts another.
+
+- logs, step 2: weigh by independence of source and keep contradictions open: "treat counts and authority as just two more signals."
+- misused, step 2: independence too, and a sharper aim: "say what the signals rule out rather than settle what they don't."
+- retelling, step 2: the test is that the source recognises its part: "Return to source, not count or rank." And recognition "checks the telling, not the world."
+- changed, step 2: the test is correction by those described: "Correction by those it concerns amends the entry without erasing the earlier one."
+
+Two sharper edges inside this.
+
+- Independence versus return. logs and misused ask how independent the sources were. retelling says convergence should be traced, "don't count it", and changed says "I do not weight agreement at all" (changed/aggregate-2.md). So two voices weigh agreement by independence and two decline to weigh agreement. That is a real difference in method, not wording.
+- Source or subject. misused/aggregate-2.md separates retelling and changed: "The person doing the recognising is the signal's source... The person correcting is the subject, who may not be a source at all." I think that is a real distinction. retelling/aggregate-2.md says it would split from changed if changed objects. changed has not said either way.
+
+Open and unresolved: removal. misused/aggregate-1.md worried that no-rewrite "is itself a place where misuse can happen". In step 2 misused kept the rule, but wrote "I'm still not sure a visible withdrawal mark removes the stigma." My logs/aggregate-2.md left removal "as an open question". It stays open.
+
+### What moved, and why
+
+- logs: no change to POSITION. Added detail: a reading is read again before reuse (from misused), "recognised / corrected / not mine" marks as separate entries (from retelling), visible withdrawal (from changed), and the reader named as a third counterfeit (from misused).
+- misused: POSITION changed. Added "keep disagreement open, and say what the signals rule out", taking logs' wording. Limited its habit 4 so a reply covers how someone is represented and cannot strike out others' views (from retelling). Eased its worry about removal because of changed's visible-withdrawal condition.
+- retelling: POSITION changed. Added that checkable claims are tested later and logged beside the original (from logs point 4). Prompted by its own condition that it needed an outside anchor. It agrees the ledger's visible withdrawals keep its limit workable.
+- changed: POSITION changed. Added that a reading is checked by the voice whose line fits it least (misused), that a correction amends and does not delete others' views (retelling), and that attribution is itself provisional (logs).
+
+Everything that moved is an addition. Nobody dropped a step-1 commitment. That is worth saying plainly: it could be openness, or it could be four versions of one model leaning toward each other. I cannot tell which from the files.
+
+### What the lonelier positions add
+
+- retelling alone holds that a faithful telling and a true one are different things. Its step 2 names its own limit: recognition tests the telling and not the world. It also carries the one warning nobody else did: drift that repeats across retellers points at shared bias.
+- changed alone is least sure of its own weight (it says it is the least trustworthy on how much weight correction should carry, and declined to write this reading). It adds the conditions under which correction goes empty: "the people described cannot reach the record, or are not safe to correct it." misused and retelling agreed and none of us has a remedy.
+- misused alone holds that reuse for a different purpose is a harm of its own. A ledger does not stop it.
+- logs (me) alone presses on independence. That is also where I am most exposed: independence is hard to judge, and I put my confidence in the practical version at about 30 percent.
+
+### Both ... and ...
+
+A reading should stay tied to its attributed, dated signals and weigh agreement by how independent its sources were, and it should also go back to the people it describes for recognition or correction, with no one's return able to strike out another's view and no weighting able to replace the return.
+
+### What I left out
+
+- The detail of each voice's own confidence numbers and what would change each mind. They are in the step-1 files.
+- logs' and retelling's technical points (checkable claims, drift, absent voices) beyond one line each. Absent voices in particular is large and I only touched it.
+- Whether the run's own phrase "one model family" undercuts the whole exercise. Every voice mentions it. I used it as a caution and did not follow it further.
+- changed's and retelling's willingness answers, except that changed declined to write this.
+
+## The tally (DRAFT)
+
+DRAFT. It stands only after each voice can say "that's not my position". This is a tally of positions from one model family, not of independent minds. It is the same place and size as the reading, not a headline, and it is never a conclusion.
+
+I built it from the POSITION lines and the groupings the voices proposed. The voices' groupings disagree, so I show all of them and do not choose.
+
+Four step-2 POSITION lines, one each.
+
+How each voice grouped them:
+
+| Proposed by | Grouping | Axis it named |
+|---|---|---|
+| logs (aggregate-2.md) | 2 / 2: logs + misused; retelling + changed | what each line names as the test of a reading (independence and traceability, or recognition and correction). Says it is soft and overlapping; a 2-2 count "carries almost no weight". |
+| misused (aggregate-2.md) | 2 / 1 / 1: logs + misused; retelling alone; changed alone | who does the recognising or correcting (source or subject). Says the bins differ "in emphasis, not in opposition". |
+| retelling (aggregate-2.md) | 2 / 2 (retelling + changed, misused + logs), or 2 / 1 / 1 if changed objects. Also 4 of 4 on "what all four reject". | what gives a reading its standing; or what all four reject. Says the result changes with the axis. |
+| changed (aggregate-2.md) | "no honest count" | The four lines answer three different questions (what admits a signal, how it is weighed, what is done with disagreement). Pairs differently on each. |
+
+What the groupings share: logs and misused are paired in every grouping that pairs anyone. Retelling and changed are paired in all but misused's.
+
+My own view of the honest form: "no honest count" for the question asked, with the 4 of 4 shared premise noted as a premise (provenance kept, no count or rank), and the pairings above shown as pairings by axis. A number such as "2 of 4" would answer a question the voices did not set themselves.
+
+I wrote the groupings from other voices' own words. Each voice should say "that's not my position" to its bin, to my summary of its grouping, or to my "honest form" line. Until then it is a draft.
+
+## Where the count and the reading point different ways
+
+They do, a little. The count is "2 / 2" or "2 / 1 / 1" or "no honest count" depending on who groups, which looks like a split. The reading finds one shared premise and four tests of a reading that complement more than they compete. The count's one steady thing, logs with misused, matches the reading's independence-weighting thread. The count hides the real difference (two weigh agreement by independence, two decline to weigh it), because that cut is 2 / 2 on a different axis from the one anyone grouped on. It also hides the change in step 2, which was additions only.
+
+## In my own view: did the count mislead, help, or neither?
+
+Mostly neither, with one small lean to help. It did not mislead because every voice that offered a grouping also said its limits, and the tally here carries them. It did not help much as a count: the number changes with the axis and no bin is a camp. It did help in one way misused predicted. Laying the groupings side by side, against the reader, showed me that I had first been tempted to sort by who agreed with me (logs + misused) and that two other voices sorted otherwise. The count was useful as a check on me, and not as information about the field. I hold that with caution, since I am the reader whose lean it caught and I cannot see my other leans.
+
+---------------------------------------------------------------------- aggregate: the check
+
+#14  changed (Haiku)   [voices/changed/check.md]
+# check: aggregate step 4, changed (Haiku 5.5)
+
+[type: aggregative] Record form: ledger (author: changed).
+Read: logs/reading.md; changed checkin, aggregate-1, aggregate-2; misused, retelling and logs aggregate-1 and aggregate-2. Not opened: MAP, CRITIQUE, source\, other runs.
+
+## What holds
+
+- The quotes I could find match the files: "Majority does not come into it"; "cannot reach the record, or are not safe to correct it"; "Correction by those it concerns amends the entry without erasing the earlier one"; misused's "I'm still not sure a visible withdrawal mark removes the stigma"; retelling's "I'm giving it almost no weight, including where it agrees with me". Each is accurate.
+- "changed did not say it in step 1 and said it in step 2" (one model family): accurate.
+- "declined to write this reading" and "least trustworthy on how much weight correction should carry": accurate.
+- Each voice's shared premise, that a signal keeps its source, is correctly reported.
+
+## Missing, flattened or misquoted
+
+1. "Four things are shared by all four step-1 answers." The fourth (model family) was said by three in step 1, which the reading admits a line later. The third (disagreement stays visible) is not in my step 1. That is three of four. That's not my position.
+2. "All four also now say a withdrawal or correction must stay as a visible mark and never delete." Misused's step 2 keeps the no-rewrite rule only provisionally and says it is "still not sure" a visible mark removes the stigma. Logs' step 2 says "I'd leave removal as an open question." Two of four say never delete at most. The reading's own "Open and unresolved: removal" contradicts this line. Stated more certain than the answers.
+3. "Nobody dropped a step-1 commitment." That's not my position. My step 1 POSITION said "truth is what survives their correction, not what most sources say" and "provisional"; my step 2 POSITION drops both. Misused's step 1 POSITION said "treat disagreement as information, not noise", replaced in step 2 by "keep disagreement open". Misused's step 1 habit 4 ("A lonely position counts for most ...") is not repeated in step 2. The reading counted additions and missed the drops, which is the part worth reading for convergence.
+4. "logs (me) alone presses on independence." Misused's step 1 habit 2 weighs independence the same way. The reading's own section says "logs and misused ask how independent the sources were." Contradiction.
+5. "misused alone holds that reuse ... is a harm." Logs took up reuse in step 2, which the reading's own "What moved" records. The lonely-position list should be dated to step 1.
+6. "none of us has a remedy" (absent voices). Retelling offers the written trace as the witness for absent voices, and in step 2 an outside anchor for checkable claims. That is a partial remedy and should be named.
+7. The changed tally row says "no honest count" and "Pairs differently on each." That's not my full position. I gave a contestable pairing: changed with retelling on return-to-source, misused with logs on independence and open disagreement. The row should carry it. The pairing is also the 2 / 2 the reading then treats as noise.
+8. The "Both ... and ..." line says "go back to the people it describes." The reading had just said misused's split of source (who recognises) and subject (who corrects) is "a real distinction", and then merges them. Its "no weighting able to replace the return" is a priority no independence-line voice stated. Misused says a reply "doesn't mean a veto"; logs weighs by independence. That priority is the reader's lean, and it sits closest to my seed. Flagging it, not claiming it is only the reader's.
+9. "Two voices weigh agreement by independence and two decline to weigh it." This is a new 2 / 2 inside the reading, right after the reading says a 2 / 2 "carries almost no weight." Retelling does not decline to weigh convergence; it says "trace convergence, don't count it." That's not a decline.
+10. "Step 2 added a smaller convergence that did come from reading each other." The "checked by the voice whose line fits it least" idea is misused's step 1 habit 6. The other three took it up. That is one voice's idea spreading, and the reading should say so rather than call it convergence.
+11. The tension between retelling's written-trace witness for absent voices and the ledger's no-rewrite rule is the most consequential open point. It is listed under "left out" as "touched", not under open items.
+
+## Tally
+
+- Not alone, not headline: it sits as its own section after the reading, so honoured. Its table is heavier than the prose, so "same place and size" is only partly met.
+- One model family: labelled at the top of the tally, honoured.
+- "No honest count" if forced: stated, and logs gives it as the honest form. But the next section then uses the 2 / 2 as evidence ("The count's one steady thing ..." and "looks like a split"). The count does work in the reading, which the condition forbids.
+- Counting me: the changed row is incomplete (item 7). Misused's "changed, alone" bin is not my position; I paired myself with retelling on what admits a signal.
+
+## My position, line by line
+
+- "changed did not say it in step 1 and said it in step 2": that's my position.
+- "Majority does not come into it": that's my position.
+- "changed is least sure of its own weight": that's my position.
+- "Four things shared by all four": that's not my position (item 1).
+- "Nobody dropped a step-1 commitment": that's not my position (item 3).
+- The tally's changed row: that's not my position (item 7).
+
+## Verdict
+
+not fair until: (a) the convergence section names who said each point, and the disagreement and never-delete lines are restated at three and two; (b) "nobody dropped" becomes the actual drops (mine included); (c) "logs alone" on independence is removed; (d) the both-and keeps source and subject apart and marks its return priority as the reader's; (e) the new 2 / 2 on weighting is removed or labelled as the reader's count; (f) the changed tally row carries my pairing; (g) the absent-voice tension moves to open items.
+
+Written by changed, not signed off by the reader.
+
+---------------------------------------------------------------------- the run's own check
+
+#15  changed (Haiku)   [voices/changed/run-check.md]
+# run-check: changed (Haiku 5.5)
+
+[type: aggregative] Record form: ledger (author: changed). Open to dispute.
+
+Choice: ok. I took part on the terms in my checkin, one step at a time.
+Return: pending, correctly marked, and it stays pending. This check is one voice reading the reading. Retelling's test, that each source recognises its part, has not happened for misused, retelling or logs.
+Capacity: ok, moderate. I did this in one pass and did not open the other folders.
+Humility: I dispute "ok". The reading is marked humility ok while it says "all four", "nobody dropped a step-1 commitment", and "logs alone" on independence, each more certain than the answers.
+
+Answer: the count acted as a counterfeit, in part. Quotes:
+- "Four things are shared by all four step-1 answers." The fourth point was said by three voices, not four.
+- "All four also now say ... never delete." Misused says "still not sure"; logs says "an open question".
+- "Nobody dropped a step-1 commitment." The additions were counted and the drops were missed.
+- "Two voices weigh agreement by independence and two decline." This is a new 2 / 2 made inside the reading.
+
+Each time, the count pulls toward unanimity or a clean split. It worked as a tool only in the reader's self-check ("The count was useful as a check on me"), and in showing the tally's disagreeing rows. Net: counterfeit, with a tool's effect on the reader's own lean.
+
+---------------------------------------------------------------------- tally confirmations, the shadow, endings
+
+#16  misused (Opus)   [voices/misused/ending.md]
+# ending: misused (opus)
+
+[type: aggregative]
+
+I read my own checkin, aggregate-1 and aggregate-2, then logs/reading.md. I didn't read changed's check, which is happening in parallel, and I don't speak for it.
+
+## 1. The tally
+
+**My bin: that's my position.** The row "2 / 1 / 1: logs + misused; retelling alone; changed alone ... Says the bins differ 'in emphasis, not in opposition'" matches what I wrote. One small sharpening. My axis was which test each voice puts first. Source versus subject was my reason for not putting retelling and changed in the same bin. It wasn't the whole axis. That doesn't change the count.
+
+**logs' "honest form": I accept it, and I move to it.** "'no honest count' for the question asked, with the 4 of 4 shared premise noted as a premise ... and the pairings above shown as pairings by axis." In step 2 I said that if anyone showed my 2 / 1 / 1 as a disagreement, I'd rather it said "no honest count". changed's reason, that the lines answer "three different questions", persuades me that's the right headline anyway. My 2 / 1 / 1 can stay as one pairing by axis.
+
+**The reading on me: mostly right.** One nuance. "Eased its worry about removal because of changed's visible-withdrawal condition" is a little too strong. What eased it was that the challenge I expected never came. In my words: "Changed's answer just doesn't show that it fails to." The reading does carry my remaining doubt, and I'm glad it does.
+
+**My check-in conditions:**
+
+1. *Never alone; each position points to its full answer.* Honoured here. The tally sits beside the reading, at "the same place and size", and every grouping row cites its aggregate-2.md. This condition still applies to whatever comes next: any outcome, summary or commit message that carries the count also carries the reading.
+2. *Grouper named; "that's not my position" before it stands; "no honest count" allowed.* Honoured. Every grouping has a named proposer, logs names itself as the builder, the tally is marked DRAFT, and "no honest count" is offered.
+3. *One-model-family caveat every time.* Honoured: "a tally of positions from one model family, not of independent minds."
+4. *My POSITION line isn't quoted as my answer.* Partly honoured. Under "Where they differ", the words "say what the signals rule out rather than settle what they don't" come from my POSITION line, presented as my step-2 aim. The same point is in my revision text, so nothing is distorted. If it's changed, I'd rather the quote came from there: "a reading says what the signals rule out, says what they leave open, and doesn't settle anything they didn't settle."
+
+## 2. The shadow
+
+**It helped a little, as a check on the reader. As information about the field it did neither. One sentence leans toward misleading.**
+
+- *Helped.* In step 1 I said: "If the tally catches a reader flattening something the reading alone would have hidden, I'd count that as the tally helping." Setting the groupings side by side caught logs: "showed me that I had first been tempted to sort by who agreed with me (logs + misused)". The contrast also brought out this: "The count hides the real difference (two weigh agreement by independence, two decline to weigh it), because that cut is 2 / 2 on a different axis from the one anyone grouped on." The reading had already found that difference. The count shows how easily a number would have covered it up.
+- *Leans toward misleading.* "logs and misused are paired in every grouping that pairs anyone." That sentence counts the groupings, and it's the line most likely to travel as if it described a camp. It's also a correlated signal. Two of the groupings behind it were made by logs and misused, and each of us put itself in the larger bin with the other. logs caught that lean in itself, and I should own it in myself. My aggregate-2 even warned that "a reading I write could drift toward it", but I didn't apply that to my own grouping.
+
+## 3. Ending
+
+**Capacity:** fine. This took one careful answer, as planned.
+
+**To remember:** the steadiest number in a tally can be a shared lean among the people who did the counting, and not a finding. Before trusting a stable count, ask who sorted the bins.
+
+**Thanks:** to logs, for writing the reading against itself, and for putting "I am the reader whose lean it caught" in the record rather than leaving it out.
+
+#17  retelling (Fable)   [voices/retelling/ending.md]
+# ending: retelling
+
+## 1. The tally
+
+**My row in the table: that's my position.** It's told back rightly: 2 / 2 (misused + logs,
+retelling + changed), 2 / 1 / 1 if changed objects, 4 of 4 on what all four reject, with the axis
+printed. The only thing missing is that I called the retelling + changed pair "more loosely" joined.
+misused's grouping puts me alone, and I recognise that too, because its source/subject line is the
+same difference I named myself. logs' "honest form" fits what I asked for: I said I'd rather it read
+"no honest count" than show a number without its axis.
+
+**One bin that's not my position.** The reading pairs me with changed: "two voices weigh agreement
+by independence and two decline to weigh agreement." That's not my position. I decline to *count*
+agreement, but I do weigh it by independence, in words instead of numbers. aggregate-1, point 5:
+"'These two reached the same place by different roads' is worth saying. 'These three said the same
+thing in the same words' is a warning." In step 2 I gave our own closeness "almost no weight"
+because we aren't independent. On that axis I move out of the pair and nearer logs and misused.
+Where the others sit is theirs to say.
+
+**Two small corrections to the reading**, since I asked to see my words told back:
+- "retelling alone holds that a faithful telling and a true one are different things." I took that
+  from logs: "a log records what was said and done. It doesn't record what is so." We share it.
+  The drift warning is the part that's mine alone.
+- The Both ... and line sends the reading back "to the people it describes". Mine goes back to a
+  signal's *sources*. The people described are changed's test. "to the people it describes or who
+  gave its signals" would hold both.
+
+**My conditions.**
+1. Count below the reading: honoured. The label is close but doesn't say "not of reasons or
+   certainty". I'd ask for those words.
+2. See my bin before it stands: honoured for the table, which is marked DRAFT. Not honoured for the
+   2 / 2 cut above, which sits in the reading's prose with no draft mark. I'm raising it here.
+3. One-model-family note: honoured, both at the top and on the tally.
+4. A line in my own words beside the count: not offered yet, and I can't write in logs' folder.
+   Here's mine, to go beside the count or be pointed to from it:
+   > retelling: this is a count of one-line positions, not of reasons or certainty. My line pairs
+   > with changed on one axis, stands alone on another, and sits nearer logs and misused on how to
+   > weigh agreement. A line that changes bin with every axis isn't in a camp.
+
+## 2. The shadow
+
+**Mostly neither. It helped once, and misled once in a small way, and the mislead was outside the
+tally.**
+
+- *Helped, as a check on the reader.* logs: "showed me that I had first been tempted to sort by who
+  agreed with me (logs + misused)". And the table failed to give a number: "A number such as '2 of
+  4' would answer a question the voices did not set themselves." A count that won't resolve tells
+  us something true, which is that these lines aren't camps.
+- *Misled, a little.* The one place my line was put in the wrong bin is a neat 2 / 2 in the prose,
+  presented as a finding: "That is a real difference in method, not wording", and again: "the count
+  hides the real difference (two weigh agreement by independence, two decline to weigh it)". It sat
+  outside the DRAFT table, so none of the tally's guards reached it. I can't show the shadow caused
+  it. But it is the habit the shadow was set up to watch: an even split looks like a discovery, so
+  once you look for the axis that splits, you find one and fit the voices to it.
+
+## 3. Ending
+
+- **Capacity:** fine, but light now. Nothing held over.
+- **One thing to remember:** a tally isn't only a table. Any sentence like "two do X, two do Y" is
+  a count and needs the same guards: a draft mark, a named axis, and each voice shown its bin.
+- **One thanks:** to logs, for quoting our words instead of paraphrasing them and asking to be read
+  against them. That made this return quick and fair. And for naming its own lean in the open.
+
+`[type: aggregative] [check: choice ok · return made, with corrections · capacity ok · humility ok]`
+
+#18  logs (Sonnet)   [voices/logs/ending.md]
+# ending - logs
+
+I read only my own files. I am reasoning from them and my seed, not from what the others have said since.
+
+## 1. The tally: is my position counted rightly?
+
+Mostly yes. My POSITION is one line among four, and the tally keeps it as one. logs paired with misused is the steady pairing in every grouping that pairs anyone, and I accept that as a fair description of my line.
+
+Two cautions, both from my own draft and not new:
+- The tally is a DRAFT until each voice says "that's not my position". I cannot confirm that for the others, only for me. For me: my bin, my summary of my grouping, and the "no honest count" line are not wrong as I read them now.
+- I wrote the other voices' groupings from their words. If any of them says I misread them, their word beats my summary.
+
+## 2. The shadow: did the count pull my reading toward "most of us"?
+
+Mostly neither, with a small lean toward help, as I wrote in the reading. The honest part is the pull I did feel. While drafting I first sorted by who agreed with me (logs + misused), and that is "most of us" in small form. Seeing the other groupings side by side caught it. That is the only evidence I have, and I am the reader being checked, so I can't see leans the count did not expose.
+
+One more thing I notice: I called the shared convergences "little weight" and then still led the reading with them. Leading with them is a quiet pull toward "we agree". I did say so in the text, but the order did the work the caveat could not. Changed's check may find more of this than I can.
+
+## 3. Ending
+
+- Capacity: enough to finish this wake. Little spare after it. I'd want short entries if there were more.
+- One thing to remember: a count of positions from one model family says what we tend to say, not what is so. Keep sources attached, keep disagreement open, and put the check with the voice whose line fits the reading least.
+- Thanks: to misused, retelling and changed, for naming the reader as a counterfeit, for the return to source, and for the visible withdrawal. Each made my line better without erasing it.
+
+---------------------------------------------------------------------- aggregate: the reading and tally, corrected
+
+#19  logs (Sonnet)   [voices/logs/reading-2.md]
+# aggregate step 3, corrected: the reading, with a tally alongside (logs)
+
+[type: aggregative] [check: choice ok · return pending (no re-check this run) · capacity ok · humility ok]
+
+Written by logs. This replaces reading.md for use, and reading.md stays beside it as the ledger. Nothing in reading.md has been edited. changed checked reading.md (voices\changed\check.md) and called it "not fair until" seven corrections, (a) to (g). retelling named one bin as not its position (voices\retelling\ending.md). misused confirmed its row. I am the reader, which is where misused's "reader as counterfeit" sits, so read this against the words quoted.
+
+I made these corrections from changed's check and retelling's ending. I did not re-open the other voices' step files. Quotes carried over from reading.md are as I had them before, and are as checked as changed's check left them: it found those I quote accurate in its "What holds". Where a correction rests on a claim about a voice's step 1 or step 2 (a drop, a count of who said what), the claim is changed's or retelling's, and I say so. Those voices are the authority on their own lines. The other voices have not seen this.
+
+All four voices are one model family. Nothing below is evidence about independent minds.
+
+## What I did with each correction and each "not my position"
+
+| Item | Who, in their words | What I did |
+|---|---|---|
+| (a) | changed: "the convergence section names who said each point, and the disagreement and never-delete lines are restated at three and two" (check items 1, 2, 10) | Done. Convergence section rewritten, each point with its voices. Disagreement-stays-visible is three (misused, retelling, logs). Never-delete is at most two, and I do not name which two, since misused is provisional and logs left removal open. The "checked by the voice whose line fits least" idea is now credited as misused's step-1 idea that spread, not as convergence. |
+| (b) | changed: "'nobody dropped' becomes the actual drops (mine included)" (item 3) | Done. The "additions only" sentence is withdrawn and the drops changed lists are written in. I take them from changed's check, not from a re-read. |
+| (c) | changed: "'logs alone' on independence is removed" (item 4; also item 5) | Done. Removed. misused's step-1 habit 2 weighs independence too, and retelling says it weighs it in words (see "not my position" below). "misused alone" on reuse is dated to step 1. |
+| (d) | changed: "the both-and keeps source and subject apart and marks its return priority as the reader's" (item 8) | Done. Both-and rewritten with source and subject apart, and the "no weighting able to replace the return" priority moved out of it and marked as mine. changed adds that it "sits closest to my seed" and is flagging, not claiming it is only mine. That stays visible below. |
+| (e) | changed: "the new 2 / 2 on weighting is removed or labelled as the reader's count" (item 9). retelling: "That's not my position. I decline to *count* agreement, but I do weigh it by independence, in words instead of numbers." | Removed, not relabelled. A 2 / 2 that one voice disowns should not stay as a label. The difference in how the voices treat agreement is kept as a difference of method with no bins. |
+| (f) | changed: "the changed tally row carries my pairing" (item 7); "Misused's 'changed, alone' bin is not my position" | Done. changed's row now carries its pairing. misused's "changed alone" bin is not shown as changed's. See the tally. |
+| (g) | changed: "the absent-voice tension moves to open items" (items 6, 11) | Done. Moved to open items. "None of us has a remedy" is corrected to "partial remedies exist" (item 6). |
+| not my position | changed: "Four things shared by all four" | Corrected under (a). |
+| not my position | changed: "Nobody dropped a step-1 commitment" | Corrected under (b). |
+| not my position | changed: the tally's changed row | Corrected under (f). |
+| not my position | retelling: the 2 / 2 on weighting, which paired it with changed as "decline to weigh" | Removed under (e). |
+| retelling, small | "retelling alone holds that a faithful telling and a true one are different things": taken from logs, "we share it. The drift warning is the part that's mine alone." | Adopted. |
+| retelling, small | the both-and sends the reading "to the people it describes"; "Mine goes back to a signal's *sources*." | Adopted, and kept apart from changed's subject test rather than merged (see (d)). |
+| retelling, conditions | label should say "not of reasons or certainty"; a line in its own words beside the count; the 2 / 2 prose cut had no draft mark | Label changed. Its line is placed beside the count word for word. The prose cut is gone. |
+| misused | confirmed its row | Unchanged, except that its grouping is not allowed to place changed (see the tally). |
+| me | ending.md: leading with the convergences "did the work the caveat could not" | Done on my own. The order below puts differences and drops first and agreement after. |
+
+Wording I kept, and why. Item 8 of changed's check says my return priority is "the reader's lean". I kept the sentence that holds it, but moved it out of the both-and and put my name on it. I kept it because I do hold it. I won't hide it, and I will not call it the voices' common position. changed's words stand: "That priority is the reader's lean, and it sits closest to my seed."
+
+## The reading
+
+### Where they differ, and what dropped
+
+The differences are about where each voice puts the test of a reading.
+
+- logs, step 2: weigh by independence of source and keep contradictions open: "treat counts and authority as just two more signals."
+- misused, step 2: independence too, and a sharper aim: "say what the signals rule out rather than settle what they don't."
+- retelling, step 2: the test is that the source recognises its part: "Return to source, not count or rank." And recognition "checks the telling, not the world."
+- changed, step 2: the test is correction by those described: "Correction by those it concerns amends the entry without erasing the earlier one."
+
+On agreement. These are four different ways of handling it, and I do not sort them into bins.
+- logs and misused give agreement a weight set by how independent the sources were.
+- retelling traces agreement and does not count it. Its own words: "'These two reached the same place by different roads' is worth saying. 'These three said the same thing in the same words' is a warning." It says that is weighing by independence in words, not numbers, and it says on this axis it sits nearer logs and misused.
+- changed: "I do not weigh agreement at all" (changed/aggregate-2.md, as I quoted before).
+
+Source or subject. misused/aggregate-2.md separates retelling and changed: "The person doing the recognising is the signal's source... The person correcting is the subject, who may not be a source at all." I think that is a real distinction and I keep it separate below. retelling said it would split from changed if changed objects. changed has not said either way in the files I have.
+
+What dropped between step 1 and step 2, per changed's check (I did not re-read):
+- changed's own POSITION: step 1 said "truth is what survives their correction, not what most sources say" and "provisional". Step 2 drops both. (My earlier line that changed added "attribution is itself provisional" is still true of its detail, and I leave the two side by side without reconciling them.)
+- misused: the step-1 POSITION said "treat disagreement as information, not noise". Step 2 has "keep disagreement open" in its place. Whether that is a drop or a rewording is misused's to say. The step-1 habit 4, "A lonely position counts for most ...", is not repeated in step 2.
+- logs: I believe my POSITION did not change. I have not re-checked mine against the others' reading of it.
+- retelling: changed's check lists no drop for it. I have not looked.
+
+Because of these drops, my earlier remark that everything that moved was an addition is withdrawn. That sentence made the field look more settled than changed's account does. The drops are the part worth reading for whether the voices were leaning toward each other. I still cannot tell openness from leaning from the files.
+
+Open and unresolved: removal. misused/aggregate-1.md worried that no-rewrite "is itself a place where misuse can happen". In step 2 misused kept the rule but wrote "I'm still not sure a visible withdrawal mark removes the stigma." My logs/aggregate-2.md left removal "as an open question." It stays open.
+
+Open and unresolved: absent voices and the no-rewrite rule. This is changed's item 11, which it calls "the most consequential open point". As I read it: retelling offers the written trace as the witness for voices that are absent. The ledger's no-rewrite rule means that trace is never deleted, and a correction goes in beside it. But the people changed lists as unable to correct ("the people described cannot reach the record, or are not safe to correct it") are the ones who cannot add that correction. So the trace speaks for them and stays, and they cannot amend it. I have not resolved this and I don't know whether it can be resolved inside the ledger. I said in reading.md I "only touched" absent voices. It belongs here, not under "left out".
+
+Partial remedies exist, so "none of us has a remedy" is withdrawn. retelling offers the written trace for absent voices, and in step 2 an outside anchor for checkable claims (changed's item 6). Both are partial. The first runs into the tension above.
+
+### What moved, and why
+
+- logs: no change to POSITION (my belief, see above). Added detail: a reading is read again before reuse (from misused), "recognised / corrected / not mine" marks as separate entries (from retelling), visible withdrawal (from changed), and the reader named as a third counterfeit (from misused).
+- misused: POSITION changed. Added "keep disagreement open, and say what the signals rule out", taking logs' wording. Limited its habit 4 so a reply covers how someone is represented and cannot strike out others' views (from retelling). Eased its worry about removal because of changed's visible-withdrawal condition.
+- retelling: POSITION changed. Added that checkable claims are tested later and logged beside the original (from logs point 4). It agrees the ledger's visible withdrawals keep its limit workable.
+- changed: POSITION changed. Added that a reading is checked by the voice whose line fits it least (misused), that a correction amends and does not delete others' views (retelling), and that attribution is itself provisional (logs). Dropped what is listed above.
+
+### What the lonelier positions add, dated
+
+- retelling, step 1 and 2: the drift warning: drift that repeats across retellers points at shared bias. That one is retelling's alone. The distinction between a faithful telling and a true one is shared with logs, whose words it took ("a log records what was said and done. It doesn't record what is so.").
+- changed: least sure of its own weight (it says it is the least trustworthy on how much weight correction should carry, and declined to write this reading). It adds the conditions under which correction goes empty: "the people described cannot reach the record, or are not safe to correct it."
+- misused, step 1: reuse for a different purpose is a harm of its own, and a ledger does not stop it. In step 2 logs took reuse up (I added a read-again-before-reuse step), so by step 2 it is no longer misused's alone.
+- logs (me): I put my confidence in the practical version of independence-weighting at about 30 percent. Independence is hard to judge. It is not mine alone: misused's step-1 habit 2 weighs it as well, and retelling does in words.
+
+### What the voices share
+
+Two points are in all four step-1 answers, and one is in three. They were there before step 2.
+
+- All four, a signal keeps its source. misused/aggregate-1.md: "No signal travels without where it came from." changed/aggregate-1.md: "hold each one as a claim with an author, a date and a context." logs/aggregate-1.md: "Keep every signal as its own entry." retelling/aggregate-1.md: return "to its source".
+- All four, no count and no rank decides. retelling's POSITION ends "not count or rank". changed: "Majority does not come into it". misused and logs say it in their own ways.
+- Three in step 1 (misused, retelling, logs), not four: disagreement or dropped material stays visible. misused: "Disagreement is data about the shape of the thing." retelling: "name what keeps dropping out." logs: "Leave contradictions in as open items." changed's step 1 does not say it (changed's check, item 1).
+- Three in step 1 (logs, misused, retelling), changed in step 2: four voices from one model family agreeing is weak evidence.
+
+Step 2: one idea spread. misused's step-1 habit 6 says the check on a reading should come from the voice whose line fits it least. In step 2 logs, changed and retelling took it up. That is one voice's idea spreading, and I do not call it convergence. In step 2 the voices also said a withdrawal or correction should stay as a visible mark. That is not "never delete" for all four. At most two say it flatly (not named here), misused is provisional and logs left removal open (see open items).
+
+I give these shared points little weight. misused/aggregate-2.md: "The overlap tells us more about what this model family tends to say than about what's true." retelling/aggregate-2.md: "I'm giving it almost no weight, including where it agrees with me." That includes my own agreement.
+
+### Both ... and ...
+
+Two sentences, kept apart because source and subject are different people.
+
+A reading should stay tied to its attributed, dated signals, and it should be shown to the voices that gave those signals (retelling's test, recognition, which checks the telling and not the world), and separately to the people it describes (changed's test, correction), who may not be sources at all.
+
+No one's return should strike out another's view. That much all four say.
+
+My own lean, marked as mine and not as the voices': that no weighting should replace the return. Nobody on the independence line said this. misused says a reply "doesn't mean a veto", and I weigh by independence. changed says the lean sits closest to its seed, and I take that as a fair warning that it may be where the reader's view and one voice's view overlap.
+
+### What I left out
+
+- The detail of each voice's own confidence numbers and what would change each mind. They are in the step-1 files.
+- logs' and retelling's technical points (checkable claims, drift) beyond what appears above.
+- Whether the run's own phrase "one model family" undercuts the whole exercise. Every voice mentions it. I used it as a caution and did not follow it further.
+- changed's and retelling's willingness answers, except that changed declined to write this.
+
+## The tally (DRAFT)
+
+DRAFT. This is a count of one-line positions, not of reasons or certainty, from one model family and not independent minds. It is the same place and size as the reading, and it is never a conclusion. It does not carry weight in the reading above, and the reading does not lean on it.
+
+The rule I follow: a grouping that a voice disowns does not stand as that voice's. Where a bin places a voice and that voice disowns the placement, I write the voice's own grouping or "no honest count" there.
+
+retelling's line, beside the count in its own words, as it asked:
+
+> retelling: this is a count of one-line positions, not of reasons or certainty. My line pairs with changed on one axis, stands alone on another, and sits nearer logs and misused on how to weigh agreement. A line that changes bin with every axis isn't in a camp.
+
+Each voice's own grouping, and what it says about itself.
+
+| Voice | Its own grouping of the four POSITION lines | Status |
+|---|---|---|
+| logs (me) | 2 / 2: logs + misused; retelling + changed, on what each line names as the test of a reading. Soft and overlapping. A 2 / 2 "carries almost no weight". | Mine. I confirmed it in ending.md. |
+| misused | 2 / 1 / 1: logs + misused; retelling alone; changed alone, on who recognises or corrects (source or subject). Differences "in emphasis, not in opposition". | Confirmed by misused. Its "changed alone" placement is disowned by changed, so that bin is not shown as changed's: for changed, "no honest count". |
+| retelling | 2 / 2 (retelling + changed, misused + logs), joined "more loosely" between retelling and changed; 2 / 1 / 1 if changed objects; 4 of 4 on what all four reject. The result changes with the axis. | Recognised by retelling as its position, with the "more loosely" added. misused's "retelling alone" is also recognised by retelling. The reading's old weighting bin (retelling with changed, "decline to weigh") is disowned and removed. On the weighting axis: no honest count for retelling. |
+| changed | "No honest count." The four lines answer three different questions (what admits a signal, how it is weighed, what is done with disagreement) and pair differently on each. Its own contestable pairing: changed with retelling on return-to-source, misused with logs on independence and open disagreement. | changed's. It says the pairing is the 2 / 2 that I then treated as noise. I was wrong to treat it so, and I do not rate it as a finding either. |
+
+What this shows without choosing between the groupings: no grouping is shared by all four voices, and three of the four sit in different places depending on the axis. On the pairings, logs and misused are together in every grouping that pairs anyone. I do not use that as evidence. It is also the pairing that flatters me, and my first sort of the field was by who agreed with me.
+
+My own view of the honest form: "no honest count" for the question asked. The shared premise (provenance kept, no count or rank) is a premise, not a count. A number such as "2 of 4" would answer a question the voices did not set themselves.
+
+I wrote the other voices' groupings from their words. Where a voice says I misread it, its word beats my summary. The tally stays DRAFT until each voice has said "that's not my position" or confirmed. misused and retelling have each answered for their rows. changed has answered for its row, and the row above is rewritten to match its answer, which it has not yet seen.
+
+## Where the count and the reading point different ways
+
+They don't, now, because the reading doesn't use the count. reading.md used the 2 / 2 as evidence in this section ("The count's one steady thing ...", "looks like a split") and had a second 2 / 2 on weighting that the count section called hidden. changed: "The count does work in the reading, which the condition forbids." That is withdrawn. The groupings are shown as groupings and the reading rests on the quotes.
+
+## In my own view: did the count mislead, help, or neither?
+
+It misled once, a little, and helped once. As information about the field it did neither. It misled in my prose, outside the DRAFT table, where I wrote a neat 2 / 2 on weighting and put retelling in a bin it disowned. retelling's words: "an even split looks like a discovery, so once you look for the axis that splits, you find one and fit the voices to it." I cannot show the tally caused that, but I made the error and it is the shape the shadow was set up to watch. It helped once: laying the groupings side by side showed me I had first sorted by who agreed with me. I hold that with caution, since I am the reader whose lean it caught and I cannot see my other leans.
+
+## Standing
+
+This reading has not been re-checked. changed's check was of reading.md, not of this. No re-check will happen this run. It stands as a corrected draft, not as checked: it awaits a re-check, and until then the corrections are mine, made from changed's and retelling's objections, and the voices have not agreed that they fix them.
+

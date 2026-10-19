@@ -41,7 +41,16 @@ verdicts stand side by side, and none is averaged away. A verdict can always be 
   verdict     undecided
   proposed by -
   reasons     -
-  evidence    to come: runs R2 (ledger) and R3 (no ledger) are designed to compare.
+  evidence    2026-10-19, runs\NOTES "Across the runs":
+              - R2 (ledger): the cost was named at check-in. misused: "I'll say only what I'm
+                willing to have read later without its context." It agreed only on conditions,
+                one being that git keeps withdrawn words. retelling: a ledger "is good for
+                checking what was said, and weak on what was meant".
+              - R4 (ledger): kept words let a check quote exact lines and catch a misreading.
+              - R3 (telling-only): the voices report more candour and built their safeguards into
+                the telling. One misreading was caught only by a line added beside it: "A
+                telling-only record has no other check."
+              Reading so far: the two forms buy different things. Still undecided.
 
 2. Consent to the record as a condition of entry
 ------------------------------------------------
@@ -55,7 +64,9 @@ verdicts stand side by side, and none is averaged away. A verdict can always be 
   proposed by -
   reasons     Working default meanwhile: each run's check-in chooses its record form, and
               everyone in the run agrees to it separately from agreeing to take part.
-  evidence    -
+  evidence    2026-10-19: in R2, R3 and R4 every voice used that separate choice. Several attached
+              conditions, and one (R4) noted it could keep its own words in another form. No voice
+              treated consenting to the record as part of entering.
 
 3. Unanimity to change the record
 ---------------------------------
@@ -69,7 +80,12 @@ verdicts stand side by side, and none is averaged away. A verdict can always be 
   reasons     Working default meanwhile, in the ledger form only: an author may withdraw their
               own words, and the entry stays, marked as withdrawn by its author. An entry can be
               annotated but not changed.
-  evidence    -
+  evidence    2026-10-19: R2's adopted rule replaces unanimity with "Correct in the open … a dated
+              note beside a reading, quoting what it disputes, about the entry, not the person.
+              The original stays." (runs\2026-10-19-r2-swarm\voices\misused\proposal-2.md, point 4).
+              R4's corrections followed the same pattern (reading.md kept, reading-2.md beside it).
+              R3's answer has the author of a line keep the right to change it, and the person it
+              describes add a line beside it.
 
 4. The warning signs
 --------------------
@@ -141,7 +157,10 @@ verdicts stand side by side, and none is averaged away. A verdict can always be 
   reasons     Use it as a tool a field applies to itself, whose results the field can contest.
               Do not use it as a gate. Keep testing whether "return" needs an exception for
               private knowing.
-  evidence    -
+  evidence    2026-10-19: used as a self-check in every run. It named assimilation in R2's own
+              success (logs's run-check). In R4, changed disputed the reader's own "humility ok"
+              tag. It worked best when it could be contested. "Return" against private knowing has
+              not been tested yet.
 
 9. "The tensions need resolving before the typology can be used"
 ----------------------------------------------------------------

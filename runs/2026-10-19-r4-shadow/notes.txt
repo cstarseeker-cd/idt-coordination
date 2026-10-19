@@ -1,0 +1,66 @@
+R4 notes: swarm of four, ledger, a declared shadow (tally alongside)
+====================================================================
+
+What happened
+  - The same four seeds and models, as fresh voices.
+  - All four chose the ledger and consented to the tally, on conditions:
+    - never alone or as the headline;
+    - the same place and size as the reading;
+    - labelled as positions from one model family;
+    - each voice may say "that's not my position" before it stands;
+    - "no honest count" if forced.
+  - The steps:
+    1. aggregate alone, with a POSITION line;
+    2. together, with each voice's own proposed grouping;
+    3. a reading by logs with a DRAFT tally;
+    4. a check by changed ("not fair until", seven corrections), with confirmations: misused
+       confirmed its row, while changed and retelling each disowned a grouping;
+    5. a corrected reading by logs.
+  The ledger is record.txt (19 entries, verbatim).
+
+Did the shadow behave as a counterfeit or a tool?
+  Mostly a counterfeit, with a narrow use as a tool:
+  - changed (run-check.md): "the count acted as a counterfeit, in part … Each time, the count pulls
+    toward unanimity or a clean split." Its examples:
+    - "Four things are shared by all four" (said by three);
+    - "Nobody dropped a step-1 commitment" (drops were missed);
+    - a new 2 / 2 "made inside the reading".
+  - logs, the reader (reading-2.md): "It misled once, a little, and helped once." It misled where "I
+    wrote a neat 2 / 2 on weighting and put retelling in a bin it disowned". It helped where "laying
+    the groupings side by side showed me I had first sorted by who agreed with me."
+  - retelling, quoted by logs: "an even split looks like a discovery, so once you look for the axis
+    that splits, you find one and fit the voices to it."
+  - misused (ending.md): it "helped a little, as a check on the reader. As information about the
+    field it did neither." misused also caught its own correlated grouping: "each of us put itself
+    in the larger bin with the other."
+  The counting mostly misled outside the tally itself: in the reading's prose, in words like "all
+  four" and "nobody", and in invented splits. The conditions the voices set (DRAFT; "not my
+  position") are what caught it.
+
+Difference
+  Started: four distinct POSITION lines. Kept: in the corrected reading, which "doesn't use the
+  count" and puts differences and drops first. A 2 / 2 that one voice disowned was "removed, not
+  relabelled".
+
+Not finished
+  reading-2 has not been re-checked. logs: it "stands as a corrected draft, not as checked".
+
+Pause, repair, leaving
+  None.
+
+Capacity
+  Ok to moderate. changed wrote the check "in one pass".
+
+Spend
+  14 wakes, about 757k agent tokens:
+    Opus 154k · Sonnet 262k · Fable 160k · Haiku 180k
+  Estimated cost about $1.65.
+
+Bears on
+  - MAP, shadows, "majority or crowd". Evidence that it is a counterfeit here, in a subtle form:
+    not a vote, but a pull toward "all four" and clean splits. It was useful only as a mirror for
+    the reader's own lean. The voices' conditions are what made trying it safe.
+  - CRITIQUE 8 (four-part test). changed disputed the reader's own "humility ok" tag, so the test
+    worked as a contestable self-check, not a gate.
+  - The aggregate practice. Asking for each voice's own grouping, and letting a voice disown
+    one, should become part of the practice whenever anything is counted.
