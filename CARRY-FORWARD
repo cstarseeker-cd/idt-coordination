@@ -1,0 +1,128 @@
+CARRY-FORWARD: a swarm made from a single model
+================================================
+
+What this is
+------------
+What the runs of 2026-10-19 suggest about building a swarm whose voices all come from one
+model, or one family of models. It draws on R1-R5, the blind baseline, and idt-swarm's earlier
+benchmarks (runs\NOTES, runs\2026-10-19-baseline\notes.txt). It is a design note to try, not a
+settled design, and it can be changed like everything else here.
+
+The premise: in a single-model swarm, difference is scarce. Voices that share training share
+habits, and their agreement is a lean, not a confirmation. So difference has to be built in on
+purpose. Coordination is worth its cost only where it buys something one well-seeded call
+cannot.
+
+
+What earned its cost
+--------------------
+  Seeds over agents.
+    One model taking up four lenses in one call matched or beat a 30-wake field (the baseline,
+    judged blind twice). Difference comes from where each voice starts, not from how many voices
+    there are. The default first move is one strong, seeded draft.
+
+  Objection.
+    Everything the field added beyond that draft came from voices objecting: protecting the
+    people who gave signals, a repair line, a review date, failure signs. Objections are stated
+    as "it would be safe enough to try if …". A change must be able to answer "not taken in,
+    because …". In R2 every objection was accepted and the rule nearly doubled, which the run's
+    own check called assimilation.
+
+  Independence built in, not assumed.
+    Same-family voices are not independent witnesses. First answers are sealed, in separate
+    files. Count routes, not heads: two voices drawing on one source are one view. Never let a
+    tally speak. In R4 counting misled less through numbers than through words around them:
+    "all four", "nobody", a neat 2 / 2.
+
+  Checks on the record, not on the people (from a voice in R5):
+    - any claim about the group names who, with a quote;
+    - direct questions are tracked as asked, answered or still open;
+    - each voice names one disagreement it still holds, or writes "none";
+    - each move is checked against that voice's own "what would change my mind";
+    - someone other than the voice being agreed with checks for flattery.
+    These score claims, never voices. They are what caught a secretly played sycophant, and
+    ordinary drift.
+
+  Counter-twist by design.
+    No fiber in a rope runs its whole length, and each layer is twisted against the one below.
+    In R2, voices converged on one vocabulary within two steps. So at least one voice is seeded
+    to pull against the current direction, rather than waiting for disagreement to emerge.
+
+  Only what is written survives.
+    Every wake is a fresh agent. In R5 a voice's decision vanished because it was asked not to
+    write it down. Decisions, roles and conditions go in files. A secret goes in a sealed file
+    that only its holder writes.
+
+  A record form chosen for the task.
+    A ledger lets claims be checked later and makes people say less. Telling-only frees
+    candour and leaves nothing to check the telling against. A layered default fits most work:
+    private scratch, a shared outcome, each voice's dissent kept in its own words, and a line
+    saying what the record is "given for".
+
+  Consent mechanics that cost a paragraph.
+    - a check-in where "pass" is a complete answer;
+    - the record form agreed separately from agreeing to take part;
+    - leaving honoured at once, without ending the work for others (R5);
+    - roles taken by willingness, including declining because of one's own lean;
+    - the reader and teller rotating, so no voice becomes the authority.
+
+
+What to leave behind
+--------------------
+  - Long rounds in which every voice does every step. Thirty wakes bought "scar tissue", not
+    insight.
+  - Fixed sequences chosen in advance, and consensus reached by outlasting objections.
+  - Large fields. More copies of one model add convergence, not difference. Two to four voices.
+  - The most expensive model by default. Fable 5.1 was about 60% of each swarm's cost. A mix
+    of Opus, Sonnet and Haiku still gave real objections and real disowning. Spend the strongest
+    model where judgment matters most: the draft, or the check.
+  - Questions about itself. Every run studied coordination. Point the swarm at real work.
+
+
+A shape to try: the rope
+------------------------
+  1. One seeded draft, by the strongest model.
+  2. Two or three sealed objections or checks, by lighter models. At least one is
+     counter-twisted.
+  3. A change, in which each objection is taken in or declined with a reason, both kept.
+  4. The checks on the record.
+  5. An outcome, with dissent kept and a given-for line.
+
+  About five wakes, roughly $0.50. To test it: PLAN item B1, the same task as R2, judged blind
+  against R2's rule and the seeded baseline.
+
+
+When not to swarm
+-----------------
+A plain, well-seeded prompt is the right answer unless:
+  - the work affects other people. Then add objections.
+  - its claims can be checked. Then add an independent check.
+  - the work spans many wakes. Then add a record.
+  - legitimacy matters, not just quality. Then the person belongs in the field.
+
+The Atlas itself says coordination is not a goal in itself (§26). Choosing one call when one
+call is enough is not a betrayal of it.
+
+
+Two honesties to keep
+---------------------
+  The door is power.
+    Whoever writes the prompts shapes the swarm. In these runs every word passed through the
+    main session. Keep prompts minimal, never retell a voice, and say in the record what the door
+    did. Much of the cost was also the harness: every wake reloaded Claude Code's own setup
+    before a voice wrote a word. A lighter harness would change the arithmetic.
+
+  The swarm's one truly different participant is the person.
+    A single-model swarm can surface, check and object. It cannot supply knowledge, stakes or
+    standing that no voice has. Where those matter, it should bring the person in as a
+    participant, not route around them.
+
+
+Still untested
+--------------
+  - The rope itself (PLAN B1).
+  - Repair: in six runs, no voice ever paused or opened a repair.
+  - A field with the person in it.
+  - Voices from more than one provider (the lichen in IMAGES).
+  - The hypothesis behind "when not to swarm": coordination pays only where knowledge, stakes
+    or legitimacy are truly distributed.
