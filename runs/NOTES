@@ -119,5 +119,14 @@ Across the runs (qualitative; nothing ranked)
   - demo's five record checks ("check the record, not the people") went into the aggregate
     practice.
 
-Spend so far, all runs: about $9.30 in agent wakes (estimated), plus the main session's tokens.
+2026-10-19  Baseline: one model, one wake, R2's task (runs\2026-10-19-baseline)
+  About $0.55. Two blind Sonnet judges, on clean and contaminated rounds, both narrowly preferred
+  one Opus taking up R2's four seeds over R2's 30-wake field.
+  - R2 scored highest on protecting people and on correction, and lowest on followability and
+    economy. Both judges read its protections as "scar tissue" from objections.
+  - Most of the field's answer is reachable in one seeded call, at about 3% of the cost. What
+    the field adds is what objection adds.
+  - The lighter shape to test next: a seeded draft, one round of objections, a change (PLAN B1).
+
+Spend so far, all runs: about $9.85 in agent wakes (estimated), plus the main session's tokens.
 
