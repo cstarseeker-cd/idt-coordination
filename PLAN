@@ -28,6 +28,15 @@ A. Owed from earlier runs (small)
       One Sonnet wake. About $0.06. Tests the "discerning" variant and CRITIQUE 4.
 
 
+A+. Token levers, tested cheaply (MAP, "The economics of signal")
+-----------------------------------------------------------------
+  L1  Harness weight. The same short wake run three ways: a default general-purpose agent, an
+      agent with only Read and Write, and a continued agent rather than a fresh one. Compare
+      tokens per wake. Haiku. Under $0.05. Measures the biggest single cost found so far.
+  L2  Read the outcome, store the ledger. Give a fresh Haiku voice R2's corrected reading and
+      outcome only, plus permission to open record.txt by entry number. Ask it to check one claim. Count what
+      it read. About $0.01. Tests whether checkability survives without reading everything.
+
 B. The lighter shape, tested directly
 -------------------------------------
   B1  Seeded draft, then objections, then a change. Same task as R2. One Opus seeded draft,
@@ -78,6 +87,7 @@ E. Outside the mirror
 
 Suggested order
 ---------------
-Cheapest and most informative first: A2 and A1 (about $0.16), then B1 (about $0.50), then one
+Cheapest and most informative first: L1 and L2 (under $0.10, and they shape what everything
+after costs), A2 and A1 (about $0.16), then B1 (about $0.50), then one
 structure the circle can't test (D1 rope, or D2 ants), then C3 repair, which is the Atlas's
 "most important act" and still untried. E1 whenever the person picks the work.

@@ -156,6 +156,19 @@ ACCOMPANYING (image only, for now)
   Adds: support as a role you hold while waiting. Probably a way of practising the resonant
     type rather than a type.
 
+Images as cost shapes
+  When tokens are the binding constraint, these images turn out to describe the cost of
+  coordinating, not only its manner (MAP, "The economics of signal"):
+  - the rope: each wake reads two hand-offs, so a fixed cost per wake, however long the relay;
+  - ants: entries fade unless cited, so the board, and what anyone must read, stays small;
+  - the murmuration: each voice reads two neighbours, so reading grows in a straight line where
+    a circle's grows with the square of the field;
+  - the bees: a quorum ends the deciding early, with no full round needed;
+  - the fallow field: not waking anyone costs nothing at all;
+  - mycelium: work flows to the cheapest voice able to do it.
+  That is the strongest case for fallow, releasing and distributive: under a budget they are the
+  types that make room.
+
 Questions this part raises
   - Are releasing and fallow types, or conditions like consent and reciprocity?
   - Does neighbourly mean the "field" should be optional?

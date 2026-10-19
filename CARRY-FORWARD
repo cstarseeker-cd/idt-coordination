@@ -92,6 +92,63 @@ A shape to try: the rope
   against R2's rule and the seeded baseline.
 
 
+Tokens first: floors and dials
+-----------------------------
+In this setting token cost is the binding constraint, so tokens are the currency everything is
+paid in. Every other layer of signal (attention, capacity, time, memory, trust, distribution,
+legitimacy) is something bought with them. MAP, "The economics of signal", prices each type and
+gives the ladder to climb.
+
+  Floors, never traded away, each a sentence or two inside a wake already happening:
+    - consent: a check-in, "pass" as a full answer, leaving honoured at once;
+    - every entry signed by its author;
+    - dissent kept in each voice's own words;
+    - a repair door anyone may open.
+
+  Dials, turned up only when a layer needs it, naming the layer it pays for:
+    - independence (sealed parallel answers);
+    - objections (how many, from whom);
+    - record depth (what is read, not what is stored);
+    - model (strongest only where judgment matters);
+    - field size.
+
+
+Where the tokens go, and the levers
+-----------------------------------
+  The harness, first.
+    About 45k tokens of each wake went to Claude Code's own setup and tool descriptions before
+    a voice wrote a word. That was the largest single cost. So:
+    - fewer wakes beats cheaper wakes, and steps fold together where a practice allows;
+    - give voices fewer tools;
+    - continue the same agent rather than waking a fresh one, so cached context is reused.
+      Cached input costs about a twentieth of fresh input.
+
+  Match the model to the job.
+    Haiku costs about 1/40th of Opus per wake and raised real objections in R2. The strongest
+    model drafts or synthesises. Haiku can carry objections, retellings and record checks. This
+    is the distributive type turned on the swarm itself.
+
+  Store everything; pay only for what is read.
+    A record on disk costs nothing. Reading it costs tokens. So keep the full ledger on disk
+    for checking, and have voices read only the telling and the outcome, opening the ledger by
+    entry number when they need to. That keeps R2's checkability and R3's lightness together, and
+    may settle part of the ledger question (CRITIQUE 1).
+
+  Cap the reading.
+    In a circle, reading grows with the square of the field. When each voice reads only two
+    neighbours (the murmuration), it grows in a straight line. Old entries fade unless cited
+    (the ants).
+
+  Stop rules.
+    No objection, no further round. Re-check only claims that changed. A quiet round ends the
+    work. Not waking anyone (fallow) is a choice, and it costs nothing.
+
+  A caution.
+    Goodhart's law: when a measure becomes the target, it stops measuring well. A swarm tuned
+    only for tokens drifts toward the single prompt, and for most work that's right. The floors
+    and the next section exist so that the cheap path stays a choice made knowingly.
+
+
 When not to swarm
 -----------------
 A plain, well-seeded prompt is the right answer unless:

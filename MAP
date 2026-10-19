@@ -52,6 +52,11 @@ The reading's four, plus one quantity the runs measure.
                       disappears first, and it is the easiest thing to fake. A run that reports
                       agreement should be able to say what disagreement it started from.
 
+  Cost                inside one call -> a few cheap wakes -> a pair -> a full circle
+                      Proposed (see "The economics of signal"). Where tokens are the binding
+                      constraint, this may be the most practical axis of all. It could sit
+                      beside emergence, or replace it.
+
 
 Nine types
 ----------
@@ -61,6 +66,9 @@ Each type below has:
   - smallest practice: the least you could do and still be doing it
   - machine form: how agents could do it, with any model from any provider
   - same-model risk: how badly it suffers when every voice is the same model
+  - image: a picture of the type (IMAGES, part 1)
+  - price and buys: its token price in its cheapest form, and the layer of signal it buys
+    (see "The economics of signal")
   - shadow: see the next section
 
 Credit matters here (§31). Some kin are living traditions of particular peoples. They are named
@@ -72,6 +80,8 @@ AGGREGATIVE (Maxim 4, §22)
   Knows by bringing honest difference into contact, expanding rather than asserting.
   Produces: truth, shared reality.
   Image: the mosaic: many shards, one picture, no shard melted into another. (IMAGES, part 1)
+  Price: low. Seeded lenses inside one call; sealed parallel answers from cheap models only
+  when independence matters. Buys: truth, checkability.
   Kin:
     - The Delphi method (RAND, Dalkey and Helmer, 1950s-60s): anonymous rounds, answers revised
       after seeing others'.
@@ -94,6 +104,8 @@ DECLARATIVE (§3, §12, §24, Maxims 3 and 7)
   Knows by participants announcing intention, capacity, boundaries, refusal, start and stop.
   Produces: an accurate map of what is possible.
   Image: running lights at sea: each vessel shows where it is and where it's heading. (IMAGES, part 1)
+  Price: almost none. A line or two folded into a wake that's happening anyway. Buys: an
+  accurate map of who can do what (capacity).
   Kin:
     - Rounds and check-ins in sociocracy (Gerard Endenburg, 1970s; later Sociocracy 3.0).
     - Speech-act theory (J. L. Austin, How to Do Things with Words, 1962): some sayings are acts.
@@ -108,6 +120,8 @@ RESONANT (§11)
   Knows by attunement and flow among a few.
   Produces: trust, intimacy.
   Image: two tuning forks: nearness and a shared pitch; too alike, and the hum drowns every other note. (IMAGES, part 1)
+  Price: moderate. A pair, two wakes every cycle. Buys: trust; for making, the best
+  quality per token found so far.
   Kin:
     - Talking and peacemaking circles, from Indigenous traditions across Turtle Island, written
       about for wider use by Kay Pranis and others. Named as teachers, not mechanised.
@@ -122,6 +136,9 @@ SYNTHETIC (§6)
   Knows by diversity colliding into spontaneous insight.
   Produces: novelty, effectiveness.
   Image: the meeting of waters: two rivers side by side for miles, then a river that is neither. (IMAGES, part 1)
+  Price: almost none as seeds inside one call (the baseline's B2). True side-by-side
+  streams cost two or more wakes; keep those for when the mixing itself is the question.
+  Buys: novelty, difference.
   Kin:
     - Dialogue as David Bohm described it (On Dialogue, 1996): suspending assumptions together.
     - Arthur Koestler's "bisociation" (The Act of Creation, 1964): two frames meeting.
@@ -136,6 +153,8 @@ NARRATIVE / TRADITIONAL (§20, §22, §26)
   Knows by story, norms, witnessing, the practice of paths.
   Produces: continuity and orientation across time.
   Image: the story at the fire: what survives a hundred tellings. (IMAGES, part 1)
+  Price: low. One telling per run. The full record is kept on disk, which costs nothing,
+  and read only by entry number when needed. Buys: continuity, orientation.
   Kin:
     - Stigmergy (Pierre-Paul Grassé, 1959, studying termites): coordination through traces left
       in a shared medium.
@@ -152,6 +171,9 @@ ORDERED, CONSENSUAL (§17, §23, §26)
   Knows by turn-taking, triage, and decisions that narrow the options.
   Produces: allocation, decisions, completion.
   Image: the loom: warp held by agreement so the weft is free to move. (IMAGES, part 1)
+  Price: low for one round of objections from cheap voices; high for full consent rounds,
+  which are kept for decisions that affect people. Buys: decisions, and the protections
+  objection adds.
   Kin:
     - Consent decision-making in sociocracy: "no objection" rather than "everyone agrees", with an
       objection treated as information, and "good enough for now, safe enough to try".
@@ -166,6 +188,8 @@ FRACTAL (§21)
   Knows by many domains focused in parallel, converging in a crisis (the Atlas's organ metaphor).
   Produces: attention across the whole field at once.
   Image: the watershed: every valley drains into a larger one, and rain anywhere finds the sea. (IMAGES, part 1)
+  Price: more wakes, but much less reading in each. It pays only when the work outgrows one
+  context. Buys: scale, attention across the whole.
   Kin:
     - Stafford Beer's Viable System Model (Brain of the Firm, 1972): recursive, autonomous parts.
     - W. Ross Ashby's law of requisite variety (1956).
@@ -181,6 +205,8 @@ REPARATIVE (§15, §16)
   Knows by first-person accounts of harm, widening from the pair to a go-between to the field.
   Produces: restored relationship, shared moral understanding.
   Image: kintsugi: repair that shows its seams in gold. (IMAGES, part 1)
+  Price: low for record checks by a cheap model; zero for repair until someone calls it.
+  Buys: trust, protection, and trust back after harm.
   Kin:
     - Restorative justice (Howard Zehr, Changing Lenses, 1990).
     - Restorative Circles (Dominic Barter, Brazil).
@@ -196,6 +222,7 @@ LUDIC / IMAGINATIVE (§18)
   Knows by shared pretend: wonder, ask what if, then try.
   Produces: possible futures.
   Image: "let's say the floor is lava": rules made while playing, and a bell that brings everyone back. (IMAGES, part 1)
+  Price: almost none. Wonder lines inside one seeded call. Buys: possibility.
   Kin:
     - Johan Huizinga, Homo Ludens (1938), and the "magic circle" of play.
     - Roger Caillois, Man, Play and Games (1958).
@@ -212,6 +239,81 @@ existing ones.
 
 Not types (from the reading): consent and reciprocity, which are conditions every type meets
 (Maxims 1, 2), and harmony, which is an outcome (§14).
+
+
+The economics of signal
+-----------------------
+Signal is never free. It has layers, and each has its own scarce currency:
+
+  compute        tokens and energy        noise: effort spent before anyone says anything
+  attention      what actually gets read  noise: records too long to read
+  capacity       readiness to act; for    noise: strain, conscription
+                 an agent, its context
+  time           the clock, waiting       noise: rushing, or stalling
+  memory         what is kept, and its    noise: hoarding; the chill of a permanent record
+                 upkeep
+  trust          confidence built over    noise: checking everything; trust spent by a
+                 many interactions               counterfeit
+  distribution   who receives signal and  noise: starving some, flooding others
+                 resources
+  legitimacy     standing: consent,       noise: decisions no one owns
+                 acceptance by those
+                 affected
+
+The layers trade at exchange rates. R2's field turned tokens into trust and protection,
+through objection. The single prompt in the baseline saved tokens and produced no trust or
+legitimacy at all. Priced only in tokens, and judged only by what one call can make,
+coordination will always look like overhead. Whether it is overhead in the other currencies is
+an open question. ("Economy" comes from the Greek oikonomia, managing a household, which suits
+the Atlas better than markets do: care of a shared home. And Herbert Simon, 1971: "a wealth of
+information creates a poverty of attention.")
+
+In this setting tokens are the binding constraint, so they are the currency everything is paid
+in, and every other layer is something bought with them. Two kinds of thing follow:
+
+  Floors      never traded away: consent (a check-in, "pass", leaving honoured), every entry
+              signed by its author, dissent kept in each voice's words, a repair door. Each
+              costs a sentence or two inside a wake that's happening anyway.
+  Dials       turned up only when a layer needs it: how independent the voices are, how many
+              objections, how deep the record, which model, how big the field.
+
+The ladder. Start at the top and climb only when a layer's need isn't met, saying which layer
+each step pays for:
+
+  fallow (candidate)     not waking anyone      none            capacity, rest
+  releasing (candidate)  entries fade unless    saves tokens    room; the reading stays small
+                         cited
+  declarative            a line in every wake   ~0              who can do what
+  ludic, synthetic,      lenses, wonder and a   ~0              novelty, difference
+  braided (candidate)    counter-seed in one
+                         seeded call
+  aggregative            sealed answers from    low             truth, checkability
+                         cheap models
+  discerning,            record checks by a     low, or zero    trust, protection
+  reparative             cheap model; repair    until called
+                         when called
+  ordered-consensual     one objection round,   low             a decision, with protections
+                         cheap voices
+  resonant               a maker and a critic   moderate        quality for making
+  fractal, neighbourly   split the work; read   more wakes,     scale
+  (candidate)            less each              less reading
+  distributive           work routed to the     saves tokens    the right voice for each job
+  (candidate)            cheapest capable voice
+  full circle            many voices, every     high            legitimacy, and only with
+                         step                                   real people in it
+
+Under a token budget, the candidates fallow, releasing and distributive stop being poetic
+extras: they are the types that make room. That is the strongest case yet for adding them.
+
+The images turn out to describe cost shapes (IMAGES): the rope's two-hand-off overlap gives a
+fixed reading cost per wake; ants keep the board small by decay; the murmuration's reading grows
+in a straight line, where a circle's grows with the square of the field; the bees' quorum stops
+early.
+
+A caution (Goodhart's law: when a measure becomes the target, it stops measuring well). A swarm
+tuned only for tokens drifts toward the single prompt, and for most work that is correct. The
+floors, and "when not to swarm" in CARRY-FORWARD, exist so the cheap path stays a choice made
+knowingly, not the only thing that survives.
 
 
 Shadows
@@ -314,6 +416,7 @@ Where this differs from the reading
     settings where it might be fair.
   - The four-part test is a tool here, applied by a field to itself, not a gate.
   - Difference kept is added as a fifth thing to watch.
+  - Token cost is treated as this setting's binding constraint, and each type is priced in it.
 
 
 Open questions
@@ -331,6 +434,8 @@ Added:
   - What does a field know if it chooses to keep no record of how it came to know it?
   - Can a shadow be tried without becoming a habit?
   - Which of these types can a single model hold alone, by voicing lenses, and which need many?
+  - Should cost sit beside emergence as an axis, or replace it, where tokens are the constraint?
+  - Are fallow, releasing and distributive types, or the economy every type runs inside?
 
 
 Gratitude
