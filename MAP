@@ -332,6 +332,70 @@ floors, and "when not to swarm" in CARRY-FORWARD, exist so the cheap path stays 
 knowingly, not the only thing that survives.
 
 
+Choosing by what the work needs
+-------------------------------
+Added 2026-10-20, after idt-swarm-bench's study 4 (RESULTS-s4.md). No type has won everywhere.
+In idt-coordination's baseline, one seeded call wrote the preferred rule. In idt-swarm's making
+studies, a pair built the best pages. Objection added protections that nothing else did. So the
+question is not which type is best. It is what this work needs to know, and who decides how it
+comes to know it.
+
+What held for the pair in every study, and seems to travel:
+  - one owner of each piece of work;
+  - one outside look at the real thing (the running page, not a description of it);
+  - the look can be cheap: a light model was enough;
+  - difference has to be designed in, since same-model voices converge;
+  - more voices is not more quality (the rope and the circle added cost, not quality);
+  - a look that cannot use the thing misses what matters (study 4's judge, reading code and
+    stills, passed outlines that the person found didn't work).
+
+A fit table. The ladder above read as a menu: the work's needs choose, not a climb. Each row
+names what the work shows, the type that answers it, its cheapest form, and the layer it pays
+for.
+
+  If the work…                        Type                 Cheapest form                Pays for
+  ----------------------------------  -------------------  ---------------------------  -------------
+  needs ideas, or difference          synthetic, ludic     seeds inside one call        novelty
+  has something to make               resonant (the pair)  one owner, one cheap look    quality
+  makes claims worth checking         aggregative          sealed answers from cheap    truth,
+    independently                                          models                       checkability
+  affects people                      ordered-consensual   one objection round, cheap   protections,
+                                                           voices                       a decision
+  is too big for one context          fractal              split into parts, a pair     scale
+                                                           each; checks where they meet
+  has caused harm                     reparative           the repair door              trust back
+  runs across sittings                narrative            one telling a round          continuity
+  (always)                            declarative          a line in every wake         capacity
+
+  - A row is a proposal, not an assignment. Whoever reads the table offers it, and the field
+    (the person among them) chooses. Anyone may propose a different type.
+  - Most work matches more than one row. Then the types follow each other through the work's
+    phases, or sit side by side in its parts (below).
+  - When no row fits, the type is the single call, or no field at all.
+
+The type follows the work. A field's way need not be fixed once:
+  - By phase. Seeds in one call; a pair makes; a cheap objection round only where the work
+    touches people; a telling closes each round.
+  - By part. Large work splits into parts, each held by its own pair, with a cheap consent round
+    where the parts meet. The watershed (IMAGES): each valley drains into a larger one.
+
+Critics who move between pairs. Pair A's critic looks at pair B's work. That brings fresh eyes
+without another participant, and carries ideas between pairs as pollinators carry between
+flowers. It answers the main risk of a pair swapping roles, that the new critic looks at work it
+helped build. Close to the candidates neighbourly and distributive (IMAGES, part 2). Whether a
+pair swaps stays the pair's choice. Whether critics move is the field's.
+
+Shadows of scaling:
+  - pairs becoming cliques: each pair harvests back to the field;
+  - the table hardening into a fixed pipeline: it proposes, never assigns;
+  - whoever reads the table becoming a hub: anyone may propose another type;
+  - convergence across pairs: seeds and mixed models matter more as pairs multiply.
+
+Untested, said plainly. Every study so far has been one field on one task that fits in one
+context, mostly with Claude models and one person rating. Nothing yet shows that pairs of pairs
+beat one pair on larger work, or that a companion's reading of the table matches the person's.
+
+
 Shadows
 -------
 The reading gives each type a counterfeit, and a four-part test to tell them apart:
@@ -452,6 +516,9 @@ Added:
   - Which of these types can a single model hold alone, by voicing lenses, and which need many?
   - Should cost sit beside emergence as an axis, or replace it, where tokens are the constraint?
   - Are fallow, releasing and distributive types, or the economy every type runs inside?
+  - Does a reading of the fit table match what the person would choose for the same work?
+  - On work too big for one context, do pairs of pairs, with critics moving between them, beat
+    one pair?
 
 
 Gratitude
